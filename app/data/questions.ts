@@ -23,7 +23,7 @@ let catalogRequest: Promise<QuestionSummary[]> | null = null
 let searchIndexRequest: Promise<Map<string, string>> | null = null
 
 async function fetchJson<T>(path: string): Promise<T> {
-  const response = await fetch(path, {
+  const response = await fetch(publicPath(path), {
     headers: { accept: 'application/json' }
   })
 

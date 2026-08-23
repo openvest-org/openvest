@@ -42,5 +42,12 @@ export default defineNuxtConfig({
         braceStyle: '1tbs'
       }
     }
+  },
+
+  icon: {
+    provider: 'none',
+    clientBundle: {
+      scan: true
+    }
   }
 })

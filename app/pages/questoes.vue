@@ -394,7 +394,7 @@ function resultLabel(question: LoadedQuestion) {
               <img
                 v-for="media in stimulus.media"
                 :key="media.id"
-                :src="media.path"
+                :src="publicPath(media.path)"
                 :alt="media.alt"
                 width="560"
                 loading="lazy"
@@ -417,7 +417,7 @@ function resultLabel(question: LoadedQuestion) {
               variant="subtle"
             >
               <img
-                :src="media.path"
+                :src="publicPath(media.path)"
                 :alt="media.alt"
                 width="560"
                 loading="lazy"

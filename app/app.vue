@@ -1,10 +1,12 @@
 <script setup lang="ts">
+const siteUrl = useRuntimeConfig().public.siteUrl
+
 useHead({
   meta: [
     { name: 'viewport', content: 'width=device-width, initial-scale=1' }
   ],
   link: [
-    { rel: 'icon', href: '/favicon.ico' }
+    { rel: 'icon', href: publicPath('/favicon.ico') }
   ],
   htmlAttrs: {
     lang: 'pt-BR'
@@ -13,8 +15,7 @@ useHead({
 
 const title = 'OpenVest'
 const description = 'Conteúdos e ferramentas gratuitas e de código aberto para quem se prepara para os vestibulares brasileiros.'
-const siteUrl = useRuntimeConfig().public.siteUrl
-const socialImage = new URL('/og.png', siteUrl).toString()
+const socialImage = new URL(publicPath('/og.png'), siteUrl).toString()
 const navigation = [
   { label: 'Início', icon: 'i-lucide-house', to: '/' },
   { label: 'Questões', icon: 'i-lucide-list-checks', to: '/questoes' },
@@ -92,11 +93,23 @@ useSeoMeta({
       </template>
 
       <template #right>
-        <UBadge
-          :label="String(new Date().getFullYear())"
-          color="neutral"
-          variant="soft"
-        />
+        <div class="flex items-center gap-2">
+          <UButton
+            label="GitHub"
+            icon="i-lucide-github"
+            to="https://github.com/openvest-org/openvest"
+            target="_blank"
+            rel="noopener noreferrer"
+            color="neutral"
+            variant="ghost"
+          />
+
+          <UBadge
+            :label="String(new Date().getFullYear())"
+            color="neutral"
+            variant="soft"
+          />
+        </div>
       </template>
     </UFooter>
 
