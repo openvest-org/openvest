@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q078",
+  "area": "ciencias-humanas",
+  "statement": "O princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte formulação teórica:",
+  "supportText": "A regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gostaria de ser tratado”, é um dos princípios morais mais onipresentes. A noção subjacente, que apela para o senso ético mais básico, se expressa de uma forma ou de outra em praticamente todas as tradições religiosas, e poucos filósofos morais deixaram de invocar a regra ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Doutrina teleológica."
+    },
+    {
+      "id": "B",
+      "text": "Imperativo categórico."
+    },
+    {
+      "id": "C",
+      "text": "Pensamento utilitarista."
+    },
+    {
+      "id": "D",
+      "text": "Secularização inautêntica."
+    },
+    {
+      "id": "E",
+      "text": "Raciocínio consequencialista."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "DUPRÉ, B. 50 grandes ideias da humanidade. São Paulo: Planeta do Brasil, 2016."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 78,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

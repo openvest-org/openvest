@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q112",
+  "area": "ciencias-da-natureza",
+  "statement": "Esse alimento contribui para diminuir a carência associada a qual doença?",
+  "supportText": "Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Hemofilia."
+    },
+    {
+      "id": "B",
+      "text": "Escorbuto."
+    },
+    {
+      "id": "C",
+      "text": "Raquitismo."
+    },
+    {
+      "id": "D",
+      "text": "Cegueira noturna."
+    },
+    {
+      "id": "E",
+      "text": "Anemia perniciosa."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "BORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia.",
+    "Viçosa: UFV, 2008 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 112,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

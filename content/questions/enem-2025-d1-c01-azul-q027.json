@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q027",
+  "area": "linguagens",
+  "statement": "Esse texto apresenta as diferenças entre briga e luta, na medida em que aponta o(a)",
+  "supportText": "A diferença entre briga e luta é a existência de juízes e medalhas? A briga desumaniza o outro e pode até matá-lo. Já na luta, as intenções do outro são consideradas sua proposta combativa e suas habilidades, enfim, sua meta de vencer. Na luta, o desenvolvimento passa pelo contato com a agressividade, a raiva, a frustração, o orgulho, a determinação e a fraqueza. Daí também a luta não ser apenas com o outro, mas consigo mesmo, num combate contra as próprias limitações, sobretudo, contra o próprio orgulho.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "superação pessoal na luta."
+    },
+    {
+      "id": "B",
+      "text": "violência evidenciada na luta."
+    },
+    {
+      "id": "C",
+      "text": "predomínio de regras na briga."
+    },
+    {
+      "id": "D",
+      "text": "desafio externo presente na luta."
+    },
+    {
+      "id": "E",
+      "text": "habilidade desenvolvida na briga."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "BARREIRA, C. A briga desumaniza. A luta, não.",
+    "O Estado de S. Paulo, 22 ago. 2010 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 27,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

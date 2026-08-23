@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q032",
+  "area": "linguagens",
+  "statement": "Nesse trecho, o drama do declínio físico da narradora transmite uma sensibilidade lírica centrada na",
+  "supportText": "Marília acorda Tomo café em golinhos para não queimar meus lábios ressequidos. Como pão em pedacinhos para não engasgar com um farelo mais duro. Marília come também, mas olha o tempo todo para baixo. Parece que tem um acanhamento novo entre a gente. Termino. Olho mais uma vez pela janela. O dia está bom. Quero caminhar pelo pátio. Marília levanta, pega o andador e põe ao lado da cama. Ela sabe que eu quero levantar sozinha, e levanto. O lance de escadas, apesar de pequeno, ainda me causa problemas, mas não quero um elevador na casa e não vou tolerar descer uma rampa de cadeira de rodas. Marília abre a porta e saímos para a manhã. O dia está mais fresco do que eu imaginava. Ela pega uma manta de tricô que temos desde não sei quando e põe sobre as minhas costas. Ela aperta meus ombros com muita força, porque mesmo depois de todos esses anos, não descobriu a medida certa do carinho. Eu gosto. Porque entendo que naquele ato, naquela força está o nosso carinho.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "necessidade de fazer adaptações na casa."
+    },
+    {
+      "id": "B",
+      "text": "atmosfera de afeto fortalecido pelo convívio."
+    },
+    {
+      "id": "C",
+      "text": "condição de dependência de outras pessoas."
+    },
+    {
+      "id": "D",
+      "text": "determinação de manter a regularidade da rotina."
+    },
+    {
+      "id": "E",
+      "text": "aceitação das restrições de mobilidade da personagem."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "POLESSO, N. B. Amora. Porto Alegre: Não Editora, 2015."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 32,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

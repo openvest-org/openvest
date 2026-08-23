@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q112",
+  "area": "ciencias-da-natureza",
+  "statement": "Qual heredograma foi recebido pelo casal?",
+  "supportText": "Um dos exemplos mais conhecidos de herança recessiva ligada ao cromossomo X é o daltonismo. Como em qualquer distúrbio recessivo ligado ao cromossomo X, existem muito mais homens apresentando o fenótipo com esse tipo de daltonismo do que mulheres. Um casal formado por um homem não daltônico e por uma mulher gestante também não daltônica, mas portadora do gene recessivo para esse tipo de daltonismo, está esperando um bebê. Em uma das consultas de pré-natal, o casal recebeu um heredograma que contém todas as possibilidades de genótipo para esse bebê. Considere a legenda: Mulher heterozigota portadora do gene para daltonismo Mulher não daltônica Mulher daltônica Homem não daltônico Homem daltônico",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    },
+    {
+      "id": "E",
+      "text": ""
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "GRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro:",
+    "Guanabara Koogan, 2016 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q112-m01",
+      "kind": "vector",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q112/media-01.png",
+      "alt": "Conteúdo visual da questão 112 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q112-m02",
+      "kind": "vector",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q112/media-02.png",
+      "alt": "Conteúdo visual da questão 112 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q112-m03",
+      "kind": "vector",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q112/media-03.png",
+      "alt": "Conteúdo visual da questão 112 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q112-m04",
+      "kind": "vector",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q112/media-04.png",
+      "alt": "Conteúdo visual da questão 112 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q112-m05",
+      "kind": "vector",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q112/media-05.png",
+      "alt": "Conteúdo visual da questão 112 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 112,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

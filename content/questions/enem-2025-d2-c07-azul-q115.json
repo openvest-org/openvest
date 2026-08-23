@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q115",
+  "area": "ciencias-da-natureza",
+  "statement": "O frasco contendo cânfora apresenta a fórmula molecular:",
+  "supportText": "Em uma aula prática de química orgânica, um professor identificou os frascos de várias substâncias apenas por suas fórmulas moleculares. Em seguida, apresentou a representação tridimensional da molécula do borneol, um álcool secundário, conforme a figura. Ele explicou que, quando oxidado, o borneol dá origem à cânfora, uma cetona usada desde a Antiguidade como incenso e no preparo de medicamentos. Finalmente, o professor solicitou que os alunos identificassem o frasco contendo a substância cânfora. Borneol",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "C9H16O"
+    },
+    {
+      "id": "B",
+      "text": "C9H17O"
+    },
+    {
+      "id": "C",
+      "text": "C10H16O"
+    },
+    {
+      "id": "D",
+      "text": "C10H16O2"
+    },
+    {
+      "id": "E",
+      "text": "C10H18O2"
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "SANTOS, A. P. B. et al. Oxidação do borneol à cânfora com água sanitária:",
+    "um experimento simples de baixo custo e limpo.",
+    "Química Nova, n. 6, 2009 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q115-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q115/media-01.png",
+      "alt": "Conteúdo visual da questão 115 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 115,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

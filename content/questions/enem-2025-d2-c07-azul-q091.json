@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q091",
+  "area": "ciencias-da-natureza",
+  "statement": "Qual característica do carvão ativado explica a sua maior eficiência nesse processo?",
+  "supportText": "A filtração em carvão é uma das mais antigas formas de purificação de água. O carvão ativado, diferentemente do carvão comum, é útil para ser empregado na remoção de material orgânico, cloro e outros contaminantes. Essa capacidade decorre de suas propriedades de adsorção. A origem do material utilizado para produzir o carvão ativado pode influenciar sua porosidade e, consequentemente, interferir na capacidade do material de remover impurezas. Na figura, é ilustrada esquematicamente a diferença entre as estruturas físicas do carvão comum e do carvão ativado.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Massa."
+    },
+    {
+      "id": "B",
+      "text": "Dureza."
+    },
+    {
+      "id": "C",
+      "text": "Densidade."
+    },
+    {
+      "id": "D",
+      "text": "Superfície."
+    },
+    {
+      "id": "E",
+      "text": "Condutividade."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "CORRÊA, M. A. Cosmetologia: ciência e técnica.",
+    "São Paulo: Medfarma, 2012 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q091-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q091/media-01.png",
+      "alt": "Conteúdo visual da questão 91 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 91,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

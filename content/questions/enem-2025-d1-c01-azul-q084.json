@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q084",
+  "area": "ciencias-humanas",
+  "statement": "Em relação à causa ambiental, o uso da tecnologia mencionada indica a",
+  "supportText": "Com o objetivo de auxiliar a prevenção e o combate a incêndios no Cerrado, o Centro de Sensoriamento Remoto da Universidade Federal de Minas Gerais (UFMG) desenvolveu um modelo computacional capaz de prever o comportamento do fogo. Essa tecnologia integra o projeto Monitoramento do Cerrado, do qual também participa o Instituto Nacional de Pesquisas Espaciais (Inpe). O instituto produz e processa dados de satélite sobre focos de calor para determinar a localização de incêndios no bioma. Esses focos são o ponto de ignição para o modelo desenvolvido na UFMG: com base em outros dados, como relevo, ventos, umidade e biomassa seca, a ferramenta estima as áreas com maior risco de incêndio e prevê a intensidade e a direção de propagação do fogo no Cerrado brasileiro.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "influência da produção orgânica."
+    },
+    {
+      "id": "B",
+      "text": "relevância da infraestrutura viária."
+    },
+    {
+      "id": "C",
+      "text": "significância da cosmologia nativa."
+    },
+    {
+      "id": "D",
+      "text": "importância de pesquisas acadêmicas."
+    },
+    {
+      "id": "E",
+      "text": "interferência de interesses estrangeiros."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "LAGES, L. Tecnologia antiqueimada. Revista Minas Faz Ciência,",
+    "n. 84, dez. 2020 – jan.-fev. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 84,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

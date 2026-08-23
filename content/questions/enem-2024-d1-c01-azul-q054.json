@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q054",
+  "area": "ciencias-humanas",
+  "statement": "Com base na reflexão suscitada no texto, o preconceito de identidade é responsável por um tipo de injustiça",
+  "supportText": "Os grupos dominantes são beneficiados em termos de credibilidade e podem, com isso, controlar falas de membros de outros grupos, descredibilizando seus testemunhos com base em concepções compartilhadas de preconceito de identidade (gênero e raça). Algumas formas de preconceito tornam as declarações das pessoas menos importantes devido ao seu pertencimento a determinado grupo social. Assim, um falante recebe menos credibilidade devido ao preconceito do ouvinte.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "estética, que normatiza os padrões corporais."
+    },
+    {
+      "id": "B",
+      "text": "sensorial, que privilegia as habilidades visuais."
+    },
+    {
+      "id": "C",
+      "text": "afetiva, que impede as expressões emocionais."
+    },
+    {
+      "id": "D",
+      "text": "epistêmica, que prejudica as trocas informacionais."
+    },
+    {
+      "id": "E",
+      "text": "econômica, que perpetua as desigualdades materiais."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "KUHNEN, T. Resenha de The Power and Ethics of Knowing,",
+    "de Miranda Fricker. Revista Princípios, n. 33, 2013."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 54,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

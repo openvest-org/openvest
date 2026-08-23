@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q146",
+  "area": "matematica",
+  "statement": "Qual é a diferença, em segundo, entre a marca de referência e a marca estabelecida por Usain Bolt em 2009?",
+  "supportText": "No atletismo, um grande desafio da prova de 100 metros rasos é a sua conclusão num tempo abaixo da marca de referência dos 10,00 segundos. Vários atletas já alcançaram esse feito. Em 2009, o jamaicano Usain Bolt estabeleceu o recorde mundial masculino dessa prova, com o tempo de 9,58 segundos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "0,02"
+    },
+    {
+      "id": "B",
+      "text": "0,42"
+    },
+    {
+      "id": "C",
+      "text": "0,52"
+    },
+    {
+      "id": "D",
+      "text": "1,02"
+    },
+    {
+      "id": "E",
+      "text": "1,42"
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 146,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

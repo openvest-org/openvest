@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q029",
+  "area": "linguagens",
+  "statement": "Das reflexões do narrador, apreende-se uma perspectiva que associa a adoção",
+  "supportText": "Meu irmão é filho adotivo. Há uma tecnicidade no termo, filho adotivo, que contribui para sua aceitação social. Há uma novidade que por um átimo o absolve das mazelas do passado, que parece limpá-lo de seus sentidos indesejáveis. Digo que meu irmão é filho adotivo e as pessoas tendem a assentir com solenidade, disfarçando qualquer pesar, baixando os olhos como se não sentissem nenhuma ânsia de perguntar mais nada. Talvez compartilhem da minha inquietude, talvez de fato se esqueçam do assunto no próximo gole ou na próxima garfada. Se a inquietude continua a reverberar em mim, é porque ouço a frase também de maneira parcial — meu irmão é filho — e é difícil aceitar que ela não termine com a verdade tautológica habitual: meu irmão é filho dos meus pais. Estou entoando que meu irmão é filho e uma interrogação sempre me salta aos lábios: filho de quem?",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "a representações sociais estigmatizadas da parentalidade."
+    },
+    {
+      "id": "B",
+      "text": "à necessidade de aprovação por parte de desconhecidos."
+    },
+    {
+      "id": "C",
+      "text": "ao julgamento velado de membros do núcleo familiar."
+    },
+    {
+      "id": "D",
+      "text": "ao conflito entre o termo técnico e o vínculo afetivo."
+    },
+    {
+      "id": "E",
+      "text": "a inquietações próprias das relações entre irmãos."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "FUCKS, J. A resistência. São Paulo: Cia. das Letras, 2015."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 29,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

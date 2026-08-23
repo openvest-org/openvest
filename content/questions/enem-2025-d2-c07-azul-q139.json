@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q139",
+  "area": "matematica",
+  "statement": "Nessas condições, a quantidade mínima necessária de policiais a serem alocados ao longo dessa ciclovia para torná-la protegida é",
+  "supportText": "No entorno de uma lagoa circular, cujo raio mede 1 km, há um uma ciclovia. Devido aos frequentes roubos de bicicleta, a prefeitura planeja alocar policiais em posições estratégicas para patrulhar essa ciclovia, de forma a torná-la totalmente protegida. Um ponto da ciclovia é considerado protegido se houver pelo menos um policial a, no máximo, 200 m de distância daquele ponto, posicionado sobre a ciclovia. A figura ilustra um ponto P sobre a ciclovia, que estará protegido se houver pelo menos um policial posicionado sobre a região de cor cinza escuro. Desconsidere a largura da pista da ciclovia e utilize 3 como aproximação para p.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "4."
+    },
+    {
+      "id": "B",
+      "text": "8."
+    },
+    {
+      "id": "C",
+      "text": "15."
+    },
+    {
+      "id": "D",
+      "text": "30."
+    },
+    {
+      "id": "E",
+      "text": "60."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q139-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q139/media-01.png",
+      "alt": "Conteúdo visual da questão 139 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 139,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

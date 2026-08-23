@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q037",
+  "area": "linguagens",
+  "statement": "A comparação entre os textos I e II indica que o(a)",
+  "supportText": "TEXTO I Os Doze Trabalhos de Hércules Hércules é uma figura lendária da mitologia greco-romana. Ele é frequentemente retratado como um herói de força sobre-humana e coragem, filho de Zeus, o rei dos deuses, e Alcmena, uma mulher mortal. O episódio mais conhecido de Hércules é a realização dos Doze Trabalhos. Esses trabalhos são impostos a ele como uma forma de expiação pelos crimes cometidos durante um acesso de loucura, causado pela deusa Hera, esposa de Zeus. Os Doze Trabalhos são: matar o Leão de Nemeia; matar a Hidra de Lerna; capturar a corça de Cerineia; capturar o javali de Erimanto; limpar os estábulos de Áugias; matar as aves do lago Estínfalo; matar o touro de Creta; capturar os cavalos de Diomedes; roubar o cinturão de Hipólita, a rainha das Amazonas; capturar o gado de Gerião; capturar os pomos de ouro do Jardim das Hespérides; capturar o cão de Hades, Cérbero. TEXTO II Os Doze Trabalhos O que lhe faltava de estudo lhe sobrava de boa vontade e inteligência. No escritório improvisado na salinha da casa, anunciava seus serviços de bombeiro hidráulico e eletricista. Nas horas vagas entregava panfletos e lavava carros. Quando a cidade fervia com alguma festa, postava-se à entrada vendendo cerveja. Se fosse algum show infantil, cocadas. Aos sábados, era pedreiro e, aos domingos, conservava um jardim de uma mansão, além de tratar da piscina e dos cachorros. Nas férias, abrigava-se na fazenda dos donos da mansão, onde trabalhava como caseiro e motorista. Seu nome: João Antonio da Silva. Mas pode chamar de Hércules.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "intertextualidade com o mito apresentado no Texto I é um recurso presente no Texto II."
+    },
+    {
+      "id": "B",
+      "text": "narração de fatos do Texto II sintetiza os acontecimentos retratados no Texto I."
+    },
+    {
+      "id": "C",
+      "text": "vocabulário empregado no Texto II é ancorado em conhecimento literário."
+    },
+    {
+      "id": "D",
+      "text": "tema do trabalho como reparação é abordado em ambos os textos."
+    },
+    {
+      "id": "E",
+      "text": "marcação temporal no passado predomina em ambos os textos."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 37,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

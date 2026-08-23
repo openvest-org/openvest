@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q039",
+  "area": "linguagens",
+  "statement": "Ao abordar a trajetória dos meios de comunicação, esse texto propõe uma reflexão sobre a",
+  "supportText": "Do rádio ao podcast Desde a disseminação do rádio no Brasil, entre as décadas de 1920 e 1930, principalmente no governo de Getúlio Vargas, as pessoas passaram a dedicar uma parte de seu dia para escutar notícias, novelas, músicas e eventos esportivos em aparelhos de som. O radiojornalismo, por sua vez, teve seu pontapé inicial durante a Revolução Constitucionalista (1932) e se desenvolveu durante a Segunda Guerra Mundial (1939-1945). Quando a TV surgiu, esperava-se que o rádio fosse totalmente substituído, porém ele se manteve em alta, pois o sinal de televisão não cobria todos os lugares, diferentemente do rádio. Com o surgimento da internet, dos smartphones e de outros dispositivos móveis, o rádio foi incorporado a essas novas tecnologias até o desenvolvimento da web rádio e do podcast, mostrando-se um meio de comunicação versátil e democrático na área jornalística. Para um pesquisador da Universidade Federal de Uberlândia (UFU), o rádio não se tornou obsoleto, visto que não deixou de ser consumido e se reinventou com o tempo. “O podcast é uma continuação, uma evolução natural do rádio”, opina.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "tecnologia digital e seus desdobramentos no desenvolvimento da televisão."
+    },
+    {
+      "id": "B",
+      "text": "evolução da tecnologia digital com o predomínio do podcast sobre o rádio."
+    },
+    {
+      "id": "C",
+      "text": "permanência do rádio e sua evolução por meio da tecnologia digital."
+    },
+    {
+      "id": "D",
+      "text": "influência da televisão sobre os programas de radiojornalismo."
+    },
+    {
+      "id": "E",
+      "text": "interferência da tecnologia digital nas interações humanas."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "ALVES, A.; ALVES, C. Disponível em: https://comunica.ufu.br. Acesso em: 19 abr. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 39,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

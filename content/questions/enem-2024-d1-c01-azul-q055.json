@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q055",
+  "area": "ciencias-humanas",
+  "statement": "Esse texto reforça uma concepção metafísica clássica que remete a um(a)",
+  "supportText": "A alma funciona no meu corpo de maneira maravilhosa. Nele se aloja, certamente, mas sabe bem dele escapar: escapa para ver as coisas através da janela dos meus olhos, escapa para sonhar quando durmo, para sobreviver quando morro. Minha alma durará muito tempo e mais que muito tempo, quando meu corpo vier a apodrecer. Viva minha alma! É meu corpo luminoso, purificado, virtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso, castrado, arredondado como uma bolha de sabão.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "pressuposto lógico."
+    },
+    {
+      "id": "B",
+      "text": "pensamento dicotômico."
+    },
+    {
+      "id": "C",
+      "text": "contemplação da natureza."
+    },
+    {
+      "id": "D",
+      "text": "raciocínio argumentativo."
+    },
+    {
+      "id": "E",
+      "text": "crítica à individualidade."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "FOUCAULT, M. O corpo utópico, as heterotopias.",
+    "São Paulo: Edições N-1, 2013."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 55,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

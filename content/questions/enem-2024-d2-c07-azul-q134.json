@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q134",
+  "area": "ciencias-da-natureza",
+  "statement": "O método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a",
+  "supportText": "A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "fitoestabilização, ficando o mercúrio disponível sob a superfície das raízes das plantas."
+    },
+    {
+      "id": "B",
+      "text": "fitovolatilização, permitindo a retirada do mercúrio por plantas e a sua transferência para uma forma volátil."
+    },
+    {
+      "id": "C",
+      "text": "fitodegradação, com a degradação do mercúrio promovida por enzimas, contidas nas raízes, formando espécies menos tóxicas."
+    },
+    {
+      "id": "D",
+      "text": "fitoestimulação, com a remoção do mercúrio pela ação de microrganismos presentes nas raízes que absorvem e imobilizam o metal."
+    },
+    {
+      "id": "E",
+      "text": "fitoextração, em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "LUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q134-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q134/media-01.png",
+      "alt": "Conteúdo visual da questão 134 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 134,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

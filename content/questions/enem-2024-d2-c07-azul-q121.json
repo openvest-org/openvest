@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q121",
+  "area": "ciencias-da-natureza",
+  "statement": "Qual vetor representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão?",
+  "supportText": "Na tirinha, Calvin se divertia em um balanço antes de soltar-se dele e cair ao chão. Em sua fala, ele demonstra ter imaginado que permaneceria em movimento circular. Porém, a força gravitacional, que permanece atuando no garoto, modifica a direção de sua velocidade, fazendo com que ele chegue ao chão da maneira ilustrada no último quadrinho.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    },
+    {
+      "id": "E",
+      "text": ""
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "WATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com.",
+    "Acesso em: 19 nov. 2021 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q121-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q121/media-01.png",
+      "alt": "Conteúdo visual da questão 121 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q121-m02",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q121/media-02.png",
+      "alt": "Conteúdo visual da questão 121 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q121-m03",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q121/media-03.png",
+      "alt": "Conteúdo visual da questão 121 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 121,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

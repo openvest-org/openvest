@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q127",
+  "area": "ciencias-da-natureza",
+  "statement": "O gráfico que representa a situação descrita é:",
+  "supportText": "Nos processos de transformação e reciclagem de recursos naturais, as velocidades das reações químicas são estudadas pela cinética química. Uma reação A → B é realizada na presença e na ausência de uma enzima, com todas as demais condições permanecendo inalteradas. Considere que, no gráfico da variação de energia ao longo dessa reação, a linha contínua representa o avanço da reação na ausência da enzima, e a linha pontilhada, na presença da enzima.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": "￼"
+    },
+    {
+      "id": "E",
+      "text": ""
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q127-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q127/media-01.png",
+      "alt": "Conteúdo visual da questão 127 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q127-m02",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q127/media-02.png",
+      "alt": "Conteúdo visual da questão 127 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q127-m03",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q127/media-03.png",
+      "alt": "Conteúdo visual da questão 127 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q127-m04",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q127/media-04.png",
+      "alt": "Conteúdo visual da questão 127 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q127-m05",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q127/media-05.png",
+      "alt": "Conteúdo visual da questão 127 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 127,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q003-en",
+  "area": "linguagens",
+  "statement": "Nesse poema, de uma autora de ascendência indígena, o eu lírico ressalta a",
+  "supportText": "Remember the sky that you were born under, know each of the star’s stories. Remember the moon, know who she is. Remember the sun’s birth at dawn. [...] Remember your birth, how your mother struggled to give you form and breath [...] Remember the earth whose skin you are: red earth, black earth, yellow earth, white earth brown earth, we are earth. Remember the plants, trees, animal life who all have their tribes, their families, their histories, too [...] Remember you are all people and all people are you. Remember you are this universe and this universe is you. Remember all is in motion, is growing, is you.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "potência dos astros celestes."
+    },
+    {
+      "id": "B",
+      "text": "origem das plantas e dos animais."
+    },
+    {
+      "id": "C",
+      "text": "importância do apego à terra natal."
+    },
+    {
+      "id": "D",
+      "text": "relação entre seres humanos e natureza."
+    },
+    {
+      "id": "E",
+      "text": "conexão entre o tempo real e o tempo imaginário."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "HARJO, J. She Had Some Horses. Londres: W. Norton & Company, 1983 (fragmento)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 3,
+    "language": "en",
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

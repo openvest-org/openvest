@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q172",
+  "area": "matematica",
+  "statement": "O maior valor a ser escolhido para K é",
+  "supportText": "Um empresário utiliza máquinas cuja pressão interna P, em atmosfera, depende do tempo contínuo de utilização t, em hora, e de um parâmetro positivo K, que define o modelo da máquina, segundo a expressão: P = 4 ⋅ log[−K ⋅ (t + 1) ⋅ (t − 19)] O fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento. O empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro K, atendendo à recomendação do fabricante.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "100,5"
+    },
+    {
+      "id": "B",
+      "text": "108 2 5,"
+    },
+    {
+      "id": "C",
+      "text": "10 84 2 5,"
+    },
+    {
+      "id": "D",
+      "text": "10 99"
+    },
+    {
+      "id": "E",
+      "text": "25 × 10−2"
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 172,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

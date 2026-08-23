@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q113",
+  "area": "ciencias-da-natureza",
+  "statement": "Nessa situação, qual ponto da tela será atingido pelo feixe de elétrons?",
+  "supportText": "A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termiônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons. Na Figura 2, a carga negativa representa o feixe de elétrons que é acelerado e, posteriormente, atinge um ponto da tela. O campo elétrico na região B apresenta a seguinte configuração: Figura 2",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "4"
+    },
+    {
+      "id": "E",
+      "text": "5"
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Grupo de Reelaboração do Ensino de Física. Física 3:",
+    "eletromagnetismo. São Paulo: Edusp, 2000 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q113-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q113/media-01.png",
+      "alt": "Conteúdo visual da questão 113 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q113-m02",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q113/media-02.png",
+      "alt": "Conteúdo visual da questão 113 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 113,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q106",
+  "area": "ciencias-da-natureza",
+  "statement": "Em 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a mesma lógica, seriam, respectivamente:",
+  "supportText": "No início do século XX, as fórmulas das substâncias eram representadas de modo diferente do atual. A figura apresenta uma fotografia bem antiga (1909) que registra uma aula de química ministrada em um colégio em Santos (SP). Um olhar mais atento permite identificar como os compostos químicos eram representados. O nitrogênio era chamado de azoto e representado pelo símbolo Az. Vê-se na lousa a equação representativa da adição do oxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a formação de dióxido de nitrogênio (AzO2). Analogamente, o nitrato de sódio era representado por NaAzO3.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "HAzO3 e CaCl2"
+    },
+    {
+      "id": "B",
+      "text": "HAz3O e Ca2Cl"
+    },
+    {
+      "id": "C",
+      "text": "H3AzO4 e CaCl"
+    },
+    {
+      "id": "D",
+      "text": "HAz3O e KCl2"
+    },
+    {
+      "id": "E",
+      "text": "HAzO2 e KCl"
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "Disponível em: www.novomilenio.inf.br. Acesso em: 29 ago. 2014 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q106-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q106/media-01.png",
+      "alt": "Conteúdo visual da questão 106 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 106,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

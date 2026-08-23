@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q098",
+  "area": "ciencias-da-natureza",
+  "statement": "Ao longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o(a)",
+  "supportText": "Apesar de os animais representados no cladograma compartilharem um mesmo ancestral, eles se caracterizam por distintos padrões de reprodução ou de nutrição dos embriões e descendentes.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "aumento no número de descendentes por ninhada."
+    },
+    {
+      "id": "B",
+      "text": "mudança no tipo de fecundação de externa para interna."
+    },
+    {
+      "id": "C",
+      "text": "redução da versatilidade de reprodução, que se torna unicamente sexuada."
+    },
+    {
+      "id": "D",
+      "text": "desenvolvimento embrionário, que passa do meio aquático para o terrestre."
+    },
+    {
+      "id": "E",
+      "text": "diminuição da vesícula vitelínica, associada ao desenvolvimento da lactação."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "DIXSON, A. F. Mammalian Sexuality: The Act of Mating and the",
+    "Evolution of Reproduction. Disponível em: www.cambridge.org.",
+    "Acesso em: 2 jul. 2024 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q098-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q098/media-01.png",
+      "alt": "Conteúdo visual da questão 98 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 98,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

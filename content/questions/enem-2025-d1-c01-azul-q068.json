@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q068",
+  "area": "ciencias-humanas",
+  "statement": "A análise dos elementos presentes na fotografia permite identificar qual característica socioespacial?",
+  "supportText": "Salvador, capital do estado da Bahia.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Estagnação da especulação imobiliária."
+    },
+    {
+      "id": "B",
+      "text": "Conservação da arquitetura colonial."
+    },
+    {
+      "id": "C",
+      "text": "Implantação de moradias populares."
+    },
+    {
+      "id": "D",
+      "text": "Predomínio da atividade comercial."
+    },
+    {
+      "id": "E",
+      "text": "Processo de verticalização urbana."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Disponível em: https://mundoeducacao.uol.com.br.",
+    "Acesso em: 20 out. 2023."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q068-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q068/media-01.png",
+      "alt": "Conteúdo visual da questão 68 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 68,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

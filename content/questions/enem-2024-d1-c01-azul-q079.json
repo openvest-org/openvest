@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q079",
+  "area": "ciencias-humanas",
+  "statement": "A eliminação, para os refugiados, do tipo de fronteira descrita no texto necessita de políticas públicas de",
+  "supportText": "O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torno da fronteira erguida entre inclusão e exclusão, admissão e rejeição, desejáveis e indesejáveis; ao mesmo tempo, enseja vulnerabilidade, indefinição e incerteza a esses migrantes internacionais forçados.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "planejamento familiar."
+    },
+    {
+      "id": "B",
+      "text": "segregação territorial."
+    },
+    {
+      "id": "C",
+      "text": "homogeneização cultural."
+    },
+    {
+      "id": "D",
+      "text": "diferenciação étnico-racial."
+    },
+    {
+      "id": "E",
+      "text": "integração socioeconômica."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "MOREIRA, J. B. Refugiados no Brasil. REMHU, n. 43, jul.-dez. 2014."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 79,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

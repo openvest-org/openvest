@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q146",
+  "area": "matematica",
+  "statement": "Qual será a medida, em metro, do maior lado do galinheiro?",
+  "supportText": "Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos lados de comprimento L metro, será utilizada uma tela cujo metro linear custa R$ 20,00, enquanto, nos outros dois lados, uma que custa R$ 15,00. O fazendeiro quer gastar, no máximo, R$ 6 000,00 na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "85"
+    },
+    {
+      "id": "B",
+      "text": "100"
+    },
+    {
+      "id": "C",
+      "text": "175"
+    },
+    {
+      "id": "D",
+      "text": "200"
+    },
+    {
+      "id": "E",
+      "text": "350"
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 146,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

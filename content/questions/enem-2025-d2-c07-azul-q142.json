@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q142",
+  "area": "matematica",
+  "statement": "A velocidade de referência, em megabyte por segundo, a ser adotada por essa empresa é",
+  "supportText": "Uma empresa de tecnologia vai padronizar a velocidade de conexão de internet que oferece a seus clientes em dez cidades. A direção da empresa decide que seu novo padrão de velocidade de referência será a mediana dos valores das velocidades de referência de conexões nessas dez cidades. Esses valores, em megabyte por segundo (MB/s), são apresentados no quadro. Cidades Velocidade de referência (MB/s) C1 390 C2 380 C3 320 C4 390 C5 340 C6 380 C7 390 C8 400 C9 350 C10 360",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "360."
+    },
+    {
+      "id": "B",
+      "text": "370."
+    },
+    {
+      "id": "C",
+      "text": "380."
+    },
+    {
+      "id": "D",
+      "text": "390."
+    },
+    {
+      "id": "E",
+      "text": "400."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 142,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

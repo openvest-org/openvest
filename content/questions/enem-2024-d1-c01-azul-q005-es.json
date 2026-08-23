@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q005-es",
+  "area": "linguagens",
+  "statement": "Nesse poema, o eu lírico representa a voz de um sobrevivente asteca que testemunha a",
+  "supportText": "Los últimos días del sitio de Tenochtitlán Y todo esto pasó con nosotros. Nosotros lo vimos, nosotros lo admiramos. Con esta lamentosa y triste suerte nos vimos angustiados. En los caminos yacen dardos rotos, los cabellos están esparcidos. Destechadas están las casas, enrojecidos tienen sus muros. Gusanos pululan por calles y plazas, y en las paredes están salpicados los sesos. Rojas están las aguas, están como teñidas, y cuando la bebimos, es como si bebiéramos agua de salitre.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "destruição da capital do Império Asteca pelos colonizadores espanhóis."
+    },
+    {
+      "id": "B",
+      "text": "degradação do meio ambiente no entorno da capital do Império Asteca."
+    },
+    {
+      "id": "C",
+      "text": "tristeza dos refugiados astecas ao deixarem a capital do Império rumo ao exílio."
+    },
+    {
+      "id": "D",
+      "text": "aflição dos astecas ao receberem os colonizadores espanhóis na capital do Império."
+    },
+    {
+      "id": "E",
+      "text": "resistência dos astecas às mudanças feitas pelos colonizadores espanhóis na capital do Império."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "Manuscrito anónimo de Tlatelolco, 1528. Disponível em:",
+    "www.biblioweb.tic.unam.mx. Acesso em: 13 out. 2021 (fragmento)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 5,
+    "language": "es",
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

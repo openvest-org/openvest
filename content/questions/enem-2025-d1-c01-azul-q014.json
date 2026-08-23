@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q014",
+  "area": "linguagens",
+  "statement": "Nesse cartaz publicitário, os recursos verbais e não verbais constroem um argumento que objetiva",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "divulgar a obra de Fernando Pessoa no Brasil."
+    },
+    {
+      "id": "B",
+      "text": "valorizar a realização de eventos literários no país."
+    },
+    {
+      "id": "C",
+      "text": "ressaltar o impacto da leitura na vida das pessoas."
+    },
+    {
+      "id": "D",
+      "text": "fomentar o turismo cultural na cidade de São Paulo."
+    },
+    {
+      "id": "E",
+      "text": "evidenciar a influência de Pessoa na literatura brasileira."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: www.publishnews.com.br. Acesso em: 19 set. 2024."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q014-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q014/media-01.png",
+      "alt": "Conteúdo visual da questão 14 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 14,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

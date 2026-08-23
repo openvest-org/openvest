@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q114",
+  "area": "ciencias-da-natureza",
+  "statement": "Esse fenômeno e a característica associada à voz da Mônica são, respectivamente,",
+  "supportText": "A tirinha ilustra um processo físico em que uma onda sonora, produzida pela Mônica, causa a quebra das taças de cristal. O fenômeno ondulatório que provoca a quebra das taças só é possível em razão de uma característica da voz produzida pela Mônica naquele momento, que, diferentemente do que sugere a tirinha, não está relacionada à sua intensidade.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "reflexão e comprimento de onda."
+    },
+    {
+      "id": "B",
+      "text": "ressonância e frequência."
+    },
+    {
+      "id": "C",
+      "text": "interferência e velocidade."
+    },
+    {
+      "id": "D",
+      "text": "ressonância e timbre."
+    },
+    {
+      "id": "E",
+      "text": "reflexão e amplitude."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: https://artedafisicapibid.blogspot.com.",
+    "Acesso em: 23 nov. 2021 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q114-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q114/media-01.png",
+      "alt": "Conteúdo visual da questão 114 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 114,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

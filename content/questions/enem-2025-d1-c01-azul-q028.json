@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q028",
+  "area": "linguagens",
+  "statement": "Nesse fragmento do poema, o sentimento de luto adquire contornos expressivos e é intensificado pela",
+  "supportText": "Pequenino morto Tange o sino, tange, numa voz de choro, Numa voz de choro... tão desconsolado... No caixão dourado, como em berço de ouro, Pequenino, levam-te dormindo... Acorda! Olha que te levam para o mesmo lado De onde o sino tange numa voz de choro... Pequenino, acorda! Que caminho triste, e que viagem! Alas De ciprestes negros a gemer no vento; Tanta boca aberta de famintas valas A pedir que as fartem, a esperar que as encham... Pequenino, acorda! Recupera o alento, Foge da cobiça dessas fundas valas A pedir que as encham.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "descrição da paisagem de um cemitério."
+    },
+    {
+      "id": "B",
+      "text": "recusa do eu lírico à irreversibilidade da morte."
+    },
+    {
+      "id": "C",
+      "text": "sonoridade dos versos produzida pela pontuação."
+    },
+    {
+      "id": "D",
+      "text": "religiosidade evocada como forma de fortalecimento."
+    },
+    {
+      "id": "E",
+      "text": "impressão de sonho na construção da estrutura poética."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "CARVALHO, V. Poemas e canções. Rio de Janeiro:",
+    "Saraiva, 1962 (fragmento)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 28,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

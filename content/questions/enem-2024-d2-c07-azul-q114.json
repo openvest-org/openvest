@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q114",
+  "area": "ciencias-da-natureza",
+  "statement": "Na condição de razão ar/combustível igual a 18, haverá uma emissão",
+  "supportText": "Um dos agentes que mais contribui para a poluição do ar é o automóvel a combustão interna. Em áreas urbanas, isso é demonstrado dramaticamente pela fumaça fotoquímica, resultante da interação entre óxidos de nitrogênio, hidrocarbonetos e luz solar, para formar produtos de oxidação, que causam irritação aos olhos, ao aparelho respiratório e danos às plantas. As condições de operação de motores a combustão, como a razão da mistura ar/combustível no cilindro, influenciam na composição dos gases lançados pelo escapamento na atmosfera. O gráfico ilustra a variação nas composições dos principais gases, dióxido de carbono (CO2), hidrocarbonetos (HC), monóxido de carbono (CO), monóxido de nitrogênio (NO) e oxigênio molecular (O2), emitidos por um motor a gasolina, em diferentes razões ar/combustível, em massa.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "baixa de O2 e alta de NO."
+    },
+    {
+      "id": "B",
+      "text": "baixa de NO e alta de HC."
+    },
+    {
+      "id": "C",
+      "text": "baixa de CO e alta de CO2."
+    },
+    {
+      "id": "D",
+      "text": "baixa de HC e alta de CO."
+    },
+    {
+      "id": "E",
+      "text": "baixa de CO2 e alta de HC."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "RANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos",
+    "no controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q114-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q114/media-01.png",
+      "alt": "Conteúdo visual da questão 114 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 114,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

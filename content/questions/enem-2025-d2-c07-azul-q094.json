@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q094",
+  "area": "ciencias-da-natureza",
+  "statement": "Considerando a ordem das tentativas, quantas atividades a estudante conseguiu realizar sem queimar o fusível?",
+  "supportText": "Réguas elétricas são dispositivos que permitem a ligação segura e simultânea de dois ou mais aparelhos eletroeletrônicos à rede elétrica. Uma estudante comprou uma régua com seis tomadas, conforme a figura. Essa régua suporta uma intensidade máxima de corrente elétrica igual a 20 A. Acima desse valor, o fusível de segurança da régua se rompe, inutilizando-a até que um novo fusível seja instalado. Considere as potências nominais de alguns aparelhos eletroeletrônicos apresentadas no quadro. Aparelho Potência (watt) Luminária de LED 5 Computador 250 Impressora a laser 660 Secador de cabelos 750 Cafeteira 900 Condicionador 1 100 de ar portátil Em um dia quente, a estudante mantém o computador e o condicionador de ar portátil ligados à régua permanentemente. Nessa situação, ela tenta realizar algumas atividades, uma de cada vez, utilizando a mesma régua, na seguinte ordem: 1º – imprimir um trabalho escolar; 2º – fazer um café com a cafeteira; 3º – ligar a luminária; 4º – secar os cabelos. Sabe-se que a régua foi ligada à tensão elétrica de 110 V, adequada para o funcionamento desses aparelhos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "3"
+    },
+    {
+      "id": "C",
+      "text": "2"
+    },
+    {
+      "id": "D",
+      "text": "1"
+    },
+    {
+      "id": "E",
+      "text": "0"
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q094-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q094/media-01.png",
+      "alt": "Conteúdo visual da questão 94 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 94,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

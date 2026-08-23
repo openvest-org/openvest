@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q088",
+  "area": "ciencias-humanas",
+  "statement": "Qual medida atenua os problemas abordados no texto?",
+  "supportText": "A mudança do clima nas cidades brasileiras é um desafio de adaptação e equidade. Inundações, alagamentos e ondas de calor são cada vez mais frequentes e intensas. Cidades precisam se adaptar com urgência, a começar pelas áreas e populações mais vulneráveis. Implementar soluções baseadas na natureza de forma sistêmica pode contribuir para a redução de desastres relacionados às mudanças do clima e ainda gerar múltiplos benefícios para a economia, o ambiente e as pessoas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Criação de faixas sinalizadoras."
+    },
+    {
+      "id": "B",
+      "text": "Incineração de resíduos sólidos."
+    },
+    {
+      "id": "C",
+      "text": "Implantação de parques públicos."
+    },
+    {
+      "id": "D",
+      "text": "Verticalização de espaços centrais."
+    },
+    {
+      "id": "E",
+      "text": "Construção de estacionamentos privados."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "EVERS, H. et al. Soluções baseadas na natureza para adaptação",
+    "em cidades. Disponível em: www.wribrasil.org.br.",
+    "Acesso em: 19 out. 2023 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 88,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

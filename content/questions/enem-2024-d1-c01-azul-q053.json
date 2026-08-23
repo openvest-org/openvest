@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q053",
+  "area": "ciencias-humanas",
+  "statement": "A desproporção de velocidade e tempo de duração nos tipos de inundação destacados é condicionada pela",
+  "supportText": "Diferenças entre inundação gradual e brusca",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "variabilidade solar anual."
+    },
+    {
+      "id": "B",
+      "text": "temperatura média mensal."
+    },
+    {
+      "id": "C",
+      "text": "declividade do relevo local."
+    },
+    {
+      "id": "D",
+      "text": "dinâmica tectônica regional."
+    },
+    {
+      "id": "E",
+      "text": "gradação da turbidez fluvial."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "TOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais:",
+    "conhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d1-c01-azul-q053-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d1-c01-azul/questions/enem-2024-d1-c01-azul-q053/media-01.png",
+      "alt": "Conteúdo visual da questão 53 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 53,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

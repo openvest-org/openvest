@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q076",
+  "area": "ciencias-humanas",
+  "statement": "Os argumentos apresentados no texto sustentam que os direitos humanos são variáveis porque os considera como",
+  "supportText": "Os direitos do homem constituem uma classe variável, como a história destes últimos séculos demonstra suficientemente. O elenco dos direitos do homem se modificou, e continua a se modificar, com a mudança das condições históricas, ou seja, dos carecimentos e dos interesses, das classes no poder, dos meios disponíveis para a realização dos mesmos, das transformações técnicas. Direitos que foram declarados absolutos no final do século XVIII foram submetidos a radicais limitações nas declarações contemporâneas; direitos que as declarações do século XVIII nem sequer mencionavam, como os direitos sociais, são agora proclamados com grande ostentação nas recentes declarações.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "fenômenos espontâneos."
+    },
+    {
+      "id": "B",
+      "text": "conquistas atemporais."
+    },
+    {
+      "id": "C",
+      "text": "convenções coletivas."
+    },
+    {
+      "id": "D",
+      "text": "resquícios religiosos."
+    },
+    {
+      "id": "E",
+      "text": "imposições políticas."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "BOBBIO, N. A era dos direitos. Rio de Janeiro: Elsevier, 2004."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 76,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

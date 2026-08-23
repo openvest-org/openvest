@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q062",
+  "area": "ciencias-humanas",
+  "statement": "De acordo com o autor, qual é a função da utopia no contexto das transformações sociais?",
+  "supportText": "Para que a utopia nasça, é preciso duas condições. A primeira é a forte sensação de que o mundo não está funcionando adequadamente e deve ter seus fundamentos revistos para que se reajuste. A segunda condição é a existência de uma confiança no potencial humano à altura da tarefa de reformar o mundo, a crença de que nós, seres humanos, podemos fazê-lo, sendo capazes de perceber o que está errado com o mundo, o que precisa ser modificado, quais são os pontos problemáticos, e ter força e coragem para extirpá-los.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Habilitar memórias afetivas."
+    },
+    {
+      "id": "B",
+      "text": "Apontar alternativas possíveis."
+    },
+    {
+      "id": "C",
+      "text": "Legitimar experiências pretéritas."
+    },
+    {
+      "id": "D",
+      "text": "Perpetuar paradigmas científicos."
+    },
+    {
+      "id": "E",
+      "text": "Empreender soluções conclusivas."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "BAUMAN, Z. apud OLIVEIRA, D. Bauman: para que a utopia renasça, é preciso confiar no potencial humano. Revista Cult, jan. 2017."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 62,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

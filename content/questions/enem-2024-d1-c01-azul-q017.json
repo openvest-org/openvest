@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q017",
+  "area": "linguagens",
+  "statement": "A apresentação do dado estatístico ao final desse texto revela a intenção de",
+  "supportText": "Influenciadores negros têm recorrentemente chamado a atenção para o fato de terem muito menos repercussão em suas postagens e nas entregas do seu conteúdo quando comparados com os influenciadores brancos, mesmo se fotos, contextos e anúncios forem extremamente semelhantes. Segundo o site Negrê, a digital influencer e youtuber criadora do projeto digital Preta Pariu iniciou um experimento em uma plataforma. Após perceber a crescente queda nos índices de alcance digital, a paulista publicou fotografias de modelos brancas em seu perfil e analisou as métricas de engajamento. Surpreendentemente, a ferramenta de estatísticas aferiu um aumento de 6 000% em seu alcance.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "demonstrar a repercussão de projetos como o Preta Pariu."
+    },
+    {
+      "id": "B",
+      "text": "informar o quantitativo de postagens da comunidade negra."
+    },
+    {
+      "id": "C",
+      "text": "potencializar o alcance de textos e imagens em sites como o Negrê."
+    },
+    {
+      "id": "D",
+      "text": "exaltar a qualidade das publicações sobre negritude em redes sociais."
+    },
+    {
+      "id": "E",
+      "text": "comprovar a relação entre o alcance de conteúdos digitais e o viés racial."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Disponível em: https://diplomatique.org.br.",
+    "Acesso em: 21 jan. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 17,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

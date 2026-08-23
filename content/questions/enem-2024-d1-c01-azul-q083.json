@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q083",
+  "area": "ciencias-humanas",
+  "statement": "No texto, a cartografia é apresentada como um instrumento usado essencialmente para a",
+  "supportText": "A finalidade mais marcante em toda a história dos mapas, desde o seu início, teria sido a de estarem sempre voltados à prática, principalmente a serviço da dominação, do poder. Sempre registraram o que mais interessava a uma minoria, fato este que acabou estimulando o incessante aperfeiçoamento deles.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "preservação de espaços naturais."
+    },
+    {
+      "id": "B",
+      "text": "emancipação de sujeitos marginais."
+    },
+    {
+      "id": "C",
+      "text": "revalorização de culturas reprimidas."
+    },
+    {
+      "id": "D",
+      "text": "inversão de hierarquias estabelecidas."
+    },
+    {
+      "id": "E",
+      "text": "sustentação de hegemonias territoriais."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "MARTINELLI, M. Mapas da geografia e cartografia temática.",
+    "São Paulo: Contexto, 2011 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 83,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

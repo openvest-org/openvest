@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q084",
+  "area": "ciencias-humanas",
+  "statement": "Como parte do patrimônio cultural da Amazônia, o regatão foi fundamental, no século XIX, para a",
+  "supportText": "TEXTO I O bufarinheiro, conhecido nas cidades por teque-teque, chama-se, nos recônditos da Amazônia, “regatão”. Em lugar de transportar nas costas o mundo de miudezas, transporta-o no bojo de uma gaiola que desloca duas, três, quatro toneladas, divididas em seções de secos e molhados e é movido por remo de faia. Cortando comunidades e matas da Amazônia por rios, dentro dessas gaiolas, riscadas de prateleiras, encontram-se os artigos mais díspares, que vão da agulha à espingarda, do lenço ao cobertor, da chita à escova de dentes. TEXTO II No século XIX, o comércio dos regatões era feito, então, com base em relações tecidas com quilombolas, pequenos produtores, comerciantes locais e indígenas, constituindo relação comercial alternativa ao abastecimento da população.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "organização de rotas de fuga na floresta tropical."
+    },
+    {
+      "id": "B",
+      "text": "criação de postos de trabalho nos seringais nortistas."
+    },
+    {
+      "id": "C",
+      "text": "divulgação de receitas de fármacos nas zonas ribeirinhas."
+    },
+    {
+      "id": "D",
+      "text": "construção de redes de sociabilidade no interior brasileiro."
+    },
+    {
+      "id": "E",
+      "text": "ampliação de ambientes de lazer nos territórios autóctones."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "MORAES, R. Na Planície Amazônica. São Paulo:",
+    "Editora Nacional, 1936 (adaptado).",
+    "HENRIQUE, M. C.; MORAIS, L. T. Estradas líquidas, comércio sólido:",
+    "índios e regatões na Amazônia (século XIX). Rev. Hist.,",
+    "n. 171, jul.-dez. 2014 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 84,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

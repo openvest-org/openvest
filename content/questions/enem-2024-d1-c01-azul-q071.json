@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q071",
+  "area": "ciencias-humanas",
+  "statement": "Conforme o texto, o compromisso assumido pelo Brasil foi resultado dos tensionamentos promovidos por",
+  "supportText": "A 26ª Conferência do Clima das Nações Unidas foi realizada com a perspectiva de que os países tornassem ainda mais ambiciosos os compromissos assumidos no enfrentamento das mudanças climáticas, de modo a evitar que a temperatura global se eleve acima de 1,5 °C, marca que já vinha sendo discutida desde o Acordo de Paris, de 2015. A pressão do setor empresarial, que se posicionou de maneira contundente nesta COP-26, gerou impacto positivo. O Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável (CEBDS) capitaneou, por meio do movimento Empresários pelo Clima, a adesão de 119 CEOs de importantes empresas e 14 instituições do setor privado, de setores tão diversos como agronegócio, alimentício, aviação, elétrico, farmacêutico, finanças, infraestrutura, logística, papel e celulose, petroquímico, saúde, tecnologia, telefonia e varejo. O Brasil deixa a conferência com o compromisso de fazer valer sua meta e reduzir 50% dos gases de efeito estufa até 2030 em relação aos níveis de 2005 — anteriormente, a meta de redução era de 43%.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "povos ribeirinhos e segmentos culturais."
+    },
+    {
+      "id": "B",
+      "text": "blocos econômicos e instituições militares."
+    },
+    {
+      "id": "C",
+      "text": "grupos científicos e universidades públicas."
+    },
+    {
+      "id": "D",
+      "text": "organismos supranacionais e sociedade civil."
+    },
+    {
+      "id": "E",
+      "text": "agentes governamentais e demanda turística."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "GROSSI, M. A mais plural das COPs e a lição de casa para o Brasil.",
+    "Disponível em: www.nexojornal.com.br.",
+    "Acesso em: 24 nov. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 71,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

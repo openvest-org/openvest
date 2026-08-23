@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q024",
+  "area": "linguagens",
+  "statement": "Nesse cartaz, a utilização de frases que projetam a vida profissional de duas crianças tem como objetivo",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "sugerir a arrecadação de fundos para o sustento de povos originários no país."
+    },
+    {
+      "id": "B",
+      "text": "sensibilizar a sociedade sobre os benefícios decorrentes do combate ao racismo."
+    },
+    {
+      "id": "C",
+      "text": "indicar a importância da orientação vocacional na educação de crianças no Brasil."
+    },
+    {
+      "id": "D",
+      "text": "chamar a atenção sobre a necessidade de ações voltadas para a educação infantil."
+    },
+    {
+      "id": "E",
+      "text": "valorizar o trabalho de agências internacionais na luta contra a discriminação racial."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: www.unicef.org.br. Acesso em: 15 jan. 2024 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q024-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q024/media-01.png",
+      "alt": "Conteúdo visual da questão 24 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 24,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

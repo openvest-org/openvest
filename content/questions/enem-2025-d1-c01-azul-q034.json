@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q034",
+  "area": "linguagens",
+  "statement": "Com base na relação dos elementos não verbais com a frase “VOCÊ (NÃO) ESTÁ SOZINHO”, nessa capa de revista, a função poética fica evidente, pois",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "essa frase informa sobre os riscos de um determinado comportamento social."
+    },
+    {
+      "id": "B",
+      "text": "o conteúdo da mensagem expressa a atitude do enunciador sobre o tema."
+    },
+    {
+      "id": "C",
+      "text": "a construção dessa frase possibilita mais de uma interpretação."
+    },
+    {
+      "id": "D",
+      "text": "essa frase estabelece um diálogo direto com o leitor."
+    },
+    {
+      "id": "E",
+      "text": "a linguagem utilizada volta-se para si mesma."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: https://revistagalileu.globo.com.",
+    "Acesso em: 18 jun. 2024 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q034-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q034/media-01.png",
+      "alt": "Conteúdo visual da questão 34 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 34,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

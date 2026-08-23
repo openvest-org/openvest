@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q015",
+  "area": "linguagens",
+  "statement": "Ao dar protagonismo a Zeferina e a João de Deus Nascimento, o artista Dalton Paula evidencia que a(s)",
+  "supportText": "O retrato como gênero da pintura ocidental ficou vinculado às elites, tornando invisíveis as populações que não faziam parte do círculo dominante. Num país de tradição escravocrata e colonizado por europeus como o Brasil, pouquíssimas pessoas negras e indígenas foram retratadas em pintura, e menos ainda identificadas com seus nomes nos retratos. Daí a importância, para a história da arte e para a história brasileira, dos retratos de Dalton Paula.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "arte pode promover formas de afirmação de identidade social."
+    },
+    {
+      "id": "B",
+      "text": "comunidades periféricas passam a adquirir o gênero retrato."
+    },
+    {
+      "id": "C",
+      "text": "personagens retratadas simbolizam a sociedade brasileira."
+    },
+    {
+      "id": "D",
+      "text": "pintura funciona como instrumento de ascensão social."
+    },
+    {
+      "id": "E",
+      "text": "imagens tradicionais preservam memórias afetivas."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "Disponível em: www.masp.org.br. Acesso em: 5 maio 2024 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q015-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q015/media-01.png",
+      "alt": "Conteúdo visual da questão 15 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 15,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

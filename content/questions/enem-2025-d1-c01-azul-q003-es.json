@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q003-es",
+  "area": "linguagens",
+  "statement": "O recurso que caracteriza essa letra de canção como um relato das memórias do eu poético é o uso de",
+  "supportText": "Cuando yo era chiquito todo quedaba cerca, cerquita. Para llegar al cielo no más bastaba una subidita. El sueño me alcanzaba para ir tan lejos como quería. Cuando yo era chiquito yo sí podía, yo sí podía. Libertad, libertad, libertad para mi niño. [...] Cuando yo era vejigo me iba pa’l río porque era hermoso, aunque estaba prohibido por peligroso, por peligroso. Como jagüey y ceiba, como la palma y la yagruma, cuando yo era vejigo yo era del monte y soñaba espuma. Libertad, libertad, libertad para mi niño.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "palavras no grau diminutivo."
+    },
+    {
+      "id": "B",
+      "text": "adjetivos na descrição da paisagem."
+    },
+    {
+      "id": "C",
+      "text": "vocábulos relacionados à fauna cubana."
+    },
+    {
+      "id": "D",
+      "text": "verbos no pretérito imperfeito do indicativo."
+    },
+    {
+      "id": "E",
+      "text": "marcas linguísticas de uma variedade caribenha."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "RODRÍGUEZ, S. Cuando yo era un enano. In: Oh Melancolía. Havana:",
+    "Empresa de Grabaciones y Ediciones Musicales, 1988 (fragmento)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 3,
+    "language": "es",
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

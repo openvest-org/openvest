@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q070",
+  "area": "ciencias-humanas",
+  "statement": "De acordo com o texto, o território torna-se cada vez mais dotado de objetos com a finalidade de intensificar a",
+  "supportText": "Cada objeto é, em si mesmo, um sistema funcionando sistemicamente. Um grande supermercado ou shopping center seria incapaz de existir se não fossem servidos por vias rápidas, estacionamentos adequados e acessíveis, sistemas de transportes públicos com horários regulares e conhecidos e se, no seu próprio interior, as atividades não estivessem subordinadas a uma coordenação. Esse é o caso dos armazéns, dos silos etc. Os portos, a rede rodoviária de um país e, sobretudo, a rede ferroviária são exemplos de objetos complexos e sistêmicos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "desindustrialização da economia."
+    },
+    {
+      "id": "B",
+      "text": "desregulamentação do mercado."
+    },
+    {
+      "id": "C",
+      "text": "concentração da produção."
+    },
+    {
+      "id": "D",
+      "text": "distribuição de renda."
+    },
+    {
+      "id": "E",
+      "text": "dinamização dos fluxos."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "SANTOS, M. A natureza do espaço: técnica, tempo, razão e emoção.",
+    "São Paulo: Hucitec, 1996 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 70,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

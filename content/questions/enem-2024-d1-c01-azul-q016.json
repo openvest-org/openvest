@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q016",
+  "area": "linguagens",
+  "statement": "Sob a perspectiva da multiculturalidade e de acordo com o texto, a produção artística afro-brasileira caracteriza-se pelo(a)",
+  "supportText": "Uma definição possível para o conceito de arte afro-brasileira pode ser: produção plástica que é feita por negros, mestiços ou brancos a partir de suas experiências sociais com a cultura negra nacional. Exemplos clássicos dessa abordagem são Carybé (1911-1997), Mestre Didi (1917-2013) e Djanira da Motta e Silva (1914-1979), cujas obras emergem e ganham forma em razão do ambiente social no qual habitaram e viveram. Se Didi era um célebre representante da cultura religiosa nagô baiana e brasileira, iniciado desde o ventre no candomblé, Carybé era argentino e, naturalizado brasileiro, envolveu-se de tal modo com essa religião que alguns dos orixás dos quais conhecemos a imagem visual são produções suas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "estranhamento no modo de apropriação da cultura religiosa de matriz africana."
+    },
+    {
+      "id": "B",
+      "text": "distanciamento entre as raízes de matriz africana e a estética de outras culturas."
+    },
+    {
+      "id": "C",
+      "text": "visão uniformizadora das religiões de matriz africana expressada nas diferentes produções."
+    },
+    {
+      "id": "D",
+      "text": "relação complexa entre as vivências pessoais dos artistas e os referenciais estéticos de matriz africana."
+    },
+    {
+      "id": "E",
+      "text": "padronização da forma de produção e da temática da matriz africana presente nas obras dos artistas citados."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Disponível em: www.premiopipa.com.",
+    "Acesso em: 13 nov. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 16,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q025",
+  "area": "linguagens",
+  "statement": "Eliseu D’Angelo Visconti (1866-1944) desenvolveu diversas obras no Brasil, com grande influência das escolas europeias. Em sua pintura Três meninas no jardim, há",
+  "supportText": "VISCONTI, E. Três meninas no jardim. Óleo sobre tela, 81 × 65 cm. Museu Nacional de Belas Artes, Rio de Janeiro, 1935.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "culto à fluidez e ao progresso, nos moldes do ideário futurista."
+    },
+    {
+      "id": "B",
+      "text": "valorização de formas decompostas, a exemplo do estilo cubista."
+    },
+    {
+      "id": "C",
+      "text": "efeitos fugazes de luz e movimento, que remetem à estética impressionista."
+    },
+    {
+      "id": "D",
+      "text": "expressão do sonho e do inconsciente, que dialoga com a proposta surrealista."
+    },
+    {
+      "id": "E",
+      "text": "tematização de elementos cotidianos, que resgata modelos de representação da arte realista."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: www.eliseuvisconti.com.br. Acesso em: 18 set. 2012."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d1-c01-azul-q025-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d1-c01-azul/questions/enem-2024-d1-c01-azul-q025/media-01.png",
+      "alt": "Conteúdo visual da questão 25 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 25,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

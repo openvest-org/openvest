@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q031",
+  "area": "linguagens",
+  "statement": "Nesse texto, a autora aborda diferentes sentidos da palavra “rede” para evidenciar",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "as formas de comunicação em meios digitais."
+    },
+    {
+      "id": "B",
+      "text": "a necessidade de atualização das mídias sociais."
+    },
+    {
+      "id": "C",
+      "text": "os conflitos de identidade dos usuários da internet."
+    },
+    {
+      "id": "D",
+      "text": "o impacto das tecnologias nas interações humanas."
+    },
+    {
+      "id": "E",
+      "text": "os desejos de compartilhar vivências com os amigos."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "MURRAY, R.; KLIGERMAN, E. Teias de afeto e poesia. Disponível em:",
+    "https://roseanamurray.com. Acesso em: 5 maio 2024."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q031-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q031/media-01.png",
+      "alt": "Conteúdo visual da questão 31 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 31,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

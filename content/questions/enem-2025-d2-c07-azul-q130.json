@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q130",
+  "area": "ciencias-da-natureza",
+  "statement": "A configuração adequada do circuito e o valor do resistor de proteção, em relação ao valor da resistência do equipamento, são:",
+  "supportText": "Em sua maioria, os equipamentos eletrônicos domésticos demandam baixa potência elétrica em corrente contínua. Para alimentá-los, uma fonte externa ou embutida transforma a corrente alternada em corrente contínua de baixa tensão. Entretanto, cada equipamento tem suas especificidades, e muitas vezes não é possível simplesmente trocar essas fontes sem levar em conta a tensão, a corrente ou a potência elétrica de saída. Considere um equipamento de resistência elétrica RC que funciona corretamente apenas em um dado valor de tensão. Porém, a única fonte de alimentação disponível fornece uma tensão 20% superior à tensão recomendada. Para adaptar essa fonte ao aparelho, a associação de um resistor de proteção RP , de potência adequada, se faz necessária.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    },
+    {
+      "id": "E",
+      "text": ""
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q130-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q130/media-01.png",
+      "alt": "Conteúdo visual da questão 130 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q130-m02",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q130/media-02.png",
+      "alt": "Conteúdo visual da questão 130 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q130-m03",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q130/media-03.png",
+      "alt": "Conteúdo visual da questão 130 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q130-m04",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q130/media-04.png",
+      "alt": "Conteúdo visual da questão 130 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q130-m05",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q130/media-05.png",
+      "alt": "Conteúdo visual da questão 130 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 130,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

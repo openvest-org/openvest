@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q022",
+  "area": "linguagens",
+  "statement": "A originalidade do trabalho dos artistas da Ilha do Ferro se dá pela",
+  "supportText": "TEXTO I A Ilha do Ferro, situada a 18 km do município de Pão de Açúcar, não é uma ilha, como o nome indica. A história do povoado é semelhante à de inúmeros outros que encontramos às margens do Rio São Francisco, entre Alagoas e Sergipe. O que torna diferente o lugar é sua gente. Hoje, dezenas de artistas populares povoam a Ilha do Ferro, trabalhando principalmente com o entalhe em madeira. Onde pessoas comuns enxergariam apenas troncos e galhos retorcidos, eles vislumbram bancos, bonecos, pássaros, cobras e bailarinas. “Às vezes, você passa por um pedaço de madeira uma vez e não vê nada, passa cinco vezes por ele e não vê nada”, conta um dos artistas, “mas, na décima vez, você consegue enxergar alguma forma nesse pedaço de madeira e transformá-lo em arte”. TEXTO II FARIAS, Y. Bailarino entalhado em gravetos de madeira. Artesanato em madeira, 20 × 13 × 51 cm. Ilha do Ferro (AL).",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "reutilização de materiais para redução do impacto ambiental."
+    },
+    {
+      "id": "B",
+      "text": "ressignificação da matéria-prima atribuindo-lhe nova função."
+    },
+    {
+      "id": "C",
+      "text": "reprodução em madeira de modelos artísticos canônicos."
+    },
+    {
+      "id": "D",
+      "text": "representação de práticas corporais da comunidade."
+    },
+    {
+      "id": "E",
+      "text": "replicação seriada para distribuição em larga escala."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: www.imaterial.art.br. Acesso em: 5 fev. 2025 (adaptado).",
+    "Disponível em: www.nidelins.com.br. Acesso em: 5 fev. 2025."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q022-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q022/media-01.png",
+      "alt": "Conteúdo visual da questão 22 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 22,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

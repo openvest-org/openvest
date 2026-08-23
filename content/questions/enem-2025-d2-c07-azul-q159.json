@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q159",
+  "area": "matematica",
+  "statement": "A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é",
+  "supportText": "O dono de uma sorveteria armazena sorvete em potes de 20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "5."
+    },
+    {
+      "id": "B",
+      "text": "8."
+    },
+    {
+      "id": "C",
+      "text": "50."
+    },
+    {
+      "id": "D",
+      "text": "80."
+    },
+    {
+      "id": "E",
+      "text": "800."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 159,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

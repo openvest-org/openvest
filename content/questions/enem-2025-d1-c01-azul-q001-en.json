@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q001-en",
+  "area": "linguagens",
+  "statement": "Ao abordar um aspecto da celebração do Halloween, esse texto tem por objetivo",
+  "supportText": "Glory Ames, from the White Earth reservation, is frustrated that despite the presence of several indigenous reservations near Moorhead, local Halloween stores still feature a western section with costumes such as “pow wow princess”. Even worse, despite a long-running debate about racism and cultural appropriation, often prompted by backlash against celebrities and politicians for donning offensive costumes, people continue to wear such costumes. Last Halloween, Ames spotted a photo on Instagram of a girl dressed as a Native American with a bullet in her forehead. She immediately reported it to the social media platform and had it removed. “They blatantly take certain aspects of our culture, race, religion, and use it for their advantage and ignore the people living it”, said Ames.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "denunciar a violência contra crianças indígenas."
+    },
+    {
+      "id": "B",
+      "text": "descrever costumes tradicionais em celebrações indígenas."
+    },
+    {
+      "id": "C",
+      "text": "valorizar as vestimentas características dos povos originários."
+    },
+    {
+      "id": "D",
+      "text": "criticar a exploração indevida de elementos da identidade indígena."
+    },
+    {
+      "id": "E",
+      "text": "sugerir ações de combate ao preconceito contra os povos originários."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "LIU, M. C. M. Disponível em: www.washingtonpost.com. Acesso em: 12 maio 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 1,
+    "language": "en",
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

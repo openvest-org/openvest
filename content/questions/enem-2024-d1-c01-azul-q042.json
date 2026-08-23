@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q042",
+  "area": "linguagens",
+  "statement": "Apesar de haver marcas formais de carta e receita, a característica que define esse texto como poema é o(a)",
+  "supportText": "Feijoada à minha moda Amiga Helena Sangirardi Conforme um dia prometi Onde, confesso que esqueci E embora — perdoe — tão tarde (Melhor do que nunca!) este poeta Segundo manda a boa ética Envia-lhe a receita (poética) De sua feijoada completa. Em atenção ao adiantado Da hora em que abrimos o olho O feijão deve, já catado Nos esperar, feliz, de molho. Uma vez cozido o feijão (Umas quatro horas, fogo médio) Nós, bocejando o nosso tédio Nos chegaremos ao fogão [...] De carne-seca suculenta Gordos paios, nédio toucinho (Nunca orelhas de bacorinho Que a tornam em excesso opulenta!) [...] Enquanto ao lado, em fogo brando Desmilinguindo-se de gozo Deve também se estar fritando O torresminho delicioso Em cuja gordura, de resto (Melhor gordura nunca houve!) Deve depois frigir a couve Picada, em fogo alegre e presto. [...] Dever cumprido. Nunca é vã A palavra de um poeta... — jamais! Abraça-a, em Brillat-Savarin, O seu Vinicius de Moraes.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "nomeação de um interlocutor."
+    },
+    {
+      "id": "B",
+      "text": "manifestação de intimidade."
+    },
+    {
+      "id": "C",
+      "text": "descrição de procedimentos."
+    },
+    {
+      "id": "D",
+      "text": "utilização de uma linguagem expressiva."
+    },
+    {
+      "id": "E",
+      "text": "apresentação de ingredientes culinários."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "MORAES, V. In: CÍCERO, A.; QUEIROZ, E. (Org.). Vinicius de Moraes:",
+    "nova antologia poética. São Paulo: Cia. das Letras, 2005 (fragmento)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 42,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

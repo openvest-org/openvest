@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q010",
+  "area": "linguagens",
+  "statement": "O recurso linguístico usado para marcar a síntese da opinião da autora sobre a temática desenvolvida foi o(a)",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "emprego da primeira pessoa em “Estranhei muito na primeira vez que escutei a expressão ‘de próprio punho’”. (l. 1)"
+    },
+    {
+      "id": "B",
+      "text": "utilização de locução adverbial em “Na verdade, o que importava era a autenticidade da minha caligrafia”. (l. 3-4)"
+    },
+    {
+      "id": "C",
+      "text": "uso de pronome possessivo em “Minha letra, hoje, tem uma espécie de alternância”. (l. 5-6)"
+    },
+    {
+      "id": "D",
+      "text": "adoção de termo autorreflexivo em “No escritório, costumo ser mais suave comigo mesma”. (l. 30)"
+    },
+    {
+      "id": "E",
+      "text": "substituição da expressão “Do punho ao pixel” (l. 44) pela expressão “o punho e o pixel”. (l. 45)"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [
+    "enem-2025-d1-c01-azul-shared-q006-q010"
+  ],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 10,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

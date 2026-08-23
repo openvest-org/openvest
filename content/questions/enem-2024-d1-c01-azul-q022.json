@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q022",
+  "area": "linguagens",
+  "statement": "Na letra da canção, a tematização da violência mencionada no Texto II manifesta-se",
+  "supportText": "TEXTO I Capítulo 4, versículo 3 Minha palavra vale um tiro, eu tenho muita munição Na queda ou na ascensão, minha atitude vai além E tem disposição pro mal e pro bem Talvez eu seja um sádico ou um anjo, um mágico Ou juiz, ou réu, o bandido do céu Malandro ou otário, quase sanguinário Franco atirador se for necessário Revolucionário, insano, ou marginal Antigo e moderno, imortal Fronteira do céu com o inferno Astral imprevisível, como um ataque cardíaco do verso. TEXTO II Pode-se dizer que as várias experiências narradas nos discos do Racionais tratam no fundo de um só tema: a violência que estrutura a nossa sociedade. O grupo canta a violência que estrutura as relações entre os familiares, os amigos, o homem e a mulher, o traficante e o viciado. Canta a violência do crime. A violência causada por inveja ou por vaidade. Também canta que a relação entre as classes sociais é sempre violenta: o racismo, a miséria, os baixos salários, a concentração de renda, a esmola, a publicidade, o alcoolismo, o jornalismo, o poder policial, a justiça, o sistema penitenciário, o governo existem por meio da violência.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "como metáfora da desigualdade, que associa a ideia de justiça a valores históricos negativos."
+    },
+    {
+      "id": "B",
+      "text": "na referência a termos bélicos, que sinaliza uma crítica social à opressão da população das periferias."
+    },
+    {
+      "id": "C",
+      "text": "como procedimento metalinguístico, que concebe a palavra como uma forma de combate e insubordinação."
+    },
+    {
+      "id": "D",
+      "text": "nas definições ambíguas do enunciador, que inverte e relativiza as representações da maldade e da bondade."
+    },
+    {
+      "id": "E",
+      "text": "na menção à imortalidade, que sugere a possibilidade de resistência para além da dicotomia entre vida e morte."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "RACIONAIS MCs. Sobrevivendo ao inferno.",
+    "São Paulo: Cosa Nostra, 1997 (fragmento).",
+    "GARCIA, W. Ouvindo Racionais MCs. Teresa: revista de",
+    "literatura brasileira, n. 5, 2004 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 22,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

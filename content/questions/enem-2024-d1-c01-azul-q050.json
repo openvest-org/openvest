@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q050",
+  "area": "ciencias-humanas",
+  "statement": "Os diferentes pontos de vista presentes no texto expressam que o bispo era, ao mesmo tempo,",
+  "supportText": "O bispo Bartolomeu de Las Casas é o homem mais odiado da América, o anti-Cristo dos senhores, o açoite destas terras. Por sua culpa, o imperador promulgou novas leis que despojam de escravos índios os filhos dos conquistadores. O que será deles sem os braços que os sustentam nas minas e nas lavouras? As novas leis estão arrancando a comida de suas bocas. Las Casas é o homem mais amado da América. Voz dos mudos, teimoso defensor dos que recebem pior tratamento que o esterco das praças, denunciador de quem por cobiça converte Jesus Cristo no mais cruel dos deuses e o rei em lobo faminto de carne humana.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "execrado pelos reis e reverenciado pelos religiosos do local."
+    },
+    {
+      "id": "B",
+      "text": "detestado pelos colonizadores e respeitado pelos povos do lugar."
+    },
+    {
+      "id": "C",
+      "text": "menosprezado pela colônia e idolatrado pelos governantes da região."
+    },
+    {
+      "id": "D",
+      "text": "desrespeitado pela metrópole e adorado pelos invasores da Espanha."
+    },
+    {
+      "id": "E",
+      "text": "desacatado pelos excluídos e valorizado pelos negociantes de negros."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "GALEANO, E. Os nascimentos. Porto Alegre:",
+    "L&PM, 2011 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 50,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

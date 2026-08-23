@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q064",
+  "area": "ciencias-humanas",
+  "statement": "Nesse contexto, a ação dos aliados de Getúlio Vargas teve como consequência imediata o(a)",
+  "supportText": "Em toda a sua carreira política, Getúlio Vargas sempre contara com o seu talento pessoal de persuasão e poder de manipulação. Agora, porém, seus amigos começavam a perceber que ele parecia envelhecido e cansado. A principal figura da oposição, concordavam eles, era o belicoso jornalista Carlos Lacerda. Se ao menos pudessem “removê-lo” do cenário político, talvez Vargas se salvasse da situação. Esses seguidores decidiram tomar o assunto em suas próprias mãos com o atentado da Rua Tonelero.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "intensificação dos ataques do grupo udenista."
+    },
+    {
+      "id": "B",
+      "text": "intervenção dos sindicatos no conflito partidário."
+    },
+    {
+      "id": "C",
+      "text": "mobilização da sociedade na defesa do governo."
+    },
+    {
+      "id": "D",
+      "text": "abandono da censura aos meios de comunicação."
+    },
+    {
+      "id": "E",
+      "text": "apoio dos parlamentares aos candidatos oposicionistas."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "SKDIMORE, T. Brasil: de Getúlio a Castelo. Rio de Janeiro: Paz e Terra, 2003 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 64,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

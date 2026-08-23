@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q137",
+  "area": "matematica",
+  "statement": "Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, a probabilidade de ele ser um homem que acessa alguma rede social é",
+  "supportText": "A reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela reportagem estão apresentados no infográfico. Perfil dos brasileiros nas redes sociais",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "30 90"
+    },
+    {
+      "id": "B",
+      "text": "36 100"
+    },
+    {
+      "id": "C",
+      "text": "40 100"
+    },
+    {
+      "id": "D",
+      "text": "40 90"
+    },
+    {
+      "id": "E",
+      "text": "46 90"
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: http://revistagalileu.globo.com. Acesso em: 22 out. 2015 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q137-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q137/media-01.png",
+      "alt": "Conteúdo visual da questão 137 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 137,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q005-en",
+  "area": "linguagens",
+  "statement": "Nesse texto, a pergunta “What is sleep?”, em uma das embalagens do produto, está relacionada ao(à)",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "escassez de horas de sono."
+    },
+    {
+      "id": "B",
+      "text": "estímulo a um descanso de qualidade."
+    },
+    {
+      "id": "C",
+      "text": "gasto com bebidas que combatem a insônia."
+    },
+    {
+      "id": "D",
+      "text": "consumo de bebidas que causam dependência."
+    },
+    {
+      "id": "E",
+      "text": "necessidade de um produto que provoque o sono."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "Disponível em: https://pt.foursquare.com. Acesso em: 14 maio 2024."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q005-en-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q005-en/media-01.png",
+      "alt": "Conteúdo visual da questão 5 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 5,
+    "language": "en",
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

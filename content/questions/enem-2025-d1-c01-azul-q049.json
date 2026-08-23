@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q049",
+  "area": "ciencias-humanas",
+  "statement": "Qual elemento da condição cosmopolita de Veneza na Idade Moderna está explicitado nos textos?",
+  "supportText": "TEXTO I CARLEVARIS, L. La piazetta (detalhe). Óleo sobre tela, 49 × 41 cm. Ashmolean Museum, Oxford, 1729. TEXTO II Antigo centro da economia mundo-europeia do século XV, no final do século XVII e início do século XVIII, Veneza ainda era uma cidade cosmopolita onde orientais podiam sentir-se em casa.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Avanço do ensino laico."
+    },
+    {
+      "id": "B",
+      "text": "Conquista das terras da América."
+    },
+    {
+      "id": "C",
+      "text": "Integração do comércio mediterrâneo."
+    },
+    {
+      "id": "D",
+      "text": "Popularização do pensamento humanista."
+    },
+    {
+      "id": "E",
+      "text": "Desenvolvimento das corporações de ofício."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: www.meinsterart.de. Acesso em: 13 dez. 2017.",
+    "BRAUDEL, F. O tempo do mundo. São Paulo:",
+    "Martins Fontes, 1979 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q049-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q049/media-01.png",
+      "alt": "Conteúdo visual da questão 49 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 49,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

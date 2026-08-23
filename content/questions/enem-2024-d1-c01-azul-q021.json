@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q021",
+  "area": "linguagens",
+  "statement": "Pela leitura desses textos, infere-se que a compreensão da arte plumária indígena requer a consideração da",
+  "supportText": "TEXTO I A linguagem visual dos adornos transmite informações sobre prestígio e transgressão, direito e dever, pois só é permitido ao indivíduo o uso de adornos de sua linhagem. Quando diretamente vinculadas aos conceitos cosmológicos, as artes indígenas convertem-se antes em prismas que refletem as concepções acerca da composição do universo e dos componentes que o povoam. TEXTO II Diadema (etnia Kayapó). Estados do Mato Grosso e Pará. Museu de Arte Indígena, s.d.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "indistinção hierárquica entre os membros de um mesmo grupo social."
+    },
+    {
+      "id": "B",
+      "text": "prevalência dos elementos do mundo natural sobre as relações humanas."
+    },
+    {
+      "id": "C",
+      "text": "reconfiguração constante das representações coletivas acerca do universo."
+    },
+    {
+      "id": "D",
+      "text": "indeterminação entre as noções de identidade individual e de identidade cultural."
+    },
+    {
+      "id": "E",
+      "text": "indissociabilidade entre objetos ritualísticos e os papéis dos indivíduos na comunidade."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "AGUILAR, N. (Org.); DIAS, J. A. B. F.; VELTHEN, L. H. V. Mostra do",
+    "redescobrimento: artes indígenas. São Paulo: Fundação Bienal de",
+    "São Paulo-Associação Brasil 500 anos, 2000 (adaptado).",
+    "Disponível em: www.maimuseu.com.br. Acesso em: 11 jul. 2024."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d1-c01-azul-q021-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d1-c01-azul/questions/enem-2024-d1-c01-azul-q021/media-01.png",
+      "alt": "Conteúdo visual da questão 21 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 21,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q149",
+  "area": "matematica",
+  "statement": "A medida da aresta da nova embalagem, em centímetro, deve ser",
+  "supportText": "Em uma empresa é comercializado um produto em embalagens em formato de cilindro circular reto, com raio medindo 3 cm, e altura medindo 15 cm. Essa empresa planeja comercializar o mesmo produto em embalagens em formato de cubo, com capacidade igual a 80% da capacidade da embalagem cilíndrica utilizada atualmente. Use 3 como valor aproximado para π.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "6"
+    },
+    {
+      "id": "B",
+      "text": "18"
+    },
+    {
+      "id": "C",
+      "text": "6 6 3"
+    },
+    {
+      "id": "D",
+      "text": "6 6 3"
+    },
+    {
+      "id": "E",
+      "text": "3 12"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 149,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

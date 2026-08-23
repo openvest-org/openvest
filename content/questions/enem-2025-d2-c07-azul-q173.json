@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q173",
+  "area": "matematica",
+  "statement": "O projeto a ser aprovado é",
+  "supportText": "Em uma cidade, será construído um túnel que atravessa uma montanha para facilitar o trânsito de automóveis e bicicletas. Dois projetos foram elaborados e os esquemas com as vistas frontais desses projetos são apresentados na figura. O Projeto 1 conta com dois túneis, um exclusivo para bicicletas e o outro, para automóveis. O Projeto 2 conta com um único túnel, com espaços reservados para o trânsito exclusivo de bicicletas e automóveis. Nos dois projetos, os túneis têm o formato de semicilindro reto de mesma extensão, com vias de ida e volta para os dois tipos de veículos, separados por muretas. O projeto a ser aprovado será aquele que apresentar a menor área da seção transversal, pois implicará menor volume de material retirado da montanha. Considere 3 como aproximação para p e desconsidere as espessuras das muretas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "o 1, pois apresenta área de seção transversal medindo 67,5 m2."
+    },
+    {
+      "id": "B",
+      "text": "o 2, pois apresenta área de seção transversal medindo 121,5 m2."
+    },
+    {
+      "id": "C",
+      "text": "o 1, pois apresenta área de seção transversal medindo 135 m2."
+    },
+    {
+      "id": "D",
+      "text": "o 2, pois apresenta área de seção transversal medindo 243 m2."
+    },
+    {
+      "id": "E",
+      "text": "qualquer um dos dois, pois apresentam áreas de suas seções transversais com medidas iguais."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q173-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q173/media-01.png",
+      "alt": "Conteúdo visual da questão 173 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 173,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

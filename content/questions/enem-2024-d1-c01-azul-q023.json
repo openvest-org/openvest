@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q023",
+  "area": "linguagens",
+  "statement": "Ainda que faça uma avaliação positiva da série, nessa resenha, o autor aponta aspectos negativos da obra ao utilizar",
+  "supportText": "As reações à sétima temporada foram o ápice do último estágio em Game of Thrones. De forma alguma, este que vos fala seria capaz de argumentar que a série é perfeita, mas os defeitos que existem aqui sempre existiram, de uma forma ou de outra, durante os sete anos em que ela esteve no ar. Os dois roteiristas foram brilhantes em traduzir os personagens intrincados e conflituosos da obra de George R. R. Martin, mas nunca souberam exatamente como fazer jus a eles (e especialmente a elas, as mulheres da trama). A verdade é que, com tudo isso e mais Ramin Djawadi evocando sentimentos e ambientes improváveis com sua trilha sonora magistral, a série não conseguiria ser ruim nem se tentasse, mas continua sendo uma pena que, ao buscar o seu final com tanta sede e tanta celeridade, Benioff e Weiss tenham tirado sua qualidade mais preciosa: o fôlego, a paciência e o detalhismo que faziam suas palavras se levantarem do papel e ganharem vida.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "marcas de impessoalidade que disfarçam a opinião do especialista."
+    },
+    {
+      "id": "B",
+      "text": "expressões adversativas para fazer ressalvas às afirmações elogiosas."
+    },
+    {
+      "id": "C",
+      "text": "interlocução com o leitor para corroborar opiniões contrárias à adaptação."
+    },
+    {
+      "id": "D",
+      "text": "eufemismos que minimizam as críticas feitas à construção das personagens."
+    },
+    {
+      "id": "E",
+      "text": "antíteses que opõem a fragilidade do roteiro à beleza da trilha sonora da série."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: https://observatoriodocinema.uol.com.br.",
+    "Acesso em: 29 nov. 2017 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 23,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

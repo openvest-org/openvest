@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q119",
+  "area": "ciencias-da-natureza",
+  "statement": "O diagrama que representa o circuito construído pelo eletrotécnico é:",
+  "supportText": "Em uma comunidade rural, os moradores utilizam uma bomba-d’água alimentada por 100 V de tensão contínua, podendo variar em até 5 V. Um eletrotécnico pretende instalar placas fotovoltaicas para alimentar essa bomba. As placas são idênticas e cada uma apresenta tensão de operação igual a 34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura: O eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    },
+    {
+      "id": "E",
+      "text": ""
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q119-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q119/media-01.png",
+      "alt": "Conteúdo visual da questão 119 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q119-m02",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q119/media-02.png",
+      "alt": "Conteúdo visual da questão 119 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q119-m03",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q119/media-03.png",
+      "alt": "Conteúdo visual da questão 119 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q119-m04",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q119/media-04.png",
+      "alt": "Conteúdo visual da questão 119 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q119-m05",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q119/media-05.png",
+      "alt": "Conteúdo visual da questão 119 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q119-m06",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q119/media-06.png",
+      "alt": "Conteúdo visual da questão 119 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 119,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

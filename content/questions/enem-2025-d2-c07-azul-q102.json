@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q102",
+  "area": "ciencias-da-natureza",
+  "statement": "Que ação poderia evitar essa intoxicação?",
+  "supportText": "O sashimi (filé de peixe cru) de baiacu é uma iguaria muito apreciada no Japão. Entretanto, sua ingestão pode causar a morte por parada respiratória, pois esse peixe contém uma potente neurotoxina termoestável, a tetrodotoxina, que é produzida e armazenada nas gônadas e vísceras.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Criar os peixes em cativeiro."
+    },
+    {
+      "id": "B",
+      "text": "Realizar a pesca com redes."
+    },
+    {
+      "id": "C",
+      "text": "Consumir peixes cozidos ou fritos."
+    },
+    {
+      "id": "D",
+      "text": "Preparar o peixe em condições adequadas de higiene."
+    },
+    {
+      "id": "E",
+      "text": "Manusear o peixe sem provocar o rompimento dos órgãos internos."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 102,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

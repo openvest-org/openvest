@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q007",
+  "area": "linguagens",
+  "statement": "O elemento que caracteriza esse texto como uma crônica é a",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "defesa das opiniões da autora sobre um tema de interesse coletivo."
+    },
+    {
+      "id": "B",
+      "text": "exposição sobre o uso de tecnologias nas práticas de escrita atuais."
+    },
+    {
+      "id": "C",
+      "text": "abordagem de fatos do contexto pessoal em uma perspectiva reflexiva."
+    },
+    {
+      "id": "D",
+      "text": "utilização de recursos linguísticos para a interlocução direta com o leitor."
+    },
+    {
+      "id": "E",
+      "text": "apresentação de acontecimentos segundo a ordem de sucessão no tempo."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [
+    "enem-2025-d1-c01-azul-shared-q006-q010"
+  ],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 7,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

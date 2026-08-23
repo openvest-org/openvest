@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q137",
+  "area": "matematica",
+  "statement": "O valor correto da média das notas desse estudante é",
+  "supportText": "Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, caso fosse calculada corretamente.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "4."
+    },
+    {
+      "id": "B",
+      "text": "5."
+    },
+    {
+      "id": "C",
+      "text": "6."
+    },
+    {
+      "id": "D",
+      "text": "19."
+    },
+    {
+      "id": "E",
+      "text": "21."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 137,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

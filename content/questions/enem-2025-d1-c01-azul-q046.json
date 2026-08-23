@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q046",
+  "area": "ciencias-humanas",
+  "statement": "Para o país originado da antiga Iugoslávia, a mudança de nome é uma estratégia política para",
+  "supportText": "Macedônia do Norte Acordo entra em vigor e país muda oficialmente de nome Entrou em vigor, em 2019, o acordo que determina a mudança de nome da Macedônia para Macedônia do Norte. A troca põe fim — ao menos por enquanto — no impasse entre essa antiga república da Iugoslávia e a vizinha Grécia. O governo grego se opunha ao uso do nome Macedônia pelo novo país vizinho porque a Grécia tem uma província no norte com o mesmo nome. Por causa desse impasse, a Grécia bloqueou as negociações de adesão de seu vizinho à União Europeia. Depois de negociações, as duas partes chegaram a um acordo.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "criar a moeda própria."
+    },
+    {
+      "id": "B",
+      "text": "proteger a cultura local."
+    },
+    {
+      "id": "C",
+      "text": "subjugar a minoria étnica."
+    },
+    {
+      "id": "D",
+      "text": "expandir o território nacional."
+    },
+    {
+      "id": "E",
+      "text": "intensificar a integração regional."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Disponível em: https://g1.globo.com. Acesso em: 7 nov. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 46,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

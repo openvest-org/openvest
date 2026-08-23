@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q059",
+  "area": "ciencias-humanas",
+  "statement": "De acordo com o texto, a dificuldade na produção de energia é causada pela alteração da(s)",
+  "supportText": "Pela falta de chuvas, a geração de energia eólica, solar e térmica atingiu níveis recordes em agosto de 2021, quando as hidrelétricas ficaram com cerca de 50% do total. Para um professor da Universidade Federal da Bahia, essa queda não é uma surpresa. “Não aconteceu de uma hora para outra. Se olharmos o mapa do Brasil, um dos grandes provedores de água é a Floresta Amazônica. Se você diminui a floresta, diminui a quantidade de água que vai para a atmosfera”, explica.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "variável em pesquisas meteorológicas."
+    },
+    {
+      "id": "B",
+      "text": "paisagem em locais estratégicos."
+    },
+    {
+      "id": "C",
+      "text": "demandas em regiões industriais."
+    },
+    {
+      "id": "D",
+      "text": "metas em acordos climáticos."
+    },
+    {
+      "id": "E",
+      "text": "geologia em áreas naturais."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "BORGES, T. O fantasma do apagão. Disponível em:",
+    "www.correio24horas.com.br. Acesso em:",
+    "9 out. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 59,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

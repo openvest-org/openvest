@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q061",
+  "area": "ciencias-humanas",
+  "statement": "No excerto encontra-se a base da teoria clássica das três formas de governo representadas pela",
+  "supportText": "O corpo de cidadãos é o poder supremo dos Estados. A supremacia pode residir ou num homem, ou na minoria, ou em todos. Sempre que o Um, ou a Minoria, ou Todos governam, tendo em vista o bem-estar comum, essas constituições são justas; mas se procuram apenas o benefício de uma das partes, seja ela o Um, a Minoria ou Todos, estabelece-se um desvio.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "tirania, oligarquia e república."
+    },
+    {
+      "id": "B",
+      "text": "burocracia, autarquia e império."
+    },
+    {
+      "id": "C",
+      "text": "ditadura, autocracia e anarquia."
+    },
+    {
+      "id": "D",
+      "text": "plutocracia, tecnocracia e demagogia."
+    },
+    {
+      "id": "E",
+      "text": "monarquia, aristocracia e democracia."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "ARISTÓTELES. Política. São Paulo: Nova Cultural, 2000."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 61,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

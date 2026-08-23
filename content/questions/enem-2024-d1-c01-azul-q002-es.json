@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q002-es",
+  "area": "linguagens",
+  "statement": "O comportamento dos personagens narrado no texto destaca o(a)",
+  "supportText": "“Y si llueve, que llueva” es un refrán gallego. Para mí cobró sentido una noche de febrero, cuando vivía en el barrio de la Macarena de Sevilla con dos buenos amigos, gallegos también. Mi compañero y yo nos decidimos a salir ese sábado de noche, pese a que había estado lloviendo algunas horas a lo largo del día. La idea era una locura, al parecer. Le propusimos salir “de parranda” con nosotros a una amiga andaluza, ésta respondió que no, nos dijo que no iba a salir un día de lluvia. Flipamos. Comentamos entre nosotros que si los gallegos no saliésemos de casa cuando llueve, en invierno saldríamos poco. Habríamos inventado el confinamiento hace mucho. Los gallegos no dejamos de salir por la lluvia.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "abandono da própria identidade."
+    },
+    {
+      "id": "B",
+      "text": "medo dos perigos durante a noite."
+    },
+    {
+      "id": "C",
+      "text": "influência do grupo na tomada de decisão."
+    },
+    {
+      "id": "D",
+      "text": "diferença cultural entre galegos e andaluzes."
+    },
+    {
+      "id": "E",
+      "text": "variação meteorológica entre Sevilha e Galiza."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Disponível em: https://politicahora.es. Acesso em: 26 out. 2021."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 2,
+    "language": "es",
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

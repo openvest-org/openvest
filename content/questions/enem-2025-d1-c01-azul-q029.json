@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q029",
+  "area": "linguagens",
+  "statement": "Nesse fragmento, o narrador enumera o resultado do trabalho com a terra, o qual, no contexto em que aparece,",
+  "supportText": "Só entende os corações desse lugar quem mergulha nesse mar a perder de vista e recoberto de cana caiana, cana fita, cana roxa, cana-de-macaco, açúcar, melado, rapadura, aguardente, fumo, mandioca, quiabos, pimentas, moendas, frutas, fruta-pão, sobrados, senzalas, tachos, casa de purgar. Um reino dentro de outro, com tudo o que se tem direito: reis, rainhas, príncipes e princesas, bobos da corte, cortesãos, conselheiros e escravos, muitos escravos. […] A corte do massapé, como qualquer outra na história da humanidade, fazia tudo para não deixar escapar nenhum mísero grão dos seus domínios para quem estivesse de fora do seu apertado círculo. Os nomes se repetiam de pai para filho, para sobrinho, para netos e bisnetos, de forma concêntrica e repetitiva, para que não pairasse nenhuma dúvida de que são todos da mesma parentela. As farinhas todas num mesmo saco brasonado.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "espelha a permanência dos privilégios de classe."
+    },
+    {
+      "id": "B",
+      "text": "oferece um panorama da população do campo."
+    },
+    {
+      "id": "C",
+      "text": "mostra os benefícios da fartura na agricultura."
+    },
+    {
+      "id": "D",
+      "text": "defende a importância da atividade coletiva."
+    },
+    {
+      "id": "E",
+      "text": "valoriza o trabalho ao longo das gerações."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "CRUZ, E. A. Água de barrela. Rio de Janeiro: Malê, 2018."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 29,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

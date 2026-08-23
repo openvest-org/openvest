@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q100",
+  "area": "ciencias-da-natureza",
+  "statement": "A natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são",
+  "supportText": "Mirascópio 3D: produtor de ilusão instantânea O equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos E1 e E2, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de E1 coincide com o foco de E2 e vice-versa. Na abertura circular de E2, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de E1. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por E2 e E1, respectivamente, conforme o esquema. Os observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "real e 5 cm."
+    },
+    {
+      "id": "B",
+      "text": "real e 3,8 cm."
+    },
+    {
+      "id": "C",
+      "text": "real e 7,6 cm."
+    },
+    {
+      "id": "D",
+      "text": "virtual e 7,6 cm."
+    },
+    {
+      "id": "E",
+      "text": "virtual e 3,8 cm."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "SALZMANN, W. Disponível em: https://wissenstexte.de.",
+    "Acesso em: 27 jun. 2024 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q100-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q100/media-01.png",
+      "alt": "Conteúdo visual da questão 100 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 100,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

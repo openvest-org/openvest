@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q013",
+  "area": "linguagens",
+  "statement": "O emprego da norma-padrão é justificado nesse texto",
+  "supportText": "Art. 26-A. Nos estabelecimentos de ensino fundamental e médio, oficiais e particulares, torna-se obrigatório o ensino sobre História e Cultura Afro-Brasileira. § 1º O conteúdo programático a que se refere o caput deste artigo incluirá o estudo da História da África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação da sociedade nacional, resgatando a contribuição do povo negro nas áreas social, econômica e política pertinentes à História do Brasil. § 2º Os conteúdos referentes à História e Cultura Afro- -Brasileira serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de Educação Artística e de Literatura e História Brasileiras.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "pela especialização de seu público-alvo."
+    },
+    {
+      "id": "B",
+      "text": "pela relevância cultural de seu conteúdo."
+    },
+    {
+      "id": "C",
+      "text": "pelos contextos pedagógicos em que circula."
+    },
+    {
+      "id": "D",
+      "text": "pela importância para os grupos étnico-raciais."
+    },
+    {
+      "id": "E",
+      "text": "pelas características do gênero a que pertence."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "BRASIL. Lei n. 10 639/2003. Disponível em: www.gov.br/planalto.",
+    "Acesso em: 5 maio 2024."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 13,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

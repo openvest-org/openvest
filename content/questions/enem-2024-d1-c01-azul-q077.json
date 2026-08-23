@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q077",
+  "area": "ciencias-humanas",
+  "statement": "O que as capas da revista Travel in Brazil, publicadas entre 1941 e 1944 pelo Departamento de Imprensa e Propaganda (DIP), evidenciam?",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Estereótipos da cultura nacional."
+    },
+    {
+      "id": "B",
+      "text": "Exploração da população pobre."
+    },
+    {
+      "id": "C",
+      "text": "Preconceitos de ordem racial."
+    },
+    {
+      "id": "D",
+      "text": "Política de censura midiática."
+    },
+    {
+      "id": "E",
+      "text": "Projeto de país industrial."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "VIEIRA, A. P. L. O Departamento de Imprensa e Propaganda e a política editorial do Estado Novo (1937-1945).",
+    "Rio de Janeiro: Unirio, 2019."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d1-c01-azul-q077-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d1-c01-azul/questions/enem-2024-d1-c01-azul-q077/media-01.png",
+      "alt": "Conteúdo visual da questão 77 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 77,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

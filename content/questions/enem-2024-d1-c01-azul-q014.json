@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q014",
+  "area": "linguagens",
+  "statement": "A vivência relatada no texto evidencia que as variedades linguísticas",
+  "supportText": "Maranhenses que moram longe matam a saudade da terra natal usando expressões próprias do estado. Se o maranhês impressiona e desperta a curiosidade de quem mora no próprio Maranhão, imagine de quem vem de outros estados e países? A variedade linguística local é enorme e o modo de falar tão próprio e característico dos maranhenses vem conquistando muita gente e inspirando títulos e muito conteúdo digital com a criação de podcasts, blogs, perfis na internet, além de estampar diversos tipos de produtos e serviços de empresas locais. Com saudades do Maranhão, morando há 16 anos no Rio de Janeiro, um fotógrafo maranhense criou um perfil na internet no qual compartilha a culinária, brincadeiras e o ‘dicionário’ maranhês. “A primeira vez que fui a uma padaria no Rio, na inocência, pedi 3 reais de ‘pães misturados’. Quando falei isso, as pessoas pararam e me olharam de uma forma bem engraçada, aí já fiquei ‘encabulado, ó’ e o atendente sorriu e explicou que lá não existia pão misturado e, sim, pão francês e suíço. Depois foi a minha vez de explicar sobre os pães ‘massa grossa e massa fina’”, contou o fotógrafo, com humor.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "impedem o entendimento mútuo."
+    },
+    {
+      "id": "B",
+      "text": "enaltecem o português do Maranhão."
+    },
+    {
+      "id": "C",
+      "text": "são constitutivas do português brasileiro."
+    },
+    {
+      "id": "D",
+      "text": "exigem a dicionarização dos termos usados."
+    },
+    {
+      "id": "E",
+      "text": "são restritas a situações coloquiais de comunicação."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: https://oimparcial.com.br.",
+    "Acesso em: 1 nov. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 14,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

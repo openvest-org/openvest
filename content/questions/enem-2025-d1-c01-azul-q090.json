@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q090",
+  "area": "ciencias-humanas",
+  "statement": "Além do significado científico, o evento mencionado conectava-se a um projeto nacionalista de caráter",
+  "supportText": "Em 1914, uma expedição estudantil saiu da Rússia em direção à América do Sul, sendo considerada a segunda campanha científica da Rússia no continente depois da longa viagem do barão Langsdorff pelo interior do Brasil na primeira metade do século XIX. O empreendimento foi enviado pelo Museu de Antropologia e Etnografia de São Petersburgo e integrado por cinco jovens cientistas, sendo dois zoólogos, dois etnógrafos e um antropólogo, cujo objetivo era a coleta de material de valor biológico e etnográfico para compor coleções nas instituições que participaram de seu financiamento. A expedição passou por países como Brasil, Paraguai e Argentina, resultando em amplo material manuscrito e algumas publicações, além dos objetos coletados.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "imperialista e colonizador."
+    },
+    {
+      "id": "B",
+      "text": "militar e disciplinador."
+    },
+    {
+      "id": "C",
+      "text": "lúdico e filantrópico."
+    },
+    {
+      "id": "D",
+      "text": "mercantil e predatório."
+    },
+    {
+      "id": "E",
+      "text": "religioso e humanitário."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "CARNEIRO, L. A. F. A Rússia no Brasil do início do século XX.",
+    "Rio de Janeiro: Casa de Oswaldo Cruz, 2015 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 90,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

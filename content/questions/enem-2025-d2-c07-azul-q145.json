@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q145",
+  "area": "matematica",
+  "statement": "A partir do instante t1, em que se inicia a prática meditativa, o comportamento da frequência respiratória, em relação ao tempo,",
+  "supportText": "Pesquisas na área de neurobiologia confirmam que a prática meditativa é responsável por diminuir consideravelmente a frequência respiratória para praticantes avançados, que, após iniciarem a meditação, têm suas frequências respiratórias reduzidas até se estabilizarem em um nível mais baixo. O gráfico apresenta a relação da frequência respiratória, em incursões de respirações por minuto (rpm), em relação ao tempo, em minuto, de um praticante avançado, em que (f1) representa a frequência no instante t1, no qual se inicia a prática meditativa; e (f2), a frequência no instante t2, a partir do qual esta se estabiliza durante a meditação.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "mantém-se constante."
+    },
+    {
+      "id": "B",
+      "text": "é diretamente proporcional ao tempo."
+    },
+    {
+      "id": "C",
+      "text": "é inversamente proporcional ao tempo."
+    },
+    {
+      "id": "D",
+      "text": "diminui até o instante t2, a partir do qual se torna constante."
+    },
+    {
+      "id": "E",
+      "text": "diminui de forma proporcional ao tempo, tanto entre t1 e t2 quanto após t2."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Disponível em: www.redepsi.com.br. Acesso em: 3 dez. 2018 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q145-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q145/media-01.png",
+      "alt": "Conteúdo visual da questão 145 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 145,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q140",
+  "area": "matematica",
+  "statement": "Qual é a quantidade de S1, em litro, que será retirada?",
+  "supportText": "Em um laboratório, um recipiente contém 10 litros de uma solução composta apenas pelas substâncias S1 e S2. Dessa solução, 99,95% é de S1. Uma quantidade de S1 será retirada dessa solução, mantendo a quantidade inicial de S2, de modo que 99,90% da nova solução seja de S1.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "0,0050"
+    },
+    {
+      "id": "B",
+      "text": "0,0100"
+    },
+    {
+      "id": "C",
+      "text": "0,5000"
+    },
+    {
+      "id": "D",
+      "text": "4,9775"
+    },
+    {
+      "id": "E",
+      "text": "5,0000"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 140,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

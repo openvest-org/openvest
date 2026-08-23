@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q101",
+  "area": "ciencias-da-natureza",
+  "statement": "Esse efeito é mais comum à noite ou em lugares pouco iluminados porque, com a pupila",
+  "supportText": "Por que os olhos ficam vermelhos em algumas fotografias? Em fotos tiradas com câmeras fotográficas antigas, por vezes as pessoas aparecem com os olhos vermelhos. Isso ocorre porque a luz do flash da câmera incide diretamente no globo ocular, sendo refletida por uma região repleta de vasos sanguíneos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "dilatada, chega mais luz à retina."
+    },
+    {
+      "id": "B",
+      "text": "retraída, chega mais luz vermelha à retina."
+    },
+    {
+      "id": "C",
+      "text": "retraída, chega mais luz vermelha aos bastonetes."
+    },
+    {
+      "id": "D",
+      "text": "retraída, chegam menos luzes azul e verde aos cones."
+    },
+    {
+      "id": "E",
+      "text": "dilatada, chegam menos luzes azul e verde aos bastonetes."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "Disponível em: www.uol.com.br. Acesso em: 14 jun. 2017 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 101,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

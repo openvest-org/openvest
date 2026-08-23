@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q051",
+  "area": "ciencias-humanas",
+  "statement": "A letra da canção apresenta a permanência de uma situação da vida cotidiana ao destacar a",
+  "supportText": "Sinal fechado Olá, como vai? Eu vou indo e você, tudo bem? Tudo bem, eu vou indo, correndo Pegar meu lugar no futuro, e você? Tudo bem, eu vou indo em busca De um sono tranquilo, quem sabe? Quanto tempo... Pois é, quanto tempo... Me perdoe a pressa É a alma dos nossos negócios... Oh, não tem de que Eu também só ando a cem Quando é que você telefona? Precisamos nos ver por aí Pra semana, prometo, Talvez nos vejamos, quem sabe? Quanto tempo... Pois é, quanto tempo... Tanta coisa que eu tinha a dizer Mas eu sumi na poeira das ruas Eu também tenho algo a dizer Mas me foge a lembrança Por favor, telefone, eu preciso beber Alguma coisa rapidamente Pra semana... O sinal... Eu procuro você... Vai abrir! Vai abrir! Prometo, não esqueço Por favor, não esqueça Não esqueço, não esqueço Adeus...",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "diminuição do comportamento competitivo."
+    },
+    {
+      "id": "B",
+      "text": "importância da memória coletiva."
+    },
+    {
+      "id": "C",
+      "text": "redução da mobilidade urbana."
+    },
+    {
+      "id": "D",
+      "text": "efemeridade dos vínculos de afetividade."
+    },
+    {
+      "id": "E",
+      "text": "obsolescência dos meios de comunicação."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "PAULINHO DA VIOLA. Foi um rio que passou em minha vida.",
+    "Rio de Janeiro: Odeon, 1970."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 51,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

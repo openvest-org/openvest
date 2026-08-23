@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q082",
+  "area": "ciencias-humanas",
+  "statement": "Qual tipo de raciocínio corresponde ao padrão de pensamento exibido pelo personagem do texto?",
+  "supportText": "Bertrand Russell conta a história de um peru que descobrira, em sua primeira manhã na fazenda de perus, que fora alimentado às 9 da manhã. Contudo, ele não tirou conclusões apressadas. Esperou até recolher um grande número de observações do fato de que era alimentado às 9 da manhã e fez essas observações sob uma ampla variedade de circunstâncias, às quartas e quintas-feiras, em dias quentes e dias frios, em dias chuvosos e dias secos. A cada dia acrescentava uma outra proposição de observação à sua lista. Finalmente, sua consciência ficou satisfeita e ele concluiu. “Eu sou alimentado sempre às 9 da manhã”.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Prático, porque recolhe evidências e recomenda ações."
+    },
+    {
+      "id": "B",
+      "text": "Absoluto, porque busca confirmações e bloqueia refutações."
+    },
+    {
+      "id": "C",
+      "text": "Indutivo, porque observa eventos particulares e infere leis universais."
+    },
+    {
+      "id": "D",
+      "text": "Demonstrativo, porque encadeia premissas e extrai conclusões indubitáveis."
+    },
+    {
+      "id": "E",
+      "text": "Analógico, porque compara diferentes situações e detecta elementos semelhantes."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "CHALMERS, A. O que é ciência, afinal?",
+    "São Paulo: Brasiliense, 1993 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 82,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

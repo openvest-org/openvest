@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q040",
+  "area": "linguagens",
+  "statement": "A apropriação de elementos como rivalidade, competitividade, torcida e gritos de guerra pelo festival de Parintins evidencia a",
+  "supportText": "O festival folclórico de Parintins, no Amazonas, anunciou que o Boi Caprichoso levou, em 2018, seu 23º título — contra 31 do adversário Boi Garantido. Desde o fim do evento que não paro de cantar duas músicas que aprendi no Bumbódromo (arena onde ocorre o espetáculo). Revezo entre “meu amor, eu sou feliz, ééé azul o meu país”, obviamente do boi azul, o Caprichoso; e “vermelhou o curral, a ideologia avermelhou”, do boi vermelho, o Garantido. Esse revezamento seria proibido em Parintins, cidade tão dividida entre as torcidas dos bois. Em Parintins, você tem de ter um lado. Há aqueles que tentam fugir e dizem que são “garanchoso”, com os quais me identifiquei, mas esses são vistos com certo desdém.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "escolha de um local específico para a festa."
+    },
+    {
+      "id": "B",
+      "text": "importância atribuída pelos turistas aos bois."
+    },
+    {
+      "id": "C",
+      "text": "interação social estabelecida após o evento."
+    },
+    {
+      "id": "D",
+      "text": "aproximação da manifestação folclórica com o esporte."
+    },
+    {
+      "id": "E",
+      "text": "composição de enredos musicais pelos “garanchosos”."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "DYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br.",
+    "Acesso em: 22 nov. 2018 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 40,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q153",
+  "area": "matematica",
+  "statement": "Qual é a representação decimal da taxa percentual desse crescimento populacional?",
+  "supportText": "Um instituto de pesquisa constatou que, nos últimos dez anos, o crescimento populacional de uma cidade foi de 135,25%.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "13 525,0"
+    },
+    {
+      "id": "B",
+      "text": "135,25"
+    },
+    {
+      "id": "C",
+      "text": "13,525"
+    },
+    {
+      "id": "D",
+      "text": "1,3525"
+    },
+    {
+      "id": "E",
+      "text": "0,13525"
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 153,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

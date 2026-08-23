@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q002-es",
+  "area": "linguagens",
+  "statement": "Ao abordar a trajetória da palavra “guagua”, o texto destaca a",
+  "supportText": "Guagua, las palabras también migran Pocas palabras del idioma castellano despiertan tanto interés y asombro como guagua. En España su uso se reduce a las Islas Canarias, donde se registra a partir de los años 30 del pasado siglo. El origen de guagua resulta algo polémico. Todo parece indicar que la voz vino de Cuba. La trajeron de vuelta, junto con sus maletas y sus recuerdos, aquellos inmigrantes canarios que viajaron a la isla antillana en busca de fortuna. Recientemente en Lanzarote, las autoridades acuñaron “guagüismo” para potenciar el uso del transporte público y han solicitado a la Real Academia Española que introduzca dicho término en el diccionario. El origen de guagua cambia si nos vamos al sur del continente. Autobús no es la única acepción de la palabra guagua que se usa en América. En los países del sur, tales como Colombia, Argentina o Perú, como una derivación del término quechua wáwa, también se le dice guagua a un niño de pecho o bebé. Algunos autores chilenos han defendido también que esta acepción de guagua como bebé proviene del idioma mapuche. Sea uno u otro el origen, es común en todo el cono sur oír a hombres y mujeres hablar con ternura de sus “guaguas lindas”.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "presença de empréstimo linguístico no espanhol."
+    },
+    {
+      "id": "B",
+      "text": "validação de um vocábulo por uma instituição renomada."
+    },
+    {
+      "id": "C",
+      "text": "concorrência entre línguas indígenas e a língua espanhola."
+    },
+    {
+      "id": "D",
+      "text": "valorização da língua de um país em detrimento da de outro."
+    },
+    {
+      "id": "E",
+      "text": "disputa entre hispano-americanos e espanhóis por sua origem."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "Disponível em: www.escribirbienyclaro.com. Acesso em: 13 maio 2024."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 2,
+    "language": "es",
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q001-es",
+  "area": "linguagens",
+  "statement": "Na argumentação apresentada sobre cultura do cancelamento, esse texto objetiva",
+  "supportText": "El vírus de la cancelación ¿De qué se trata este fenómeno? Se entiende por cultura de la cancelación a una práctica popular que consiste en “quitarle apoyo” especialmente a figuras públicas y compañías multinacionales después de que hayan hecho o dicho algo considerado objetable u ofensivo. Cuando alguien o algo está cancelado se descarta, se deja de ver, se deja de escuchar, se desclasifica, se aísla, se abandona, se niega, se deja de consumir hasta que eventualmente puede o no desaparecer. Es una estrategia muy extendida en la historia de las luchas anticoloniales, antiespecistas, sexodisidentes, feministas y, especialmente en nuestro país, también llevadas adelante por el movimiento de derechos humanos. Entonces, ¿dónde radica el problema? Se puede observar positivamente que hay un proceso cada vez más agudo de socialización de herramientas críticas para desmantelar formas de desigualdad incrustadas en los lazos sociales. Pero la popularización irrestricta y el uso amplificado de esta herramienta por fuera de sus contextos colectivos de emergencia han despertado efectos adversos en una sociedad atravesada por las pantallas como formas de encierro-consumo, la representación online como única esfera pública y un imperativo felicista cuya moral nos obliga a trabajar ansiosamente por una vida sin desacuerdos, sin errores y sin dolor, a como dé lugar.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "apresentar o conceito desse tipo de prática."
+    },
+    {
+      "id": "B",
+      "text": "mostrar a contrariedade das mídias com relação a essa atitude."
+    },
+    {
+      "id": "C",
+      "text": "criticar o impacto dessa cultura sobre a vida representada nas redes."
+    },
+    {
+      "id": "D",
+      "text": "evidenciar a democratização dessa prática na sociedade virtual."
+    },
+    {
+      "id": "E",
+      "text": "discorrer historicamente sobre a origem e as causas dessa cultura."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: www.revistaanfibia.com.",
+    "Acesso em: 7 out. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 1,
+    "language": "es",
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

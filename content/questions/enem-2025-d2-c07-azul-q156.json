@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q156",
+  "area": "matematica",
+  "statement": "Em qual escala esse desenho representa a obra de arte?",
+  "supportText": "Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura. Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "1 : 1,5"
+    },
+    {
+      "id": "B",
+      "text": "1 : 2,25"
+    },
+    {
+      "id": "C",
+      "text": "1 : 10"
+    },
+    {
+      "id": "D",
+      "text": "1 : 100"
+    },
+    {
+      "id": "E",
+      "text": "1 : 150"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q156-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q156/media-01.png",
+      "alt": "Conteúdo visual da questão 156 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 156,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q008",
+  "area": "linguagens",
+  "statement": "Nesse texto, o que caracteriza a escrita “de próprio punho” é a letra manuscrita, enquanto a escrita digital é ilustrada pelo(a)",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "utilização de tecnologias diversificadas."
+    },
+    {
+      "id": "B",
+      "text": "desenvolvimento de novos recursos de escrita."
+    },
+    {
+      "id": "C",
+      "text": "possibilidade de interações mediadas por telas."
+    },
+    {
+      "id": "D",
+      "text": "diversidade de fontes tipográficas que estão disponíveis."
+    },
+    {
+      "id": "E",
+      "text": "delimitação dos espaços onde a produção textual ocorre."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [
+    "enem-2025-d1-c01-azul-shared-q006-q010"
+  ],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 8,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

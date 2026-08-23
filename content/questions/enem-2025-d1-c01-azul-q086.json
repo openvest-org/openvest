@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q086",
+  "area": "ciencias-humanas",
+  "statement": "Para o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de",
+  "supportText": "Pesquisa pioneira no Brasil propõe o uso de energia do solo para climatizar edifícios Pela primeira vez na história, o Brasil terá um prédio que usa energia do solo para climatizar seus ambientes. Uma pesquisa inovadora avaliou o uso das fundações de edifícios como meio para a troca de energia térmica entre o prédio e o subsolo. A energia geotérmica é aquela encontrada dentro da crosta terrestre, seja no solo, nas rochas ou mesmo na água, sendo identificada pela temperatura. Essa energia pode ser transferida para a superfície por processos de troca térmica a partir das fundações da edificação.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "homogeneização da oferta da matriz produtiva."
+    },
+    {
+      "id": "B",
+      "text": "ampliação do consumo em unidades residenciais."
+    },
+    {
+      "id": "C",
+      "text": "redução da pressão sobre as usinas hidrelétricas."
+    },
+    {
+      "id": "D",
+      "text": "estagnação do consumo em unidades industriais."
+    },
+    {
+      "id": "E",
+      "text": "superação da necessidade de recursos renováveis."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: https://jornal.usp.br. Acesso em: 7 nov. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 86,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

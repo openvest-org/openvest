@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q085",
+  "area": "ciencias-humanas",
+  "statement": "Publicados na primeira metade do século XX, os textos apresentam",
+  "supportText": "TEXTO I O cinema constituía um encanto indefinível: além do entretenimento delicioso das vidas alheias por meio dos filmes, o pretexto amável para os encontros de olhos, para a mostra dos vestidos, para as tagarelices com as vizinhas de cadeiras. TEXTO II O pouco caso na seleção dos filmes para serem exibidos nos espetáculos diurnos tem sido causa de inúmeros dissabores sofridos pelos progenitores que levam os seus filhos ao cinema para recreá-los. Em toda parte, tanto nas casas de famílias como nos colégios, só se ouve a petizada falar em fitas, em artistas cinematográficos, nas proezas de William Hart ou nas façanhas de Mutt.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "conclusões semelhantes sobre o mesmo suporte midiático."
+    },
+    {
+      "id": "B",
+      "text": "argumentos contrários sobre o mesmo tipo de diversão."
+    },
+    {
+      "id": "C",
+      "text": "discursos contraditórios sobre a mesma didática escolar."
+    },
+    {
+      "id": "D",
+      "text": "regras teológicas acerca de um mesmo recurso pedagógico."
+    },
+    {
+      "id": "E",
+      "text": "justificativas idênticas acerca de um mesmo aspecto cultural."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "SETTE, M. Anquinhas e bernardas. São Paulo: Livraria Martins, 1940 (adaptado).",
+    "O cinema e a criança. Diário de Pernambuco. 29 ago. 1925 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 85,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

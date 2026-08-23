@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q043",
+  "area": "linguagens",
+  "statement": "O experimento realizado por Regina Valkenborgh resultou no entendimento de que a",
+  "supportText": "TEXTO I A fotografia de Regina Valkenborgh apresenta 2 953 arcos de luz cruzando o céu e registra o nascer e o pôr do sol ao longo de oito anos. Em 2012, essa estudante da Universidade de Hertfordshire colocou uma folha de papel fotográfico em uma lata com um pequeno orifício, criando assim uma câmera pinhole de baixa tecnologia. Porém, a lata foi esquecida em um telescópio no observatório da universidade. Esse projeto esquecido acabou revelando a foto do pôr do sol de maior exposição já tirada. TEXTO II Representação de 2 953 arcos de luz cruzando o céu, registrando o nascer e o pôr do sol ao longo de oito anos VALKENBORGH, R. Fotografia. Reino Unido: Universidade Hertfordshire (2012-2020).",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "técnica fotográfica alternativa limita o registro de imagens."
+    },
+    {
+      "id": "B",
+      "text": "apreciação da natureza depende de registro fotográfico."
+    },
+    {
+      "id": "C",
+      "text": "criatividade artística decorre do conhecimento científico."
+    },
+    {
+      "id": "D",
+      "text": "câmera de criação caseira tem valor tecnológico."
+    },
+    {
+      "id": "E",
+      "text": "produção artística pode ser resultado do acaso."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "SANTOS, A. Disponível em: https://socientifica.com.br.",
+    "Acesso em: 13 nov. 2021 (adaptado).",
+    "Disponível em: www.thisiscolossal.com. Acesso em: 1 nov. 2022."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d1-c01-azul-q043-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d1-c01-azul/questions/enem-2024-d1-c01-azul-q043/media-01.png",
+      "alt": "Conteúdo visual da questão 43 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 43,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

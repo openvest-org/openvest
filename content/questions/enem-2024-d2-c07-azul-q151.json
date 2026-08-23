@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q151",
+  "area": "matematica",
+  "statement": "A medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+  "supportText": "O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1 672 m2. Considere que a escala da maquete exibida é 1 : 200.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "4,18."
+    },
+    {
+      "id": "B",
+      "text": "8,36."
+    },
+    {
+      "id": "C",
+      "text": "41,80."
+    },
+    {
+      "id": "D",
+      "text": "83,60."
+    },
+    {
+      "id": "E",
+      "text": "418,00."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Época, n. 682, jun. 2011 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 151,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

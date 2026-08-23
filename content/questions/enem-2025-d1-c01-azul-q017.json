@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q017",
+  "area": "linguagens",
+  "statement": "A narradora, ao resgatar memórias da história de vida da avó, faz uso recorrente da locução “antes de”. Esse termo colabora para a progressão temática na medida em que",
+  "supportText": "Antes do inverno chegar. Ela tinha olhinhos brilhantes. Os mesmos de antes. Antes da fome. Antes das 17 mudanças de cidade. Dos sete filhos e dos muitos anos de trabalho dentro e fora de casa. Ela fazia ambrosia, bolo de fubá e pedacinhos de queijo. Antes do inverno, ela plantava flores novas e diferentes para nos esperar nas próximas férias de verão. Ela tinha o jeito de menina. Menina sapeca, correndo na grama seca do cerrado. O mesmo jeito de antes. Antes do marido (e mesmo com o marido). Antes do cansaço dos anos. Antes da dureza do trato com a terra. Ela tinha histórias. Compridas, curtas, divertidas e verdadeiras. Mas isso foi antes. Antes das lembranças se bagunçarem feito bolas coloridas de Natal esperando para serem montadas na árvore. Eu era sua neta. Antes do Alzheimer chegar, eu era sua neta. Mas ela é e sempre será minha avó.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "relaciona eventos ocorridos simultaneamente."
+    },
+    {
+      "id": "B",
+      "text": "estabelece uma comparação entre as lembranças."
+    },
+    {
+      "id": "C",
+      "text": "ressalta fatos que ressignificam o momento presente."
+    },
+    {
+      "id": "D",
+      "text": "sinaliza uma sequência que denota ações consecutivas."
+    },
+    {
+      "id": "E",
+      "text": "apresenta uma explicação para as memórias resgatadas."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "PERSON, C. R. Borboletas no estômago: porque às vezes o título precisa",
+    "ser adolescente e clichê, já que a vida exige sermos tão adultos.",
+    "São Paulo: Ed. das Autoras, 2021."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 17,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

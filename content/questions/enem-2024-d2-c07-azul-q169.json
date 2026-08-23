@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q169",
+  "area": "matematica",
+  "statement": "1 1 1 + +",
+  "supportText": "A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas. Júlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim, se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do alfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C” pelo “F”, e assim sucessivamente. A B C D E F G H I J K L M N O P Q R S T U V W X Y Z A B C Letra do texto codifi cado A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Letra do texto original Qualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César ou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, pois isso define todas as demais substituições a serem feitas. Uma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada nas tentativas seguintes. A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "25 25 25"
+    },
+    {
+      "id": "B",
+      "text": "24 23 1 + + 25 24 23 1 1 1 × ×"
+    },
+    {
+      "id": "C",
+      "text": "25 24 23"
+    },
+    {
+      "id": "D",
+      "text": "24 23 1 × × 25 25 25 24 23 1 × ×"
+    },
+    {
+      "id": "E",
+      "text": "25 24 23"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 169,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

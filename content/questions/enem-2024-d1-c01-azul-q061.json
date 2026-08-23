@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q061",
+  "area": "ciencias-humanas",
+  "statement": "O texto apresenta uma reflexão da personagem acerca de um problema característico da filosofia contemporânea, que trata da(s)",
+  "supportText": "Eu sentia falta do futuro. É claro que eu sabia, muito mesmo antes da recorrência dele, que nunca envelheceria. Era muito provável que eu nunca mais fosse ver o oceano de uma altura de trinta mil pés de novo, uma distância tão grande que não dá nem para distinguir as ondas, nem nenhum barco, de um jeito que faz o oceano parecer um enorme e infinito monólito. Eu poderia imaginá-lo. Eu poderia me lembrar dele. Mas não poderia vê-lo de novo, e me ocorreu que a ambição voraz dos seres humanos nunca é saciada quando os sonhos são realizados, porque há sempre a sensação de que tudo poderia ter sido feito melhor e ser feito outra vez.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "implicações éticas."
+    },
+    {
+      "id": "B",
+      "text": "finitude humana."
+    },
+    {
+      "id": "C",
+      "text": "limitações da linguagem."
+    },
+    {
+      "id": "D",
+      "text": "pressuposição existencial."
+    },
+    {
+      "id": "E",
+      "text": "objetividade do conhecimento."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "GREEN, J. A culpa é das estrelas. Rio de Janeiro: Intrínseca, 2012."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 61,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

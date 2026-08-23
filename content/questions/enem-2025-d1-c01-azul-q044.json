@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q044",
+  "area": "linguagens",
+  "statement": "Para persuadir o interlocutor sobre a importância de ler para as crianças, esse texto recorre à estratégia de",
+  "supportText": "Porque ler para crianças é um ato de amor Parece que, com o avanço da tecnologia, os livros têm enfrentado cada vez mais concorrência. Por isso, é nossa função lembrar a importância da leitura em todas as fases da vida, mas principalmente na primeira infância (entre 0 e 5 anos), quando o desenvolvimento das crianças acontece de forma mais intensa. O ato de ler com uma criança ou ler para ela vai muito além de apenas aproveitar uma história em conjunto. É um laço de amorosidade, porque oferece a ela ferramentas que vão ajudá- la a crescer forte e independente. Se você precisa de uma motivação extra para entrar nessa rede de incentivo, fique ligado nos motivos a seguir. Adotar esse hábito em casa: 1 – cria um laço emocional com a criança; 2 – ajuda no desenvolvimento das capacidades cognitivas; 3 – ensina sobre o mundo; 4 – incentiva o processamento de informações e a imaginação.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "propor uma condição aos pais, pelo emprego da conjunção “se”."
+    },
+    {
+      "id": "B",
+      "text": "relativizar a opinião apresentada pelo autor, com o uso de “Parece que”."
+    },
+    {
+      "id": "C",
+      "text": "empregar uma linguagem metafórica, com o uso da expressão “laço de amorosidade”."
+    },
+    {
+      "id": "D",
+      "text": "enumerar razões pertinentes a esse ato, como no exemplo “ensina sobre o mundo”."
+    },
+    {
+      "id": "E",
+      "text": "implicar o autor do texto como corresponsável pela campanha, pelo uso de “é nossa função”."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Disponível em: www.huffpost.com.br.",
+    "Acesso em: 22 maio 2018 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 44,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

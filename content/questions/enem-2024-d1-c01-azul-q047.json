@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q047",
+  "area": "ciencias-humanas",
+  "statement": "O texto dos sanitaristas atuantes nas décadas de 1920 e 1930 veicula uma mensagem caracterizada pela",
+  "supportText": "Tal qual num exército, não se compreende um efetivo composto apenas de oficiais. Também na saúde pública, os funcionários técnicos graduados necessitam ser assistidos por auxiliares em número suficiente e com preparo adequado, constituído pelas enfermeiras de saúde pública, educadoras ou visitadoras sanitárias, técnicos de laboratório, inspetores ou guardas etc., para não falarmos no pessoal burocrático, não especializado.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "higienização moral."
+    },
+    {
+      "id": "B",
+      "text": "imposição eugênica."
+    },
+    {
+      "id": "C",
+      "text": "assimilação cultural."
+    },
+    {
+      "id": "D",
+      "text": "hegemonização identitária."
+    },
+    {
+      "id": "E",
+      "text": "hierarquização profissional."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "PAULA SOUZA, G. H.; VIEIRA, F. B. Centro de saúde “eixo” de",
+    "organização sanitária. Boletim do Instituto de Higiene",
+    "de São Paulo, n. 59 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 47,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

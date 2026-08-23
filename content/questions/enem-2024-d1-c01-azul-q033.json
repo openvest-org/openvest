@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q033",
+  "area": "linguagens",
+  "statement": "Nesse cartaz, a expressão “Vou deixar que você se vá”, em conjunto com os elementos não verbais utilizados, tem a finalidade de",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "incentivar o descarte de itens defeituosos."
+    },
+    {
+      "id": "B",
+      "text": "promover a reciclagem de produtos usados."
+    },
+    {
+      "id": "C",
+      "text": "garantir a conservação de roupas de inverno."
+    },
+    {
+      "id": "D",
+      "text": "relacionar o gesto de doação à ideia de desapego."
+    },
+    {
+      "id": "E",
+      "text": "comparar a peça de roupa ao sentimento de despedida."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Disponível em: https://defesacivil.rs.gov.br.",
+    "Acesso em: 11 mar. 2024 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d1-c01-azul-q033-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d1-c01-azul/questions/enem-2024-d1-c01-azul-q033/media-01.png",
+      "alt": "Conteúdo visual da questão 33 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 33,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q051",
+  "area": "ciencias-humanas",
+  "statement": "A expressão cultural descrita no texto foi rejeitada no início da Idade Moderna por congregar",
+  "supportText": "A valsa vienense é a mais antiga das danças de salão tradicional. É dançada desde a Idade Média, quando os pares davam voltas pelo salão realizando giros em torno de si mesmos em postura fechada. Pelo fato de ser dançada aos pares em contato íntimo, a valsa encantava a sociedade medieval, como também sofria proibições por infringir os “bons costumes”. Originária das danças campestres e folclóricas, no século XVI, a aristocracia francesa abandonou a valsa por sua estreita relação com a cultura plebeia, retomando-a posteriormente.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "traços advindos da feitiçaria nórdica."
+    },
+    {
+      "id": "B",
+      "text": "práticas inspiradas em rituais pagãos."
+    },
+    {
+      "id": "C",
+      "text": "regras decorrentes do período renascentista."
+    },
+    {
+      "id": "D",
+      "text": "compassos produzidos em territórios colonizados."
+    },
+    {
+      "id": "E",
+      "text": "elementos provenientes de segmentos populares."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "FRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico:",
+    "aproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 51,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

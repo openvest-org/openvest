@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q052",
+  "area": "ciencias-humanas",
+  "statement": "A reivindicação do movimento norte-americano apresentada no texto consiste na necessidade de",
+  "supportText": "O Black Lives Matter vai para além do nacionalismo estreito que pode prevalecer no seio das comunidades negras, que se limita a apelar aos negros a amar os negros, viver como os negros e comprar produtos dos negros, e mantém à frente do movimento homens negros heterossexuais. Black Lives Matter estima as vidas dos negros e negras homossexuais e transexuais, pessoas incapacitadas, negros sem documentos ou com antecedentes criminais, mulheres e as vidas de todos os negros de todo o espectro de gêneros.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "manter a conquista de direitos sociais."
+    },
+    {
+      "id": "B",
+      "text": "integrar a diversidade do grupo identitário."
+    },
+    {
+      "id": "C",
+      "text": "priorizar a preservação de culturas africanas."
+    },
+    {
+      "id": "D",
+      "text": "defender a adoção de valores supremacistas."
+    },
+    {
+      "id": "E",
+      "text": "permitir a permanência do modelo androcêntrico."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "LA BOTZ, D. O movimento Black Lives Matter organiza-se e procura",
+    "definir-se politicamente. Disponível em: www.ufes.br.",
+    "Acesso em: 4 out. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 52,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

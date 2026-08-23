@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q046",
+  "area": "ciencias-humanas",
+  "statement": "As diferenças entre os eventos geológicos relatados decorrem de distintas posições geográficas das cidades em relação a:",
+  "supportText": "TEXTO I Um terremoto de magnitude 5,9 atingiu a cidade de Valparaíso, na costa chilena. O terremoto ocorreu a uma profundidade de 112 quilômetros. TEXTO II Um tremor de terra de magnitude 4,8 foi registrado no município de Atalaia do Norte, no interior do estado do Amazonas. O abalo é de magnitude considerada mediana para os níveis do Brasil. Os eventos dessa região costumam ser resultado das atividades da placa de Nazca. TEXTO III Moradores usaram as redes sociais para relatar tremores de terra no interior de São Paulo. As atividades foram registradas nas cidades de Júlio Mesquita e Guaimbê e tiveram magnitude 3,0 na escala Richter, o que é considerado pequeno e sem previsão de danos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Planícies costeiras."
+    },
+    {
+      "id": "B",
+      "text": "Bacias continentais."
+    },
+    {
+      "id": "C",
+      "text": "Zonas de subducção."
+    },
+    {
+      "id": "D",
+      "text": "Áreas de denudação."
+    },
+    {
+      "id": "E",
+      "text": "Vertentes escarpadas."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Terremoto de magnitude 5,9 atinge Valparaíso, no Chile.",
+    "Disponível em: www.cnnbrasil.com.br.",
+    "Acesso em: 6 nov. 2021 (adaptado).",
+    "Tremor de terra de magnitude 4,8 é registrado no interior do",
+    "Amazonas. Disponível em: https://g1.globo.com.",
+    "Acesso em: 6 nov. 2021 (adaptado).",
+    "Moradores do interior de SP relatam tremores de terra.",
+    "Disponível em: https://noticias.r7.com.",
+    "Acesso em: 6 nov. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 46,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q140",
+  "area": "matematica",
+  "statement": "Os conceitos de João e Felipe foram, respectivamente,",
+  "supportText": "João e Felipe participaram, na escola, de uma maratona de matemática na qual, durante uma semana, resolveram 200 questões cada. Nessa maratona, a porcentagem P de acertos de cada participante é convertida em um conceito: • insatisfatório: se 0 ≤ P < 50; • regular: se 50 ≤ P < 60; • bom: se 60 ≤ P < 75; • muito bom: se 75 ≤ P < 90; • excelente: se 90 ≤ P ≤ 100. João acertou 75% das questões da maratona e Felipe acertou 30% a menos que a quantidade de questões que João acertou.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "muito bom e bom."
+    },
+    {
+      "id": "B",
+      "text": "muito bom e regular."
+    },
+    {
+      "id": "C",
+      "text": "muito bom e insatisfatório."
+    },
+    {
+      "id": "D",
+      "text": "bom e regular."
+    },
+    {
+      "id": "E",
+      "text": "bom e insatisfatório."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 140,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

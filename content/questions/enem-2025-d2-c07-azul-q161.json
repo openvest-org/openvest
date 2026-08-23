@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q161",
+  "area": "matematica",
+  "statement": "O quarteirão onde se encontra a casa de João é representado pelo quadrado com a letra",
+  "supportText": "Os quadrados em cinza na figura representam os quarteirões de uma parte do bairro onde moram João e seu amigo. O quadrado pequeno (A), pintado em preto e localizado no canto superior esquerdo de um quadrado maior, indica a casa do amigo de João. João também mora em uma casa de esquina, mas na extremidade nordeste de um quarteirão. Para chegar à casa de seu amigo, ao sair de casa, João deve caminhar pelo quarteirão onde mora na direção oeste, dobrar à direita, caminhar por três quarteirões na direção norte e dobrar à esquerda. A casa de seu amigo fica no segundo quarteirão a oeste.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "P."
+    },
+    {
+      "id": "B",
+      "text": "Q."
+    },
+    {
+      "id": "C",
+      "text": "R."
+    },
+    {
+      "id": "D",
+      "text": "S."
+    },
+    {
+      "id": "E",
+      "text": "T."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q161-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q161/media-01.png",
+      "alt": "Conteúdo visual da questão 161 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 161,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

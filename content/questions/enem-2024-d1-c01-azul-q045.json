@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q045",
+  "area": "linguagens",
+  "statement": "Ao abordar a relação dos memes com a educação, a reportagem sustenta uma crítica à",
+  "supportText": "Memes e fake news: o impacto na educação das crianças Há quem diga que o Brasil nunca mais foi o mesmo depois dos memes. Na economia da velocidade, alguns apostam no humor, outros no engajamento político, e tem gente investindo alto na mentira também. Diante desse cenário, uma pergunta se torna essencial: será que todo mundo está conseguindo traduzir as mensagens postadas, curtidas e compartilhadas? Essa dúvida incentivou uma professora de língua portuguesa a desenvolver uma proposta de leitura e análise crítica de memes com estudantes do ensino fundamental, na rede pública do Distrito Federal, na cidade de Samambaia. “Percebi que muitos alunos e pais estavam divulgando conteúdos sem saber o que havia por trás das palavras”, relata a professora. “O que antes era engraçado para os alunos passou a ser visto com outros olhos”, afirma a professora. Para ela, que utilizou a representação da criança em memes de WhatsApp como material gerador das discussões em sala de aula, aguçar o olhar sobre essas mensagens impacta diretamente a atitude de postar, curtir e compartilhar conteúdos ao estimular o uso consciente da informação que circula nas plataformas de mídia social. Letramento político e midiático é um desafio intergeracional. Em tempos de notícias falsas, de imagens manipuladas e de memes sendo usados como triunfo da verdade de cada um, checagem de informação e interpretação de texto acabam se tornando moedas valiosas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "falta de fiscalização no uso de aplicativos de mensagens por crianças."
+    },
+    {
+      "id": "B",
+      "text": "divulgação de informação manipulada em postagens virtuais."
+    },
+    {
+      "id": "C",
+      "text": "utilização de ferramentas digitais no trabalho educacional."
+    },
+    {
+      "id": "D",
+      "text": "exploração de conteúdos humorísticos nas mídias sociais."
+    },
+    {
+      "id": "E",
+      "text": "propagação de mensagens com objetivos políticos."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: https://lunetas.com.br. Acesso em: 15 jan. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 45,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

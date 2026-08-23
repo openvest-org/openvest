@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q175",
+  "area": "matematica",
+  "statement": "Dentre essas duas embalagens, a de maior capacidade apresentará volume, em centímetro cúbico, igual a",
+  "supportText": "Uma indústria faz uma parceria com uma distribuidora de sucos para lançar no mercado dois tipos de embalagens. Para a fabricação dessas embalagens, a indústria dispõe de folhas de alumínio retangulares, de dimensões 10 cm por 20 cm. Cada uma dessas folhas é utilizada para formar a superfície lateral da embalagem, em formato de cilindro circular reto, que posteriormente recebe fundo e tampa circulares. A figura ilustra, dependendo de qual das duas extensões será utilizada como altura, as duas opções para formar a possível embalagem.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "4 000 π"
+    },
+    {
+      "id": "B",
+      "text": "2 000 π"
+    },
+    {
+      "id": "C",
+      "text": "4 000 π"
+    },
+    {
+      "id": "D",
+      "text": "1000 π 500"
+    },
+    {
+      "id": "E",
+      "text": "π"
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q175-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q175/media-01.png",
+      "alt": "Conteúdo visual da questão 175 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 175,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

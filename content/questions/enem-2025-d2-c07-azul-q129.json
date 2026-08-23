@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q129",
+  "area": "ciencias-da-natureza",
+  "statement": "O ácido úsnico mostrou-se mais indicado para o controle da",
+  "supportText": "O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro. Teste Resultado Aedes aegypti (larvas) Baixa eficiência Bacilo de Koch Média eficiência Moluscos aquáticos (adultos) Alta eficiência Pernilongo (larvas) Média eficiência Vermes platelmintos Ineficiente",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "esquistossomose."
+    },
+    {
+      "id": "B",
+      "text": "febre amarela."
+    },
+    {
+      "id": "C",
+      "text": "coqueluche."
+    },
+    {
+      "id": "D",
+      "text": "tuberculose."
+    },
+    {
+      "id": "E",
+      "text": "dengue."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 129,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

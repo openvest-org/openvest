@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q133",
+  "area": "ciencias-da-natureza",
+  "statement": "Na utilização desse dispositivo, a retenção do óleo ocorre",
+  "supportText": "O despejo acidental de óleo nos oceanos tem ocasionado incontáveis prejuízos à vida marinha e à economia de regiões costeiras. Métodos tradicionais de tratamento do despejo geram resíduos de difícil descarte e nem sempre são eficazes. Por isso, pesquisadores desenvolveram um filtro capaz de separar óleo e água. O dispositivo é montado sobre uma malha de aço com uma sequência de camadas. A primeira camada é formada por um polímero de carga positiva, a segunda é composta por nanopartículas de sílica (SiO2), a terceira é formada pelo mesmo polímero e a última é um surfactante, conforme apresentado na figura. Representação esquemática do dispositivo",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "no surfactante."
+    },
+    {
+      "id": "B",
+      "text": "na camada superior de polímero."
+    },
+    {
+      "id": "C",
+      "text": "nas nanopartículas de sílica."
+    },
+    {
+      "id": "D",
+      "text": "na camada inferior de polímero."
+    },
+    {
+      "id": "E",
+      "text": "na malha de aço."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "BROWN, P. S.; BHUSHAN, B. Mechanically durable, superoleophobic",
+    "coatings prepared by layer-by-layer technique for anti-smudge",
+    "and oil-water separation. Scientific Reports,",
+    "v. 5, mar. 2015 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q133-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q133/media-01.png",
+      "alt": "Conteúdo visual da questão 133 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 133,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

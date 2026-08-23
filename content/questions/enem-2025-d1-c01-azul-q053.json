@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q053",
+  "area": "ciencias-humanas",
+  "statement": "A percepção sobre a dança e a cultura corporal apresenta aspectos relacionados, respectivamente, a",
+  "supportText": "TEXTO I A partir do século IV, com os imperadores ditos cristãos, o teatro e a dança foram condenados. O batismo era recusado aos que atuavam no circo ou na pantomima. E em 398, no Concílio de Cartago, os que iam ao teatro nos dias santos foram excomungados. TEXTO II A dança no ato litúrgico cumpre tanto um papel de adoração quanto mercadológico. Não à toa há aceitação, expansão e investimento nessa prática percebida massivamente pela ampla divulgação principalmente nas redes sociais. A expansão e ampliação por via de festivais, aulas, cursos, palestras etc. consolida a criação de um mercado específico para esse público.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "segregação social e intolerância eclesiástica."
+    },
+    {
+      "id": "B",
+      "text": "rituais eucarísticos e sacramentos da Igreja."
+    },
+    {
+      "id": "C",
+      "text": "transe individual e progresso intelectual."
+    },
+    {
+      "id": "D",
+      "text": "penitência pessoal e juramento coletivo."
+    },
+    {
+      "id": "E",
+      "text": "dogmatismo religioso e adesão de fiéis."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "DINIZ, T.; SANTOS, G. História da dança. Disponível em: www.uel.br.",
+    "Acesso em: 18 out. 2023.",
+    "SANTOS, Z. Dança gospel. Salvador: UFBA, 2021."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 53,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

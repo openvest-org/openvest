@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q018",
+  "area": "linguagens",
+  "statement": "Nesse texto, a visão crítica de uma ex-atleta de futebol revela que",
+  "supportText": "Com 20 anos de experiência no futebol de alto rendimento, Marina, ex-jogadora da seleção brasileira de futebol, salienta que, por trás do espetáculo apresentado nas mídias, com mensagens de motivação e superação, o esporte não é tão inclusivo assim. “É esta análise que devemos fazer: aqueles atletas que estão ali estão trazendo uma alta performance a partir dos seus limites”, explica. Para a profissional, é preciso analisar com cautela “a ideia romântica que a mídia passa para os telespectadores”. A realidade é muito mais dura do que as imagens espetaculosas que principalmente a televisão busca transmitir para a audiência. “Por trás existe um ser humano, a gente não pode nunca esquecer isso. Aquela pessoa treinou insistentemente para estar ali, durante meses, semanas e temporadas. Duas vezes ao dia, de duas a quatro horas”, pondera Marina. Atualmente, as crianças e os jovens vislumbram o sucesso profissional e a boa-vida financeira de poucos atletas que se destacam e estampam os meios de comunicação. Tudo parece ser muito mais fácil do que realmente é quando apenas as conquistas são mostradas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "os meios de comunicação invisibilizam as dificuldades presentes no esporte."
+    },
+    {
+      "id": "B",
+      "text": "o treinamento atlético de alto nível é desestimulante para os indivíduos."
+    },
+    {
+      "id": "C",
+      "text": "o trabalho contínuo é desvalorizado no contexto esportivo profissional."
+    },
+    {
+      "id": "D",
+      "text": "as ações de incentivo financeiro a jovens atletas são precárias."
+    },
+    {
+      "id": "E",
+      "text": "as publicações da mídia esportiva rotulam atletas iniciantes."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "ROSOLEN, N. Disponível em: www.uninter.com.",
+    "Acesso em: 10 maio 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 18,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

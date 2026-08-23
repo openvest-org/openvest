@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q118",
+  "area": "ciencias-da-natureza",
+  "statement": "A altura máxima, em metro, de empilhamento do produto que essa laje é capaz de suportar é",
+  "supportText": "A laje de um depósito de bebidas tem 50 m2 de área útil de armazenamento e foi projetada para suportar pressões de até 104 Pa. O gerente do estabelecimento pretende armazenar um produto cuja densidade é 1 250 kg/m3. Considere a aceleração da gravidade igual a 10 m/s2.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "0,16 m."
+    },
+    {
+      "id": "B",
+      "text": "0,50 m."
+    },
+    {
+      "id": "C",
+      "text": "0,80 m."
+    },
+    {
+      "id": "D",
+      "text": "1,60 m."
+    },
+    {
+      "id": "E",
+      "text": "8,00 m."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 118,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

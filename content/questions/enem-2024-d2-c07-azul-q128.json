@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q128",
+  "area": "ciencias-da-natureza",
+  "statement": "Ao produzir eletricidade em dias chuvosos, o grafeno",
+  "supportText": "Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podemos gerar eletricidade com a ajuda de gotas de chuva, revestindo placas solares com uma fina camada de grafeno. Os íons dissociados a partir da água da chuva (Am+ e Bn−) tornam a combinação grafeno e água da chuva um par perfeito para geração de energia. O processo requer apenas uma camada de grafeno para que grande quantidade de elétrons (e−) se movimente ao longo da superfície.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "oxida os cátions dissolvidos na água da chuva."
+    },
+    {
+      "id": "B",
+      "text": "impede a difusão da água através das placas solares."
+    },
+    {
+      "id": "C",
+      "text": "diminui a energia de ativação da reação no pseudocapacitor."
+    },
+    {
+      "id": "D",
+      "text": "forma um compósito não metálico com os íons na água da chuva."
+    },
+    {
+      "id": "E",
+      "text": "gera uma diferença de potencial pela interação dos elétrons com os cátions."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "TANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain.",
+    "Angewandte Chemie International Edition, n. 55, 2016 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q128-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q128/media-01.png",
+      "alt": "Conteúdo visual da questão 128 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 128,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

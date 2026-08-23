@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q012",
+  "area": "linguagens",
+  "statement": "A Língua da Tabatinga tem sido preservada porque o(a)",
+  "supportText": "A Língua da Tabatinga, falada na cidade de Bom Despacho, Minas Gerais, foi por muito tempo estigmatizada devido à sua origem e à própria classe social de seus falantes, pois, segundo uma pesquisadora, era falada por “meninos pobres vindos da Tabatinga ou de Cruz de Monte — ruas da periferia da cidade cujos habitantes sempre foram tidos por marginais”. Conhecida por antigos como a “língua dos engraxates”, pois muitos trabalhadores desse ofício conversavam nessa língua enquanto lustravam sapatos na praça da matriz, a Língua da Tabatinga era utilizada por negros escravizados como uma espécie de “língua secreta”, um código para trocarem informações de como conseguir alimentos, ou para planejar fugas de seus senhores sem risco de serem descobertos por eles. De acordo com um documento do Iphan (2011), os falantes da língua apresentam uma forte consciência de sua relação com a descendência africana e da importância de preservar a “fala que os identifica na região”. Essa mudança de compreensão tangencia aspectos de pertencimento, pois, à medida que o falante da Língua da Tabatinga se identifica com a origem afro-brasileira, ele passa a ver essa língua como um legado recebido e tem o cuidado de transmiti-la para outras gerações. A concentração de falantes dessa língua está na faixa entre 21 e 60 anos de idade.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "seu registro passou da forma oral para a escrita."
+    },
+    {
+      "id": "B",
+      "text": "classe social de seus usuários ganhou prestígio."
+    },
+    {
+      "id": "C",
+      "text": "sua função inicial se manteve ao longo dos anos."
+    },
+    {
+      "id": "D",
+      "text": "sentimento de identidade linguística tem se consolidado."
+    },
+    {
+      "id": "E",
+      "text": "perfil etário de seus falantes tem se tornado homogêneo."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Disponível em: www.historiaeparcerias2019.rj.anpuh.org.",
+    "Acesso em: 3 fev. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 12,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

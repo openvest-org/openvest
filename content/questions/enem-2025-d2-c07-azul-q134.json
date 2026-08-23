@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q134",
+  "area": "ciencias-da-natureza",
+  "statement": "Do ponto de vista das interações químicas, qual desses hormônios apresenta maior solubilidade em ambientes aquáticos?",
+  "supportText": "Alguns hormônios sexuais têm ganhado notável atenção nos últimos anos por suas concentrações cada vez maiores no solo e na água em todo o mundo. O motivo da preocupação é porque, em níveis poluentes, eles têm sido associados ao câncer de mama e ao câncer de próstata, além de perturbarem a fisiologia dos peixes, podendo, ainda, afetarem o desenvolvimento reprodutivo de animais domésticos e selvagens. Assim, o descarte inadequado desses hormônios representa uma séria ameaça ao solo, plantas, recursos hídricos e humanos. De baixa polaridade, eles apresentam uma solubilidade pequena e variável em água, dependendo dos grupos presentes em suas estruturas, representando um grande risco para os ambientes aquáticos. As figuras a seguir apresentam as estruturas de alguns desses hormônios.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Estradiol."
+    },
+    {
+      "id": "B",
+      "text": "Estriol."
+    },
+    {
+      "id": "C",
+      "text": "Estrona."
+    },
+    {
+      "id": "D",
+      "text": "Novestrol."
+    },
+    {
+      "id": "E",
+      "text": "Noretindrona."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "MUHAMMAD, A. et al. Environmental Impact of Estrogens",
+    "on Human, Animal and Plant Life: a Critical Review.",
+    "Environment International, n. 99, 2017 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q134-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q134/media-01.png",
+      "alt": "Conteúdo visual da questão 134 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 134,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

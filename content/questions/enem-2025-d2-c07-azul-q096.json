@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q096",
+  "area": "ciencias-da-natureza",
+  "statement": "A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela",
+  "supportText": "Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "diferença de umidade entre os ambientes."
+    },
+    {
+      "id": "B",
+      "text": "ausência de alimentação natural."
+    },
+    {
+      "id": "C",
+      "text": "adaptação ao novo ambiente."
+    },
+    {
+      "id": "D",
+      "text": "mudança de comportamento."
+    },
+    {
+      "id": "E",
+      "text": "variabilidade genética."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "BADIO, B. et al. Epibatidine: Discovery and Definition as a Potent",
+    "Analgesic and Nicotinic Agonist. Med. Chem. Res.,",
+    "n. 4, 1994 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 96,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

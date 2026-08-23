@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q074",
+  "area": "ciencias-humanas",
+  "statement": "No processo de invisibilização dos cultos afro-brasileiros, o texto associa os seguintes elementos essenciais:",
+  "supportText": "Fragmentada em pequenos grupos, fragilizada pela ausência de algum tipo de organização ampla, tendo que carregar o peso do preconceito racial que se transfere do negro para a cultura negra, a religião dos orixás tem poucas chances de se sair melhor na competição — desigual — com outras religiões. Silenciosamente, assistimos hoje a um verdadeiro massacre das religiões afro-brasileiras.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Ausência de soluções partidárias e rejeição da laicidade."
+    },
+    {
+      "id": "B",
+      "text": "Precariedade de coesão representativa e recusa da alteridade."
+    },
+    {
+      "id": "C",
+      "text": "Insuficiência de estruturas decisórias e exclusão da dialogicidade."
+    },
+    {
+      "id": "D",
+      "text": "Inexistência de direitos constitucionais e negação do ecumenismo."
+    },
+    {
+      "id": "E",
+      "text": "Efemeridade das relações políticas e debilidade do pertencimento étnico."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "PRANDI, R. O Brasil com axé. Estudos Avançados, n. 52, dez. 2004."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 74,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

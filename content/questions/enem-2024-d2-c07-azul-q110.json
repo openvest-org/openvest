@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q110",
+  "area": "ciencias-da-natureza",
+  "statement": "Qual é a vantagem dessa similaridade para as falsas-corais?",
+  "supportText": "O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras. Nas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Facilita a captura de presas."
+    },
+    {
+      "id": "B",
+      "text": "Diminui a competição por recursos."
+    },
+    {
+      "id": "C",
+      "text": "Possibilita a geração de indivíduos híbridos."
+    },
+    {
+      "id": "D",
+      "text": "Reduz a possibilidade de sofrerem predação."
+    },
+    {
+      "id": "E",
+      "text": "Otimiza o encontro de parceiros reprodutivos."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "FRANÇA, F. G. R. [...] serpentes corais em ambientes",
+    "campestres, savânicos e florestais da América do Sul.",
+    "Brasília: UnB, 2008 (adaptado).",
+    "SILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo",
+    "educativo para reconhecimento das cobras-corais do estado de",
+    "Minas Gerais, Brasil. Herpetologia Brasileira,",
+    "n. 1, 2021 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q110-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q110/media-01.png",
+      "alt": "Conteúdo visual da questão 110 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 110,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

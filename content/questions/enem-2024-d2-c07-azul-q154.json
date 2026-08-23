@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q154",
+  "area": "matematica",
+  "statement": "O tempo médio, em minuto, necessário para a leitura completa de um contrato de serviço dentre os listados no quadro é, com uma casa decimal, aproximadamente,",
+  "supportText": "Contratos de vários serviços disponíveis na internet apresentam uma quantidade excessiva de informações. Isso faz com que o tempo necessário para a leitura desses contratos possa ser longo. O quadro apresenta uma amostra do tempo considerado necessário para a leitura completa do contrato de alguns serviços digitais. Tipo de Tempo necessário para a leitura serviço completa do contrato (em minuto) A 36 B 17 C 27 D 13 E 13 F 13",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "13,0."
+    },
+    {
+      "id": "B",
+      "text": "15,0."
+    },
+    {
+      "id": "C",
+      "text": "19,8."
+    },
+    {
+      "id": "D",
+      "text": "20,0."
+    },
+    {
+      "id": "E",
+      "text": "23,3."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "ROMERO, L. Não li e concordo. Superinteressante,",
+    "n. 307, ago. 2012 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 154,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

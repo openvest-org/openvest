@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q075",
+  "area": "ciencias-humanas",
+  "statement": "Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
+  "supportText": "A partir do século XIX e, principalmente, no século XX, iniciou-se o uso de produtos sintéticos na agricultura. No Brasil, a partir da década de 1960 e, posteriormente, nos anos 1970, os inseticidas ampliam sua fatia no mercado dos defensivos agrícolas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "desagregação de camadas pedológicas."
+    },
+    {
+      "id": "B",
+      "text": "diversidade de polinizadores naturais."
+    },
+    {
+      "id": "C",
+      "text": "contaminação de lençóis freáticos."
+    },
+    {
+      "id": "D",
+      "text": "produtividade da terra cultivada."
+    },
+    {
+      "id": "E",
+      "text": "ocorrência da erosão laminar."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "TROPPMAIR, H. Biogeografia e meio ambiente.",
+    "Rio de Janeiro: TB, 2012 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 75,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

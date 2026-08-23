@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q170",
+  "area": "matematica",
+  "statement": "A quantidade máxima de garrafas que serão colocadas nessa caixa, garantindo um funcionamento eficiente, é igual a",
+  "supportText": "Uma caixa de descarga, acoplada a um vaso sanitário, tem a forma de paralelepípedo reto retângulo cujas dimensões internas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia que interrompe o abastecimento quando a altura da coluna de água atinge 2 dm, conforme a figura. A cada acionamento da descarga, todo o volume de água contida na caixa é despejado no vaso. Para reduzir o volume de água despejado a cada acionamento, uma pessoa colocará, no interior dessa caixa, garrafas de 300 mL, cheias de areia e tampadas, de modo a ficarem submersas quando o abastecimento for interrompido. Para garantir o funcionamento eficiente, o mínimo de água despejada a cada acionamento deve ser de 5 L.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "10."
+    },
+    {
+      "id": "B",
+      "text": "8."
+    },
+    {
+      "id": "C",
+      "text": "4."
+    },
+    {
+      "id": "D",
+      "text": "3."
+    },
+    {
+      "id": "E",
+      "text": "2."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q170-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q170/media-01.png",
+      "alt": "Conteúdo visual da questão 170 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q170-m02",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q170/media-02.png",
+      "alt": "Conteúdo visual da questão 170 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 170,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

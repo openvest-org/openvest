@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q073",
+  "area": "ciencias-humanas",
+  "statement": "No início do século XX, a incorporação da técnica de produção descrita no texto promoveu uma renovação da",
+  "supportText": "As capas dos folhetos de cordel, já então ilustradas por postais fotográficos, desenhos ou fotogramas de filmes, demoravam mais de uma semana para serem transformadas em clichês em Recife ou Fortaleza, o que levou a que santeiros e artesãos locais fossem requisitados para cortar na umburana — madeira preferida para o taco xilográfico pela facilidade do talhe e abundância — princesas, dragões, cangaceiros.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "manifestação jornalística."
+    },
+    {
+      "id": "B",
+      "text": "narrativa literária."
+    },
+    {
+      "id": "C",
+      "text": "indústria regional."
+    },
+    {
+      "id": "D",
+      "text": "estética editorial."
+    },
+    {
+      "id": "E",
+      "text": "cultura erudita."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "CARVALHO, G. Xilogravura: os percursos da criação popular.",
+    "Revista do Instituto de Estudos Brasileiros,",
+    "n. 39, 1986 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 73,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

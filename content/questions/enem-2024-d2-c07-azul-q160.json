@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q160",
+  "area": "matematica",
+  "statement": "A vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",
+  "supportText": "Uma piscina tem capacidade de 2 500 000 litros. Seu sistema de abastecimento foi regulado para ter uma vazão constante de 6 000 litros de água por minuto. O mesmo sistema foi instalado em uma segunda piscina, com capacidade de 2 750 000 litros, e regulado para ter uma vazão, também constante, capaz de enchê-la em um tempo 20% maior que o gasto para encher a primeira piscina.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "8 250."
+    },
+    {
+      "id": "B",
+      "text": "7 920."
+    },
+    {
+      "id": "C",
+      "text": "6 545."
+    },
+    {
+      "id": "D",
+      "text": "5 500."
+    },
+    {
+      "id": "E",
+      "text": "5 280."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 160,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q065",
+  "area": "ciencias-humanas",
+  "statement": "De acordo com o texto, o processo apresentado contribuiu para",
+  "supportText": "Como conclusão provisória, parece então que a globalização tem, sim, o efeito de contestar e deslocar as identidades centradas e “fechadas” de uma cultura nacional. Ela tem um efeito pluralizante sobre as identidades, produzindo uma variedade de possibilidades e novas posições de identificação, e tornando as identidades mais posicionais, mais políticas, mais plurais e diversas; menos fixas, unificadas ou trans-históricas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "elevar a renda da população."
+    },
+    {
+      "id": "B",
+      "text": "abandonar os valores morais."
+    },
+    {
+      "id": "C",
+      "text": "estabelecer a igualdade racial."
+    },
+    {
+      "id": "D",
+      "text": "fortalecer as pautas das minorias."
+    },
+    {
+      "id": "E",
+      "text": "inverter os fluxos das migrações."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "HALL, S. A identidade cultural na pós-modernidade.",
+    "Rio de Janeiro: DP&A, 2011."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 65,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

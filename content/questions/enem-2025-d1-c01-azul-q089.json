@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q089",
+  "area": "ciencias-humanas",
+  "statement": "Escritos em temporalidades diferentes (Antiguidade e Idade Média), os textos sagrados aproximam-se ao mostrar o papel da ciência para o(a)",
+  "supportText": "TEXTO I Eu escolhi Bezalel e lhe dei competência e habilidade para fazer todo tipo de trabalho artístico; para fazer desenhos e trabalhar em ouro, prata e bronze; para lapidar e montar pedras preciosas; para entalhar madeira; e para fazer todo tipo de artesanato. TEXTO II Moisés foi educado em toda a sabedoria dos egípcios e veio a ser poderoso em palavras e obras. TEXTO III Se conhecêsseis a ciência certa, logo renunciarias à ostentação.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "emergência das universidades e escolas confessionais."
+    },
+    {
+      "id": "B",
+      "text": "crescimento religioso e movimentos sectários."
+    },
+    {
+      "id": "C",
+      "text": "avanço da intolerância e rivalidades nacionais."
+    },
+    {
+      "id": "D",
+      "text": "preservação das tradições e rituais místicos."
+    },
+    {
+      "id": "E",
+      "text": "desenvolvimento social e práticas laborais."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "BÍBLIA. Êxodo 31, 2-5. São Paulo: Paulinas, 2005.",
+    "BÍBLIA. Atos 7, 22. São Paulo: Paulinas, 2005.",
+    "ALCORÃO. Sura 102, 5. São Paulo: Tangará, 1975."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 89,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q020",
+  "area": "linguagens",
+  "statement": "A “língua de santo” tem sua importância para o patrimônio linguístico brasileiro por",
+  "supportText": "A característica fundamental no aprendizado das práticas rituais nos candomblés é o processo iniciático e participante. Durante o período de reclusão em terreiros ou rocas, o iniciado passa por uma série de ritos esotéricos (banhos rituais, raspagem da cabeça etc.), ao mesmo tempo em que começa a adquirir um complexo código de símbolos materiais (substâncias, folhas, frutos, raízes etc.) e de gestos associados a um repertório linguístico específico das cerimônias que se desenrolam nos contextos sagrados em geral e em cada terreiro em particular. Esse repertório linguístico, genericamente chamado de “língua de santo” na Bahia, compreende uma terminologia religiosa operacional, de caráter mágico-semântico e de aparente forma portuguesa, mas que repousa sobre sistemas lexicais de diferentes línguas africanas que provavelmente foram faladas no Brasil escravocrata, vindo a constituir uma língua ritual, que se acredita pertencer à nação do vodum, do orixá ou do inquice, e não a determinada nação africana política atual.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "apresentar uma carga semântica mítica."
+    },
+    {
+      "id": "B",
+      "text": "conservar elementos dos falares dos escravizados."
+    },
+    {
+      "id": "C",
+      "text": "resgatar expressões portuguesas do período colonial."
+    },
+    {
+      "id": "D",
+      "text": "decodificar o ritual religioso dos nossos antepassados."
+    },
+    {
+      "id": "E",
+      "text": "favorecer a compreensão do léxico africano contemporâneo."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: https://periodicos.ufba.br.",
+    "Acesso em: 21 jan. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 20,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

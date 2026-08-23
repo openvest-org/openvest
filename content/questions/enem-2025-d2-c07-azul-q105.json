@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q105",
+  "area": "ciencias-da-natureza",
+  "statement": "Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a",
+  "supportText": "As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural. Durante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "diminuição do pH."
+    },
+    {
+      "id": "B",
+      "text": "liberação de gases poluentes."
+    },
+    {
+      "id": "C",
+      "text": "contaminação por combustíveis."
+    },
+    {
+      "id": "D",
+      "text": "liberação de elementos radioativos."
+    },
+    {
+      "id": "E",
+      "text": "diminuição da solubilidade do gás oxigênio."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Disponível em: www.eletronuclear.gov.br. Acesso em: 29 nov. 2021 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q105-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q105/media-01.png",
+      "alt": "Conteúdo visual da questão 105 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 105,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

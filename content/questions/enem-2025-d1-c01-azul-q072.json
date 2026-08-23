@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q072",
+  "area": "ciencias-humanas",
+  "statement": "A característica do pensamento do filósofo Heráclito, registrada nos fragmentos mencionados, é a ênfase na",
+  "supportText": "TEXTO I Em conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. (Fragmento B10) TEXTO II Deus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. (Fragmento B67)",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "qualidade imperecível do mundo."
+    },
+    {
+      "id": "B",
+      "text": "degradação material da natureza."
+    },
+    {
+      "id": "C",
+      "text": "imobilidade imanente do universo."
+    },
+    {
+      "id": "D",
+      "text": "distribuição dicotômica do cosmos."
+    },
+    {
+      "id": "E",
+      "text": "desordem incontornável das coisas."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Pré-socráticos. São Paulo: Nova Cultural, 1996."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 72,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q108",
+  "area": "ciencias-da-natureza",
+  "statement": "O conjunto dessas mudanças graduais é análogo ao processo natural denominado",
+  "supportText": "Sistemas agroflorestais (SAFs) Os sistemas agroflorestais alinham os interesses econômicos aos ecológicos. Esses sistemas podem ser usados na recuperação ambiental de áreas degradadas que se tornaram pouco produtivas, como as utilizadas por muito tempo para pastagem. Para isso, num primeiro momento, as árvores nativas são plantadas em conjunto com culturas agrícolas anuais, como feijão, mandioca, milho e abóbora, que geram renda para os proprietários da terra e incentivam a manutenção do sistema. Em um segundo momento, são introduzidas outras espécies, como trepadeiras e arbustos, de acordo com um arranjo espacial e temporal preestabelecido. Nesse processo, ocorrerão mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo, que culminarão no aumento da diversidade do ambiente.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "rotação de culturas."
+    },
+    {
+      "id": "B",
+      "text": "sucessão ecológica."
+    },
+    {
+      "id": "C",
+      "text": "coevolução específica."
+    },
+    {
+      "id": "D",
+      "text": "adaptação por seleção."
+    },
+    {
+      "id": "E",
+      "text": "convergência adaptativa."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: www.embrapa.br. Acesso em: 9 dez. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 108,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

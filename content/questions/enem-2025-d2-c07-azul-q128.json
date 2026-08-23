@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q128",
+  "area": "ciencias-da-natureza",
+  "statement": "Os sensores que apresentam maior sensibilidade são",
+  "supportText": "A resistência de um fio de platina pode ser usada para medir temperaturas entre 0 °C e 100 °C e já foi utilizada como referência para a escala internacional de temperatura. Para um sensor feito de platina, a relação entre a resistência e a temperatura pode ser descrita por uma equação do tipo R(T) = A + BT, em que T é a temperatura e A e B são constantes. O gráfico apresenta a dependência da resistência em função da temperatura para cinco diferentes sensores.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "1 e 2."
+    },
+    {
+      "id": "B",
+      "text": "1 e 3."
+    },
+    {
+      "id": "C",
+      "text": "2 e 3."
+    },
+    {
+      "id": "D",
+      "text": "2 e 4."
+    },
+    {
+      "id": "E",
+      "text": "2 e 5."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q128-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q128/media-01.png",
+      "alt": "Conteúdo visual da questão 128 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 128,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

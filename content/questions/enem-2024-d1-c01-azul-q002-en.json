@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q002-en",
+  "area": "linguagens",
+  "statement": "Nessa letra de canção, que aborda um contexto de ódio e intolerância, o marcador “instead of ” introduz a ideia de",
+  "supportText": "Holy War Oh, so we can hate each other and fear each other We can build these walls between each other Baby, blow by blow and brick by brick Keep yourself locked in, yourself locked in […] Oh, maybe we should love somebody Oh, maybe we could care a little more So maybe we should love somebody Instead of polishing the bombs of holy war",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "mudança de comportamento."
+    },
+    {
+      "id": "B",
+      "text": "panorama de conflitos."
+    },
+    {
+      "id": "C",
+      "text": "rotina de isolamento."
+    },
+    {
+      "id": "D",
+      "text": "perspectiva bélica."
+    },
+    {
+      "id": "E",
+      "text": "cenário religioso."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "KEYS, A. Here. Estados Unidos: RCA Records, 2016."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 2,
+    "language": "en",
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

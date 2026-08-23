@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q125",
+  "area": "ciencias-da-natureza",
+  "statement": "A massa, em grama, de bicarbonato de amônio que ela deve utilizar é mais próxima de",
+  "supportText": "Apaixonada por culinária e química, uma chefe de cozinha calculou que, para promover o crescimento adequado da massa durante o cozimento de um bolo a 180 °C (453 K) e 1,00 atm, ela precisaria utilizar uma quantidade de fermento químico suficiente para produzir um volume de gás igual a 4,00 L. Com esse objetivo, ela escolheu utilizar o bicarbonato de amônio, um composto que, sob aquecimento, degrada-se em três gases distintos, que são os responsáveis pelo crescimento da massa. A decomposição do bicarbonato de amônio ocorre conforme a equação química apresentada e, nas condições do cozimento, seu rendimento é de 80%. NH4HCO3 (s) → NH3 (g) + CO2 (g) + H2O (g) Considere que a mistura dos gases se comporta como gás ideal nas condições de cozimento utilizadas pela chefe. Dados: Massa molar do NH4HCO3 = 79 g ⋅ mol−1 e R = 0,082 atm ⋅ L ⋅ mol−1 ⋅ K−1.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "2,3 g."
+    },
+    {
+      "id": "B",
+      "text": "3,5 g."
+    },
+    {
+      "id": "C",
+      "text": "5,9 g."
+    },
+    {
+      "id": "D",
+      "text": "6,8 g."
+    },
+    {
+      "id": "E",
+      "text": "8,9 g."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 125,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

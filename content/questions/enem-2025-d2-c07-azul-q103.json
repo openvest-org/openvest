@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q103",
+  "area": "ciencias-da-natureza",
+  "statement": "Essa doença resulta da insuficiência funcional de qual estrutura celular?",
+  "supportText": "A deficiência da enzima lipase ácida causa uma doença em que o portador apresenta células que não degradam colesterol esterificado nem triglicerídeos, resultando no depósito desses compostos em diversos órgãos, principalmente no fígado.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Lisossomos."
+    },
+    {
+      "id": "B",
+      "text": "Ribossomos."
+    },
+    {
+      "id": "C",
+      "text": "Mitocôndrias."
+    },
+    {
+      "id": "D",
+      "text": "Peroxissomos."
+    },
+    {
+      "id": "E",
+      "text": "Retículo endoplasmático liso."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "ANDERSON, R. A. et al. In Situ Localization of the",
+    "Genetic Locus Encoding [...]. Genomics,",
+    "n. 1, jan. 1993 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 103,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

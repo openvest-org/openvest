@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q145",
+  "area": "matematica",
+  "statement": "Em quantos metros quadrados a área do campo do Maracanã foi reduzida?",
+  "supportText": "O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "24"
+    },
+    {
+      "id": "B",
+      "text": "35"
+    },
+    {
+      "id": "C",
+      "text": "555"
+    },
+    {
+      "id": "D",
+      "text": "1 110"
+    },
+    {
+      "id": "E",
+      "text": "1 145"
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Disponível em: http://virgula.uol.com.br.",
+    "Acesso em: 14 ago. 2013 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 145,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

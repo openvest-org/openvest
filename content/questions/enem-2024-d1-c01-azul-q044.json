@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q044",
+  "area": "linguagens",
+  "statement": "mostra que o esporte está se",
+  "supportText": "Os Jogos Olímpicos já não são mais os mesmos. E isso não é nem uma crítica, nem um elogio. É uma constatação. Esse movimento começou com o vôlei de praia tornando-se esporte olímpico em 1996, passou pela chegada do BMX Racing como primeiro “radical” a entrar no programa em 2008, e agora atinge seu momento mais insólito com a inclusão do break dance como modalidade dos Jogos de Paris, em 2024. Para os mais tradicionalistas, o cruzamento da linha que delimitava o que é esporte e o que é cultura e arte é uma afronta ao espírito dos Jogos Olímpicos. Skate e surfe, que há anos têm competições na televisão, pareciam estar na divisa entre esses dois mundos, o limite do aceitável pelos puristas. O break dance estaria do lado de “lá” dessa fronteira. Para o Comitê Olímpico Internacional, a decisão faz parte de uma estratégia de se comunicar com jovens urbanos que se exercitam e se entretêm de uma maneira muito diferente da dos seus avós.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "aproximando da aventura."
+    },
+    {
+      "id": "B",
+      "text": "mantendo em sua forma padrão."
+    },
+    {
+      "id": "C",
+      "text": "tornando uma forma de dança."
+    },
+    {
+      "id": "D",
+      "text": "afastando de elementos culturais."
+    },
+    {
+      "id": "E",
+      "text": "adaptando às demandas do seu tempo."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Disponível em: www.uol.com.br. Acesso em: 19 nov. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 44,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

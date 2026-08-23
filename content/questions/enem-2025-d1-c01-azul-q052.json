@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q052",
+  "area": "ciencias-humanas",
+  "statement": "De acordo com o texto, a denominação recebida pela pandemia do começo do século XX foi determinada pelo(a)",
+  "supportText": "Não há consenso em torno do nome dado à pandemia, tendo, desde o seu início, sido chamada de gripe espanhola provavelmente por causa da desinformação em torno da notícia sobre sua origem. Uma das hipóteses deriva da neutralidade espanhola na Primeira Guerra Mundial e a consequente liberdade de imprensa naquele país, maior do que nos demais países envolvidos no conflito. Hoje existe o consenso entre virologistas e epidemiologistas de que o vírus da gripe não se originou na Espanha. Entretanto, dificilmente essa pandemia deixará de ser conhecida como gripe espanhola.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "precariedade dos conhecimentos da medicina militar."
+    },
+    {
+      "id": "B",
+      "text": "retaliação da tríplice aliança aos soldados desertores."
+    },
+    {
+      "id": "C",
+      "text": "controle dos relatos oriundos de campos de batalha."
+    },
+    {
+      "id": "D",
+      "text": "emprego de armas biológicas em confrontos transnacionais."
+    },
+    {
+      "id": "E",
+      "text": "circulação de refugiados contaminados em áreas conflagradas."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "KLAJMAN, C. A gripe sob a ótica da história ecológica.",
+    "História Revista, n. 3, set.-dez. 2015 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 52,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

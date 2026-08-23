@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q117",
+  "area": "ciencias-da-natureza",
+  "statement": "Ao emitirem o som estridente, esses anfíbios",
+  "supportText": "Moradores do Brooklin, bairro de São Paulo, perdem o sono com um som alto, constante e estridente. O barulho é causado por anfíbios anuros trazidos do Caribe, da espécie Eleutherodactylus jahnstonei, que têm tamanho um pouco maior que o de um grão de feijão e que encontraram na capital um ambiente favorável. Cientistas foram até o local e encontraram esses animais nos jardins das casas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "indicam que estão fora de seu hábitat natural."
+    },
+    {
+      "id": "B",
+      "text": "alertam para a presença de poluição urbana."
+    },
+    {
+      "id": "C",
+      "text": "sinalizam a existência de superpopulação."
+    },
+    {
+      "id": "D",
+      "text": "direcionam insetos para sua alimentação."
+    },
+    {
+      "id": "E",
+      "text": "atraem fêmeas para o acasalamento."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Pererecas-assobiadoras tiram o sono de moradores do",
+    "Brooklin. Disponível em: http://g1.globo.com.",
+    "Acesso em: 26 mar. 2015 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 117,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

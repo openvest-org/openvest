@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q147",
+  "area": "matematica",
+  "statement": "As posições indicadas pelo estudante foram",
+  "supportText": "Uma professora de matemática utiliza em suas aulas uma “máquina caça-números” para verificar os conhecimentos de seus estudantes sobre representações de números racionais. Essa máquina tem um visor dividido em seis compartimentos e, na lateral, uma alavanca. Cada estudante puxa a alavanca e espera que os compartimentos parem de girar. A partir daí, precisa responder para a professora em quais posições se encontram os números que representam a mesma quantidade. Um estudante puxou a alavanca, aguardou que os compartimentos parassem de girar e observou os números apresentados no visor. A configuração da máquina naquele instante está apresentada na imagem. Esse estudante respondeu corretamente à pergunta da professora.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "I, II e IV."
+    },
+    {
+      "id": "B",
+      "text": "II, IV e V."
+    },
+    {
+      "id": "C",
+      "text": "II, III e V."
+    },
+    {
+      "id": "D",
+      "text": "III, V e VI."
+    },
+    {
+      "id": "E",
+      "text": "III, IV e VI."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q147-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q147/media-01.png",
+      "alt": "Conteúdo visual da questão 147 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 147,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

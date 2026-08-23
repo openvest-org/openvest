@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q157",
+  "area": "matematica",
+  "statement": "Nesse estudo, a relação obtida entre T e F foi",
+  "supportText": "O cortisol é um hormônio produzido pelas glândulas adrenais e pode ser considerado um importante marcador do estresse fisiológico. Em um estudo desenvolvido com enfermeiros, foi verificado que a concentração de cortisol salivar em um dia de trabalho, denotada por T, era, em média, 1,59 vezes a concentração de cortisol salivar em um dia de folga, denotada por F.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "T = 1,59 + F"
+    },
+    {
+      "id": "B",
+      "text": "F = 1,59 + T"
+    },
+    {
+      "id": "C",
+      "text": "T F = 1 59 ,"
+    },
+    {
+      "id": "D",
+      "text": "F T = 1 59 ,"
+    },
+    {
+      "id": "E",
+      "text": "F ⋅ T = 1,59"
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "ROCHA, M. C. P. et al. Estresse em enfermeiros: o uso do cortisol salivar no",
+    "dia de trabalho e de folga. Rev. Esc. Enferm. USP, n. 5, 2013 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 157,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

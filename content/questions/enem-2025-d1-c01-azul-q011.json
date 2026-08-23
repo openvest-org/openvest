@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q011",
+  "area": "linguagens",
+  "statement": "Nesse trecho, ao se referir à sua filha, o pai de Inocência reproduz os ideais românticos, presentes na",
+  "supportText": "— Vejo, disse ele com algum acanhamento, que o doutor não é nenhum pé-rapado, mas nunca é bom facilitar... Minha filha Nocência fez 18 anos pelo Natal, e é rapariga que pela feição parece moça de cidade, muito ariscazinha de modos, mas bonita e boa deveras... Coitada, foi criada sem mãe, e aqui nestes fundões. [...] — Ora muito que bem, continuou Pereira caindo aos poucos na habitual garrulice, quando vi a menina tomar corpo, tratei logo de casá-la. — Ah! é casada? perguntou Cirino. — Isto é, é e não é. A coisa está apalavrada. Por aqui costuma labutar no costeio do gado para São Paulo um homem de mão- cheia, que talvez o sr. conheça... o Manecão Doca... — Não, respondeu Cirino abanando a cabeça. — Pois isso é um homem às direitas, desempenado e trabucador como ele só... fura estes sertões todos e vem tangendo pontes de gado que metem pasmo. Também dizem que tem bichado muito e ajuntado cobre grosso, o que é possível, porque não é gastador nem dado a mulheres. Uma feita que estava aqui de pousada... olhe, mesmo neste lugar onde estava mecê inda agorinha, falei-lhe em casamento... isto é, dei-lhe uns toques... porque os pais devem tomar isso a si para bem de suas famílias; não acha? — Boa dúvida, aprovou Cirino, dou-lhe toda a razão; era do seu dever.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "valorização do ambiente rural na formação moral da mulher."
+    },
+    {
+      "id": "B",
+      "text": "figura decorativa da mulher ante o protagonismo masculino."
+    },
+    {
+      "id": "C",
+      "text": "equivalência de origem social para a harmonia do casal."
+    },
+    {
+      "id": "D",
+      "text": "importância do dote como condição para o casamento."
+    },
+    {
+      "id": "E",
+      "text": "aura de mistério sobre a identidade da jovem."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "TAUNAY, A. d’E. Inocência. Disponível em: www.dominiopublico.gov.br.",
+    "Acesso em: 29 fev. 2024."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 11,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

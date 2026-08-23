@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q172",
+  "area": "matematica",
+  "statement": "Qual câmera registra o momento em que os ônibus A e B se encontram?",
+  "supportText": "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que partem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros, e o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem diferentes partes do trecho, conforme o esquema. O alcance de cada uma das cinco câmeras é: • câmera I: 1 do percurso; 5 • câmera II: 3 10 do percurso; • câmera III: 1 do percurso; 10 • câmera IV: 1 10 do percurso; • câmera V: 3 do percurso. 10 Em determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de 250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "I"
+    },
+    {
+      "id": "B",
+      "text": "II"
+    },
+    {
+      "id": "C",
+      "text": "III"
+    },
+    {
+      "id": "D",
+      "text": "IV"
+    },
+    {
+      "id": "E",
+      "text": "V"
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q172-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q172/media-01.png",
+      "alt": "Conteúdo visual da questão 172 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 172,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

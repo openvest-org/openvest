@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q010",
+  "area": "linguagens",
+  "statement": "Segundo a argumentação construída nesse texto, o podcast",
+  "supportText": "Já ouvi gente falando que o podcast é o renascimento do rádio. O rádio é genial, uma mídia imorredoura, mas podcast não tem nada a ver com ele. O formato está mais próximo do ensaio literário do que de um programa de ondas curtas, médias ou longas. Podcasts são antípodas das redes sociais. Enquanto elas são dispersivas, levam à evasão e à desinformação, os podcasts são uma possibilidade de imersão, concentração, aprendizado. Depois que eles surgiram, lavar a louça e me locomover pela cidade viraram um programaço. Um pós-almoço de domingo e aprendo tudo sobre bonobos e gorilas. Um táxi pro aeroporto e chego ao embarque PhD em reforma tributária.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "provoca dispersão da atenção em seu público."
+    },
+    {
+      "id": "B",
+      "text": "funciona por meio de uma frequência de ondas curtas."
+    },
+    {
+      "id": "C",
+      "text": "propicia divulgação de conhecimento para seus usuários."
+    },
+    {
+      "id": "D",
+      "text": "tem um formato de interação semelhante ao das redes sociais."
+    },
+    {
+      "id": "E",
+      "text": "constitui uma evolução na transmissão de informações via rádio."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "PRATA, A. Disponível em: www1.folha.uol.com.br.",
+    "Acesso em: 7 jan. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 10,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

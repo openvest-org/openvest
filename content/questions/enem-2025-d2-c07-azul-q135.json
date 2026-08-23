@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q135",
+  "area": "ciencias-da-natureza",
+  "statement": "A icterícia é uma doença que acomete recém-nascidos e pode ser tratada com um método de fototerapia conhecido como banho de luz, que consiste na exposição do recém-nascido a uma fonte luminosa equipada com LEDs azuis. Para o monitoramento da dosagem dessa radiação, é utilizada a resposta óptica de um sensor constituído de materiais orgânicos que luminescem quando",
+  "supportText": "Os espectros de fotoluminescência do sensor no início e no final do tratamento estão esboçados no gráfico:",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "expostos à luz azul. Com o passar do tempo, essa radiação oxida os materiais do sensor, alterando sua coloração de vermelho-laranja para verde, o que indica o final do tratamento. O gráfico apresenta o espectro de fotoluminescência do sensor em função do comprimento de onda da luz emitida no início do tratamento, quando o sensor, colado na fralda do bebê (Figura 1), luminesce na região do vermelho-laranja (∼600 nm). A Figura 2 apresenta a evolução da coloração do sensor, mostrando que a frequência da luz emitida por ele aumenta em função do tempo de exposição à luz azul."
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    },
+    {
+      "id": "E",
+      "text": "SILVA, M. M. et al. Fabricação de sensor orgânico flexível para aplicação em terapia com luz azul. Tecnol. Metal. Mater. Miner., n. 3, jul.-set. 2011 (adaptado)."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q135-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q135/media-01.png",
+      "alt": "Conteúdo visual da questão 135 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q135-m02",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q135/media-02.png",
+      "alt": "Conteúdo visual da questão 135 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q135-m03",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q135/media-03.png",
+      "alt": "Conteúdo visual da questão 135 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q135-m04",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q135/media-04.png",
+      "alt": "Conteúdo visual da questão 135 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q135-m05",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q135/media-05.png",
+      "alt": "Conteúdo visual da questão 135 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q135-m06",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q135/media-06.png",
+      "alt": "Conteúdo visual da questão 135 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 135,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

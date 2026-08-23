@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q164",
+  "area": "matematica",
+  "statement": "A distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre",
+  "supportText": "A prefeitura de uma cidade planeja construir três postos de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si, conforme o esquema, no qual o ponto H representa o local onde está construído o hospital; os pontos P1, P2 e P3, os postos de saúde; e esses quatro pontos estão em um mesmo plano.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "2 e 3."
+    },
+    {
+      "id": "B",
+      "text": "4 e 5."
+    },
+    {
+      "id": "C",
+      "text": "5 e 6."
+    },
+    {
+      "id": "D",
+      "text": "7 e 8."
+    },
+    {
+      "id": "E",
+      "text": "8 e 9."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q164-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q164/media-01.png",
+      "alt": "Conteúdo visual da questão 164 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 164,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

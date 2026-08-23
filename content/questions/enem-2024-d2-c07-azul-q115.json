@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q115",
+  "area": "ciencias-da-natureza",
+  "statement": "Qual componente celular foi afetado pela droga utilizada no experimento?",
+  "supportText": "O esquema representa um experimento feito com células do protozoário Amoeba proteus. Nele, um grupo de células foi tratado com a droga citocalasina B, enquanto outro grupo não foi tratado, servindo como controle. O formato e o movimento das células tratadas foram comprometidos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Vacúolos."
+    },
+    {
+      "id": "B",
+      "text": "Mitocôndrias."
+    },
+    {
+      "id": "C",
+      "text": "Microfilamentos."
+    },
+    {
+      "id": "D",
+      "text": "Material genético."
+    },
+    {
+      "id": "E",
+      "text": "Membrana plasmática."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "SADAVA, D. et al. Vida: a ciência da biologia — volume I: célula e",
+    "hereditariedade. Porto Alegre: Artmed, 2009 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q115-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q115/media-01.png",
+      "alt": "Conteúdo visual da questão 115 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 115,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

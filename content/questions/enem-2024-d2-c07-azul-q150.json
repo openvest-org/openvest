@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q150",
+  "area": "matematica",
+  "statement": "A compra será realizada na loja",
+  "supportText": "Uma sala com piso no formato retangular, com lados de medidas 3 m e 6 m, será dividida em dois ambientes. Para isso, serão utilizadas colunas em formato cilíndrico, dispostas perpendicularmente ao piso e representadas na figura pelos círculos de cor azul. Os centros desses círculos estarão sobre uma reta paralela aos lados de menor medida do piso da sala. Os vãos entre duas colunas e entre uma coluna e a parede não poderão ser superiores a 15 cm. Para efetuar a compra dessas colunas, foram feitos orçamentos com base em dados fornecidos por cinco lojas. Preço por Loja Raio (cm) unidade (R$) I 5 60 II 10 70 III 12 75 IV 15 90 V 20 120 A compra será realizada na loja cujo orçamento resulte no menor valor total possível.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "I."
+    },
+    {
+      "id": "B",
+      "text": "II."
+    },
+    {
+      "id": "C",
+      "text": "III."
+    },
+    {
+      "id": "D",
+      "text": "IV."
+    },
+    {
+      "id": "E",
+      "text": "V."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q150-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q150/media-01.png",
+      "alt": "Conteúdo visual da questão 150 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 150,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

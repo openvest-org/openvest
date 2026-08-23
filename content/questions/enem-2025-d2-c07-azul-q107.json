@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q107",
+  "area": "ciencias-da-natureza",
+  "statement": "Qual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?",
+  "supportText": "A figura apresenta a herança genética de uma característica a partir do cruzamento de insetos de uma mesma espécie.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    },
+    {
+      "id": "E",
+      "text": ""
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q107-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q107/media-01.png",
+      "alt": "Conteúdo visual da questão 107 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q107-m02",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q107/media-02.png",
+      "alt": "Conteúdo visual da questão 107 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q107-m03",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q107/media-03.png",
+      "alt": "Conteúdo visual da questão 107 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q107-m04",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q107/media-04.png",
+      "alt": "Conteúdo visual da questão 107 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q107-m05",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q107/media-05.png",
+      "alt": "Conteúdo visual da questão 107 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q107-m06",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q107/media-06.png",
+      "alt": "Conteúdo visual da questão 107 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 107,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q163",
+  "area": "matematica",
+  "statement": "A medida do comprimento dessa correia, em centímetro, é",
+  "supportText": "Um sistema de polias circulares e correias é um dos mecanismos responsáveis pela transmissão de movimento em máquinas rotativas. O manual de um motor traz uma figura representando um sistema composto por duas polias e uma correia de transmissão, tensionada e perfeitamente ajustada sobre as polias, de modo a não apresentar folgas nos contatos com as polias. Considere que as partes dessa correia que não ficam em contato com as polias são representadas por segmentos de reta tangentes às polias. Para substituição dessa correia, é necessária a especificação de seu comprimento. Considere 3 como valor aproximado para π.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "54."
+    },
+    {
+      "id": "B",
+      "text": "60."
+    },
+    {
+      "id": "C",
+      "text": "66."
+    },
+    {
+      "id": "D",
+      "text": "68."
+    },
+    {
+      "id": "E",
+      "text": "72."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q163-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q163/media-01.png",
+      "alt": "Conteúdo visual da questão 163 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 163,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q126",
+  "area": "ciencias-da-natureza",
+  "statement": "Nessas vacinas, essa proteína viral induz a",
+  "supportText": "Indústrias farmacêuticas e instituições científicas têm trabalhado no desenvolvimento de diferentes vacinas contra a covid-19. Em algumas dessas vacinas, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula (spike, em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "produção de anticorpos específicos contra os vírus."
+    },
+    {
+      "id": "B",
+      "text": "imunidade passiva contra o desenvolvimento da doença."
+    },
+    {
+      "id": "C",
+      "text": "alteração genômica para formação da memória imunológica."
+    },
+    {
+      "id": "D",
+      "text": "neutralização direta dos vírus presentes na circulação sanguínea."
+    },
+    {
+      "id": "E",
+      "text": "modificação dos receptores de membrana específicos para o vírus."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "O que são vacinas? Disponível em: www.cienciaviva.pt.",
+    "Acesso em: 30 nov. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 126,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

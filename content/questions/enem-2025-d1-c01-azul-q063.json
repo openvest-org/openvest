@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q063",
+  "area": "ciencias-humanas",
+  "statement": "Qual condição favoreceu o cenário produtivo exposto na figura?",
+  "supportText": "Produção e exportações brasileiras no ranking mundial em 2019 *Fatia de participação na produção mundial.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Redução do poder de compra da população brasileira."
+    },
+    {
+      "id": "B",
+      "text": "Ampliação da entrada do capital agroindustrial no campo."
+    },
+    {
+      "id": "C",
+      "text": "Diminuição do uso de trabalho especializado na agropecuária."
+    },
+    {
+      "id": "D",
+      "text": "Valorização da moeda nacional em relação ao dólar americano."
+    },
+    {
+      "id": "E",
+      "text": "Inclusão de pequenas propriedades em cultivos de subsistência."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Fonte: USDA, 2020. Elaboração CNA.",
+    "Disponível em: www.cnabrasil.org.br. Acesso em: 15 out. 2021."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q063-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q063/media-01.png",
+      "alt": "Conteúdo visual da questão 63 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 63,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

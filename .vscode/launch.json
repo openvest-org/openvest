@@ -1,0 +1,30 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Nuxt: app",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["dev"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "autoAttachChildProcesses": true,
+      "skipFiles": ["<node_internals>/**", "**/node_modules/**"],
+      "serverReadyAction": {
+        "pattern": "Local:\\s+(http://localhost:\\d+/)",
+        "uriFormat": "%s",
+        "action": "debugWithChrome",
+        "webRoot": "${workspaceFolder}"
+      }
+    },
+    {
+      "name": "Nuxt: browser",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}",
+      "sourceMaps": true
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q170",
+  "area": "matematica",
+  "statement": "Estudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M1 = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto. O valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
+  "supportText": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes M1 e M2, medidos segundo a escala Richter, e liberaram energias iguais a E1 e E2, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por \u001a 2 E M M log \u001b \u0018 3 E \u0019",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "5,4."
+    },
+    {
+      "id": "B",
+      "text": "6,2."
+    },
+    {
+      "id": "C",
+      "text": "7,6."
+    },
+    {
+      "id": "D",
+      "text": "8,2."
+    },
+    {
+      "id": "E",
+      "text": "8,4."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "2",
+    "2",
+    "1",
+    "1"
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 170,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

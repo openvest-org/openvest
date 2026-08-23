@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q068",
+  "area": "ciencias-humanas",
+  "statement": "Para a região amazônica, a relação entre as informações dos textos indica uma redução do(a)",
+  "supportText": "TEXTO I Uma única árvore joga entre 300 e 1 000 litros de água por dia para a atmosfera. Considerando a demanda mínima que uma pessoa consome de água, ou seja, 120 litros por dia, uma única árvore pode ser capaz de produzir água para até oito pessoas. TEXTO II A Amazônia perdeu diariamente uma área de floresta maior do que 4 mil campos de futebol apenas em setembro de 2021. Em todo o mês, foram devastados 1 224 km², o que corresponde ao tamanho da cidade do Rio de Janeiro e é a pior marca para setembro em 10 anos. Os dados são do Sistema de Alerta de Desmatamento (SAD) do Instituto do Homem e Meio Ambiente da Amazônia (Imazon), que monitora a floresta por meio de imagens de satélites.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "circulação de ventos alísios."
+    },
+    {
+      "id": "B",
+      "text": "aquecimento dos solos locais."
+    },
+    {
+      "id": "C",
+      "text": "média de temperatura oceânica."
+    },
+    {
+      "id": "D",
+      "text": "índice de refletividade superficial."
+    },
+    {
+      "id": "E",
+      "text": "intensidade de chuvas convectivas."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "MAGNO, C. Estudiosos explicam o motivo de chover tanto",
+    "em Belém. Disponível em: www.diarioonline.com.br.",
+    "Acesso em: 6 nov. 2021.",
+    "FREITAS, A. Desmatamento na Amazônia em setembro foi o maior",
+    "para o período em 10 anos. Disponível em: www.cnnbrasil.com.br.",
+    "Acesso em: 6 nov. 2021."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 68,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

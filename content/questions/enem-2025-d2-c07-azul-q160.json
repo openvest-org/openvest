@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q160",
+  "area": "matematica",
+  "statement": "\u0016 \u0019",
+  "supportText": "Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância D da lâmina de água ao tampo da mesa, em centímetro, aumente em relação ao tempo T, em minuto, de acordo com uma função do tipo D = k + tg[p(T + m)], sendo os parâmetros k, p e m números reais, para T variando entre 0 e 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de D. A expressão algébrica que representa a relação entre D e T é 5 2",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "D T 2 5 30 , tg \u001b\u001a \u0018\u0017 \u0015\u0014 \u0012\u0011 2 5 \u0017 \u0014 \u001a"
+    },
+    {
+      "id": "B",
+      "text": "D T 4 30 tg \u001b \u0019\u0018 \u0016\u0015 \u0013\u0012 2 5 2 \u0017 \u0014 \u0011 \u001a"
+    },
+    {
+      "id": "C",
+      "text": "D T 4 2 5 tg , \u001b \u0019\u0018 \u0016\u0015 \u0013\u0012 2 1 \u0017 \u001a \u001b 30"
+    },
+    {
+      "id": "D",
+      "text": "D T tg 5 \u0019\u0018 \u0016\u0015 2 1 5 \u0016 \u0013 \u0019"
+    },
+    {
+      "id": "E",
+      "text": "D T 30 tg \u001b\u001a \u0018\u0017 \u0015\u0014 \u0012\u0011 2 2"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q160-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q160/media-01.png",
+      "alt": "Conteúdo visual da questão 160 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 160,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

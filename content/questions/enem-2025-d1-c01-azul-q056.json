@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q056",
+  "area": "ciencias-humanas",
+  "statement": "Qual é o efeito econômico do problema ambiental apresentado no texto?",
+  "supportText": "Por séculos, o Rio Reno tem sido uma rota de navegação confiável, ajudando a criar gigantes fabris ao longo de suas margens. No entanto, esses dias parecem estar no fim, pois o nível da água tem diminuído regularmente, o que impede a navegação fluvial do final do verão até o outono. Isso mostra como a crise climática atinge as economias dos países ricos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Supressão da extração de minério."
+    },
+    {
+      "id": "B",
+      "text": "Intensificação da atividade de pesca."
+    },
+    {
+      "id": "C",
+      "text": "Encarecimento da logística de transporte."
+    },
+    {
+      "id": "D",
+      "text": "Inviabilização da agricultura de subsistência."
+    },
+    {
+      "id": "E",
+      "text": "Sucateamento da indústria de transformação."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: www.estadao.com.br. Acesso em: 10 ago. 2023 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 56,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

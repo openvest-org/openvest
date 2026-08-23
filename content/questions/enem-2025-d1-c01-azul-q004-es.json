@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q004-es",
+  "area": "linguagens",
+  "statement": "Na charge, a diversidade linguística está representada pelo uso de",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "estruturas verbais com valor de futuro próximo."
+    },
+    {
+      "id": "B",
+      "text": "expressões idiomáticas características de uma região."
+    },
+    {
+      "id": "C",
+      "text": "advérbios característicos do repertório vocabular dos jovens."
+    },
+    {
+      "id": "D",
+      "text": "marcas da oralidade expressas na representação escrita da fala."
+    },
+    {
+      "id": "E",
+      "text": "enunciados interrogativos em situação comunicativa com um interlocutor."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "MORGAN, J. Disponível em: www3.gobiernodecanarias.org. Acesso em: 5 maio 2024."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q004-es-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q004-es/media-01.png",
+      "alt": "Conteúdo visual da questão 4 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 4,
+    "language": "es",
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

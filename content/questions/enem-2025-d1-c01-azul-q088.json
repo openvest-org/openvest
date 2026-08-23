@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q088",
+  "area": "ciencias-humanas",
+  "statement": "Os direitos reconhecidos no texto representam a",
+  "supportText": "Os povos indígenas têm o direito de manter, controlar, proteger e desenvolver seu patrimônio cultural, seus conhecimentos do passado, suas expressões culturais e as manifestações de suas ciências, tecnologias e culturas, compreendidos os recursos humanos e genéticos, as sementes, os medicamentos, o conhecimento das propriedades da fauna e da flora, as transmissões orais, as literaturas, os desenhos, os esportes, os jogos e as artes visuais e interpretativas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "multiplicidade dos troncos linguísticos."
+    },
+    {
+      "id": "B",
+      "text": "ampliação das influências externas."
+    },
+    {
+      "id": "C",
+      "text": "complexidade dos saberes tradicionais."
+    },
+    {
+      "id": "D",
+      "text": "sofisticação das práticas de sobrevivência."
+    },
+    {
+      "id": "E",
+      "text": "diversificação da economia de subsistência."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas.",
+    "107ª Sessão Plenária, 13 de setembro de 2007. Disponível em:",
+    "www.un.org. Acesso em: 18 abr. 2015 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 88,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

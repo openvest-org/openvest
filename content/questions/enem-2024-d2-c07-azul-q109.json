@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q109",
+  "area": "ciencias-da-natureza",
+  "statement": "Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:",
+  "supportText": "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Triatlo."
+    },
+    {
+      "id": "B",
+      "text": "Salto em altura."
+    },
+    {
+      "id": "C",
+      "text": "Marcha atlética."
+    },
+    {
+      "id": "D",
+      "text": "Maratona aquática."
+    },
+    {
+      "id": "E",
+      "text": "Ciclismo em estrada."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "SADAVA, D. et al. Vida: a ciência da biologia — volume III:",
+    "plantas e animais. Porto Alegre: Artmed, 2009 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 109,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

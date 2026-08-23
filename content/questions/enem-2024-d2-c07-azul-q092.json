@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q092",
+  "area": "ciencias-da-natureza",
+  "statement": "Qual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?",
+  "supportText": "Células a combustível microbianas (CCM) são capazes de gerar eletricidade a partir de águas residuárias urbanas e agroindustriais. As CCM são compostas de duas câmaras. Numa delas, onde ocorre o tratamento da matéria orgânica, as bactérias eletrogênicas crescem formando um biofilme e se alimentam dos poluentes presentes no efluente. Ao se alimentarem, essas bactérias geram uma corrente elétrica que percorre o material sobre o qual elas formaram o biofilme. Um fio condutor externo possibilita a migração dessa corrente para uma segunda câmara, promovendo uma reação química. A figura esquematiza uma CCM e as reações envolvidas. CH3COO− (aq) + 2 H2O (I) → 2 CO2 (g) + 7 H+ (aq) + 8 e− 4 H+ (aq) + O2 (g) + 4 e− → 2 H2O (I)",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "CH3COO− (aq) + O2 (g) → 2 CO2 (g) + 3 H+ (aq)"
+    },
+    {
+      "id": "B",
+      "text": "CO2 (g) + O2 (g) + H+ (aq) → H2O (l) + CH3COO− (aq)"
+    },
+    {
+      "id": "C",
+      "text": "CH3COO− (aq) + H+ (aq) + 2 O2 (g) → 2 CO2 (g) + 2 H2O (l)"
+    },
+    {
+      "id": "D",
+      "text": "CH3COO− (aq) + 6 H2O (l) → 2 CO2 (g) + 2 O2 (g) + 15 H+ (aq)"
+    },
+    {
+      "id": "E",
+      "text": "2 CO2 (g) + 11 H+ (aq) + O2 (g) → CH3COO− (aq) + 4 H2O (l)"
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "QUINTO, A. C. Biobaterias geram eletricidade a partir de",
+    "esgoto sanitário e efluentes agroindustriais. Disponível em:",
+    "https://jornal.usp.br. Acesso em: 1 dez. 2021 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q092-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q092/media-01.png",
+      "alt": "Conteúdo visual da questão 92 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 92,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

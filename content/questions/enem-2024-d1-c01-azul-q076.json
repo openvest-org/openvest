@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q076",
+  "area": "ciencias-humanas",
+  "statement": "Qual elemento da cultura contemporânea se relaciona às características do conceito de rizoma, conforme descrito no texto?",
+  "supportText": "Resumamos os principais caracteres de um rizoma: diferentemente das árvores ou de suas raízes, o rizoma conecta um ponto qualquer com outro ponto qualquer e cada um de seus traços não remete necessariamente a traços de mesma natureza. Contra os sistemas centrados (e mesmo policentrados), de comunicação hierárquica e ligações preestabelecidas, o rizoma é um sistema a-centrado não hierárquico e não significante, sem general, sem memória organizadora ou autômato central, unicamente definido por uma circulação de estados.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Estrutura fixa."
+    },
+    {
+      "id": "B",
+      "text": "Lógica binária."
+    },
+    {
+      "id": "C",
+      "text": "Controle homogêneo."
+    },
+    {
+      "id": "D",
+      "text": "Uniformidade de opiniões."
+    },
+    {
+      "id": "E",
+      "text": "Pluralidade de interações."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "DELEUZE, G.; GUATTARI, F. Mil platôs.",
+    "São Paulo: Editora 34, 1995 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 76,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

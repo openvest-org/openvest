@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q119",
+  "area": "ciencias-da-natureza",
+  "statement": "Nessa situação, em quantos minutos o nadador completará a prova?",
+  "supportText": "Para os circuitos de maratonas aquáticas realizadas em mares calmos e próximos à praia, é montado um sistema de boias que determinam o trajeto a ser seguido pelos nadadores. Uma das dificuldades desse tipo de circuito é compensar os efeitos da corrente marinha. O diagrama contém o circuito em que deve ser realizada uma volta no sentido anti-horário. As quatro boias estão numeradas de →, cujo 1 a 4. Existe uma corrente marinha de velocidade υc módulo é 30 metros por minuto, paralela à praia em toda a área do circuito. Nas arestas mais longas, o nadador → dos precisará nadar na direção apontada pelos vetores υn pontos 1 até 2 e de 3 até 4. Considere que a velocidade do nadador é de 50 metros por minuto, em relação à água, durante todo o circuito.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "42"
+    },
+    {
+      "id": "B",
+      "text": "65"
+    },
+    {
+      "id": "C",
+      "text": "72"
+    },
+    {
+      "id": "D",
+      "text": "105"
+    },
+    {
+      "id": "E",
+      "text": "120"
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q119-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q119/media-01.png",
+      "alt": "Conteúdo visual da questão 119 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 119,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

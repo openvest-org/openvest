@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q155",
+  "area": "matematica",
+  "statement": "Quantas diretorias diferentes podem ser constituídas por esses 10 casais?",
+  "supportText": "Dez casais fundaram um grupo de dança e decidiram constituir uma diretoria com três cargos: presidente, secretário e tesoureiro. Para maior representatividade, decidiu-se que no máximo uma pessoa por casal poderá ocupar um cargo nessa diretoria.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "10 × 9 × 8"
+    },
+    {
+      "id": "B",
+      "text": "20 × 18 × 16"
+    },
+    {
+      "id": "C",
+      "text": "20 × 19 × 18"
+    },
+    {
+      "id": "D",
+      "text": "10 × 9 × 8 × 2"
+    },
+    {
+      "id": "E",
+      "text": "20 × 18 × 16 × 2"
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 155,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

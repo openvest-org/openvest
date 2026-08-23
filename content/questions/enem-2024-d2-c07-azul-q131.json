@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q131",
+  "area": "ciencias-da-natureza",
+  "statement": "O circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por Imáx, é",
+  "supportText": "O LED é um dispositivo eletrônico que conduz corrente elétrica em um único sentido, sendo caracterizado por uma tensão e uma corrente máxima de funcionamento, Imáx. Um LED acende apenas se a corrente que o percorre está no sentido permitido e se a diferença de potencial à qual está submetido é igual ou superior à sua tensão de funcionamento. A figura ilustra o símbolo do LED usado na representação de circuitos. Um estudante de física analisa as propriedades do LED em um circuito simples de corrente contínua. Ele dispõe dos seguintes materiais: uma bateria ideal de 4,5 V; dois LEDs de tensão 3,0 V e Imáx = 1,0 mA cada; e dois resistores de 1,5 kΩ cada.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": ""
+    },
+    {
+      "id": "B",
+      "text": ""
+    },
+    {
+      "id": "C",
+      "text": ""
+    },
+    {
+      "id": "D",
+      "text": ""
+    },
+    {
+      "id": "E",
+      "text": ""
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q131-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q131/media-01.png",
+      "alt": "Conteúdo visual da questão 131 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q131-m02",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q131/media-02.png",
+      "alt": "Conteúdo visual da questão 131 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q131-m03",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q131/media-03.png",
+      "alt": "Conteúdo visual da questão 131 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q131-m04",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q131/media-04.png",
+      "alt": "Conteúdo visual da questão 131 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q131-m05",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q131/media-05.png",
+      "alt": "Conteúdo visual da questão 131 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q131-m06",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q131/media-06.png",
+      "alt": "Conteúdo visual da questão 131 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 131,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

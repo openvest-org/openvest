@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q070",
+  "area": "ciencias-humanas",
+  "statement": "A situação de desmoronamento do solo descrita no texto origina-se da",
+  "supportText": "Nos Estados Unidos, um hotel perto de um parque foi engolido por uma enorme cratera. E não é a primeira vez que esse tipo de incidente acontece na Flórida. Em minutos, uma ala inteira do hotel era engolida pela cratera de 30 metros de diâmetro e cinco de profundidade. O diretor do resort em Clermont, perto dos parques temáticos da Flórida, diz que o prédio tinha 15 anos, e que até então o solo nunca havia apresentado problemas. Os afundamentos são um fenômeno comum na Flórida por causa das formações de calcário e argila no subsolo, mas às vezes chuvas fortes, ou a drenagem do solo para construção, acabam contribuindo para o surgimento desses buracos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "cristalização da estrutura geológica."
+    },
+    {
+      "id": "B",
+      "text": "ação do intemperismo químico."
+    },
+    {
+      "id": "C",
+      "text": "recomposição da mata ciliar."
+    },
+    {
+      "id": "D",
+      "text": "acumulação de sedimentos orgânicos."
+    },
+    {
+      "id": "E",
+      "text": "impermeabilização da superfície ocupada."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: http://g1.globo.com. Acesso em: 10 dez. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 70,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

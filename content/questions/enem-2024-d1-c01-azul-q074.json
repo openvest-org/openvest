@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q074",
+  "area": "ciencias-humanas",
+  "statement": "O reconhecimento da festa descrita no texto, como patrimônio histórico, encontra sustentação no(a)",
+  "supportText": "O Círio de Nazaré é uma festa que ocorre, anualmente, na cidade de Belém do Pará, no segundo domingo do mês de outubro. Sua estrutura ritualística tem origem no catolicismo devocional que surge em Portugal por volta do século XV. Até 1789, a festa em louvor a Nossa Senhora de Nazaré, em Belém, era marcada pelas ladainhas e novenas. Em 1790, a Igreja Católica autorizou a realização de festa em homenagem à Virgem. A primeira procissão ocorreu em 1793. Existindo há mais de duzentos anos, a Festa congrega um extenso mosaico de elementos integrados em diferentes planos e graus de intensidade.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "instituição de políticas públicas de âmbito local."
+    },
+    {
+      "id": "B",
+      "text": "registro de bens culturais de natureza imaterial."
+    },
+    {
+      "id": "C",
+      "text": "tombamento de sítios arqueológicos de propriedade privada."
+    },
+    {
+      "id": "D",
+      "text": "salvaguarda de elementos sacros de expressão regional."
+    },
+    {
+      "id": "E",
+      "text": "categorização de manifestações cristãs de caráter oficial."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "ALMEIDA, I. M. A. Revisitando o Círio de Nazaré a partir da lente",
+    "sociológica de Eidorfe Moreira. Boletim do Museu Paraense",
+    "Emílio Goeldi, n. 3, set.-dez. 2015 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 74,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

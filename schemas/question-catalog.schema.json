@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openvest.org/schemas/question-catalog.schema.json",
+  "title": "OpenVest question catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "questions"],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "area", "hasMedia", "source"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "area": { "type": "string", "minLength": 1 },
+          "hasMedia": { "type": "boolean" },
+          "source": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["exam", "examId", "year", "day", "booklet", "color", "number", "language"],
+            "properties": {
+              "exam": { "type": "string", "minLength": 1 },
+              "examId": { "type": "string", "minLength": 1 },
+              "year": { "type": "integer" },
+              "day": { "enum": [1, 2] },
+              "booklet": { "type": "integer" },
+              "color": { "type": "string", "minLength": 1 },
+              "number": { "type": "integer", "minimum": 1 },
+              "language": { "type": ["string", "null"], "enum": ["en", "es", null] }
+            }
+          }
+        }
+      }
+    }
+  }
+}

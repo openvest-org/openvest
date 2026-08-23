@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q023",
+  "area": "linguagens",
+  "statement": "A utilização de recursos visuais como suturas, cortes e ruínas por Adriana Varejão, na obra Azulejaria em carne viva, remete à(s)",
+  "supportText": "TEXTO I Os trabalhos da exposição Adriana Varejão: suturas, fissuras, ruínas colocam em pauta o exame da história visual, das tradições iconográficas europeias e do fazer artístico ocidental. O corte, a rachadura, o talho e a fissura são elementos de narrativas recorrentes nos trabalhos da artista desde 1992. As produções recentes incluem pinturas tridimensionais de grande escala das séries Ruínas de charque e Línguas. TEXTO II VAREJÃO, A. Azulejaria em carne viva. Óleo sobre tela, poliuretano, madeira e alumínio, 160 × 200 × 25 cm. 1999.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "sobreposição da cultura brasileira à arte portuguesa."
+    },
+    {
+      "id": "B",
+      "text": "manutenção da representação realista na arte brasileira."
+    },
+    {
+      "id": "C",
+      "text": "violências desencadeadas pelo processo colonial brasileiro."
+    },
+    {
+      "id": "D",
+      "text": "desigualdades nos incentivos à produção artística brasileira."
+    },
+    {
+      "id": "E",
+      "text": "negligência na conservação do patrimônio arquitetônico luso-brasileiro."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: https://pinacoteca.org.br.",
+    "Acesso em: 10 jan. 2025 (adaptado).",
+    "Disponível em: www.adrianavarejao.net. Acesso em: 10 jan. 2025."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d1-c01-azul-q023-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d1-c01-azul/questions/enem-2025-d1-c01-azul-q023/media-01.png",
+      "alt": "Conteúdo visual da questão 23 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 23,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

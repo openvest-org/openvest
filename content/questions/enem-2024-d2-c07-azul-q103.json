@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q103",
+  "area": "ciencias-da-natureza",
+  "statement": "O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a",
+  "supportText": "Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "difusão."
+    },
+    {
+      "id": "B",
+      "text": "absorção."
+    },
+    {
+      "id": "C",
+      "text": "condução."
+    },
+    {
+      "id": "D",
+      "text": "irradiação."
+    },
+    {
+      "id": "E",
+      "text": "convecção."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "5 dicas de instalação de aquecedor solar. Disponível em:",
+    "https://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q103-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q103/media-01.png",
+      "alt": "Conteúdo visual da questão 103 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 103,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

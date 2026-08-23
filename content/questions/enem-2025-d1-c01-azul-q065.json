@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q065",
+  "area": "ciencias-humanas",
+  "statement": "A reflexão contida no texto faz referência aos pressupostos de uma doutrina ética representada pelo",
+  "supportText": "O que eu queria ter sido Um nome para o que sou, importa muito pouco. Importa o que eu gostaria de ser. O que eu gostaria de ser era uma lutadora. Quero dizer, uma pessoa que luta pelo bem dos outros. Isso desde pequena eu quis. Por que foi o destino me levando a escrever o que já escrevi, em vez de também desenvolver em mim a qualidade de lutadora que eu tinha? Em pequena, minha família por brincadeira chamava-me de “a protetora dos animais”. Porque bastava acusarem uma pessoa para eu imediatamente defendê-la. E eu sentia o drama social com tanta intensidade que vivia de coração perplexo diante das grandes injustiças a que são submetidas as chamadas classes menos privilegiadas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "estado eudaimônico."
+    },
+    {
+      "id": "B",
+      "text": "referencial hedonista."
+    },
+    {
+      "id": "C",
+      "text": "pensamento altruísta."
+    },
+    {
+      "id": "D",
+      "text": "movimento antiespecista."
+    },
+    {
+      "id": "E",
+      "text": "comportamento pragmático."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "LISPECTOR, C. Aprendendo a viver. Rio de Janeiro: Rocco Digital, 2013."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 65,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

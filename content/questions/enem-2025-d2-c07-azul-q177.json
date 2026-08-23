@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q177",
+  "area": "matematica",
+  "statement": "Qual é o volume de ouro, em centímetro cúbico, necessário para a confecção dessas medalhas?",
+  "supportText": "A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm. A figura ABCD tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas. Considere 3,1 como valor aproximado para p.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "288"
+    },
+    {
+      "id": "B",
+      "text": "297"
+    },
+    {
+      "id": "C",
+      "text": "567"
+    },
+    {
+      "id": "D",
+      "text": "990"
+    },
+    {
+      "id": "E",
+      "text": "1 134"
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q177-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q177/media-01.png",
+      "alt": "Conteúdo visual da questão 177 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 177,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q093",
+  "area": "ciencias-da-natureza",
+  "statement": "O aumento na taxa de mortalidade dessas aves estava associado a uma redução na",
+  "supportText": "Os funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com água.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "dilatação do papo."
+    },
+    {
+      "id": "B",
+      "text": "reposição de penas das asas."
+    },
+    {
+      "id": "C",
+      "text": "secreção da glândula uropigial."
+    },
+    {
+      "id": "D",
+      "text": "formação da membrana natatória."
+    },
+    {
+      "id": "E",
+      "text": "largura das cavidades de ossos pneumáticos."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 93,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

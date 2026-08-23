@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q020",
+  "area": "linguagens",
+  "statement": "O recurso utilizado na progressão textual para garantir a unidade temática dessa crônica é a",
+  "supportText": "Sempre passo nervoso quando leio minha crônica neste jornal e percebo que escapuliu a palavra “coisa” em alguma frase. Acontece que “coisa” está entre as coisas mais deliciosas do mundo. O primeiro banho da minha filha foi embalado pela minha voz dizendo, ao fundo, “cuidado, ela ainda é uma coisinha tão pequena”. “Viu só que amor? Nunca vi coisa assim”. O amor que não dá conta de explicação é “a coisa” em seu esplendor e excelência. “Alguma coisa acontece no meu coração” é a frase mais bonita que alguém já disse sobre São Paulo. E quando Caetano, citado aqui pela terceira vez pra defender a dimensão poética da coisa, diz “coisa linda”, nós sabemos que nenhuma palavra definiria de forma mais profunda e literária o quão bela e amada uma coisa pode ser. “Coisar” é verbo de quem está com pressa ou tem lapsos de memória. É pra quando “mexe qualquer coisa dentro doida”. E que coisa magnífica poder se expressar tal qual Caetano Veloso. Agora chega, porque “esse papo já tá qualquer coisa” e eu já tô “pra lá de Marrakech”.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "intertextualidade, marcada pela citação de versos de letras de canções."
+    },
+    {
+      "id": "B",
+      "text": "metalinguagem, marcada pela referência à escrita de crônicas pela autora."
+    },
+    {
+      "id": "C",
+      "text": "reiteração, marcada pela repetição de uma determinada palavra e de seus cognatos."
+    },
+    {
+      "id": "D",
+      "text": "conexão, marcada pela presença dos conectores lógicos “quando” e “porque” entre orações."
+    },
+    {
+      "id": "E",
+      "text": "pronominalização, marcada pela retomada de “minha filha” e “um namorado ruim” pelos pronomes “ela” e “lo”."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "TATI BERNARDI. Disponível em: www1.folha.uol.com.br.",
+    "Acesso em: 3 jan. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 20,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

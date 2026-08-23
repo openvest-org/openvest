@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q177",
+  "area": "matematica",
+  "statement": "O custo total, em real, para a produção de 80 mochilas será",
+  "supportText": "Uma empresa produz mochilas escolares sob encomenda. Essa empresa tem um custo total de produção, composto por um custo fixo, que não depende do número de mochilas, mais um custo variável, que é proporcional ao número de mochilas produzidas. O custo total cresce de forma linear, e a tabela apresenta esse custo para três quantidades de mochilas produzidas. Quantidade de 30 50 100 mochilas Custo total (R$) 1 050,00 1 650,00 3 150,00",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "2 400,00."
+    },
+    {
+      "id": "B",
+      "text": "2 520,00."
+    },
+    {
+      "id": "C",
+      "text": "2 550,00."
+    },
+    {
+      "id": "D",
+      "text": "2 700,00."
+    },
+    {
+      "id": "E",
+      "text": "2 800,00."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q177-m01",
+      "kind": "vector",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q177/media-01.png",
+      "alt": "Conteúdo visual da questão 177 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 177,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

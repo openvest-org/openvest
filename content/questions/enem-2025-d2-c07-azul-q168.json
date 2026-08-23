@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q168",
+  "area": "matematica",
+  "statement": "A autoescola que será contratada é a",
+  "supportText": "Em um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos: • pacote com 20 aulas teóricas; • pacote com 10 aulas práticas; • aluguel do veículo para realização das aulas práticas. Uma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula teórica e de cada aula prática em três autoescolas. O quadro apresenta esses valores. Autoescola Valor de cada aula teórica (R$) Valor de cada aula prática (R$) Aluguel do veículo (R$) I 10 80 400 II 30 50 200 III 20 40 400 Ela contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "I, com o custo total de R$ 1 400,00."
+    },
+    {
+      "id": "B",
+      "text": "II, com o custo total de R$ 280,00."
+    },
+    {
+      "id": "C",
+      "text": "II, com o custo total de R$ 1 300,00."
+    },
+    {
+      "id": "D",
+      "text": "III, com o custo total de R$ 460,00."
+    },
+    {
+      "id": "E",
+      "text": "III, com o custo total de R$ 1 200,00."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q168-m01",
+      "kind": "vector",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q168/media-01.png",
+      "alt": "Conteúdo visual da questão 168 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 168,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

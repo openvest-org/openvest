@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q081",
+  "area": "ciencias-humanas",
+  "statement": "Na esfera de ação do Estado, com a Constituição de 1988, os espaços mencionados tornaram-se objeto de",
+  "supportText": "No Brasil, os remanescentes de antigos quilombos, “mocambos”, “comunidades negras rurais”, “quilombos contemporâneos”, “comunidades quilombolas” ou “terras de preto” referem-se a um mesmo patrimônio territorial e cultural inestimável, que só recentemente passaram a ter atenção do Estado e ser do interesse de algumas autoridades e organismos oficiais.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "iniciativas de planejamento familiar."
+    },
+    {
+      "id": "B",
+      "text": "projetos de reorientação religiosa."
+    },
+    {
+      "id": "C",
+      "text": "programas de moradias sustentáveis."
+    },
+    {
+      "id": "D",
+      "text": "políticas de inserção social."
+    },
+    {
+      "id": "E",
+      "text": "medidas de homogeneização educacional."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "ANJOS, R. S. A. Cartografia e quilombos: territórios étnicos",
+    "africanos no Brasil. Africana Studia, n. 9, 2007."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 81,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

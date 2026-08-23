@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q080",
+  "area": "ciencias-humanas",
+  "statement": "Uma medida pública que contradiz o modelo de cidade exposto no texto é a",
+  "supportText": "Cidade sustentável é o assentamento humano constituído por uma sociedade com consciência de seu papel de agente transformador dos espaços e cuja relação não se dá pela razão natureza-objeto, e sim por uma ação sinérgica entre prudência ecológica, eficiência energética e equidade socioespacial.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "coleta seletiva de lixo."
+    },
+    {
+      "id": "B",
+      "text": "reutilização das águas pluviais."
+    },
+    {
+      "id": "C",
+      "text": "canalização dos cursos hídricos."
+    },
+    {
+      "id": "D",
+      "text": "arborização das avenidas centrais."
+    },
+    {
+      "id": "E",
+      "text": "educação ambiental da comunidade."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "ROMERO, M. Frentes do urbano para a construção de indicadores de",
+    "sustentabilidade intraurbana. Paranoá, n. 4, nov. 2007."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 80,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q087",
+  "area": "ciencias-humanas",
+  "statement": "O que sustenta o exercício do poder, conforme a configuração apresentada no texto escrito na década de 1920?",
+  "supportText": "A democracia responde a esta pergunta: quem deve exercer o poder público? A resposta é: o exercício do poder público corresponde à coletividade dos cidadãos. Contudo, nessa pergunta não se fala sobre qual extensão deva ter o poder público. Trata-se somente de determinar o sujeito a quem o mando compete. A democracia propõe que mandemos todos; quer dizer, que todos intervenham nos fatos sociais.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Soberania popular."
+    },
+    {
+      "id": "B",
+      "text": "Divisão de classes."
+    },
+    {
+      "id": "C",
+      "text": "Acúmulo de capital."
+    },
+    {
+      "id": "D",
+      "text": "Defesa da propriedade."
+    },
+    {
+      "id": "E",
+      "text": "Centralização administrativa."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "ORTEGA Y GASSET, J. apud MAIA, E. C. Mario Vargas Llosa e o",
+    "indivíduo para além da tribo. Disponível em:",
+    "www.estadodaarte.estadao.com.br.",
+    "Acesso em: 10 out. 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 87,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q006",
+  "area": "linguagens",
+  "statement": "No que diz respeito ao gênero bilhete, a autora dessa crônica",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "ressalta a formalidade na comunicação com as pessoas de sua convivência."
+    },
+    {
+      "id": "B",
+      "text": "critica a ansiedade causada pela velocidade da comunicação."
+    },
+    {
+      "id": "C",
+      "text": "expressa a obrigatoriedade de concisão nas anotações."
+    },
+    {
+      "id": "D",
+      "text": "questiona a prática da escrita de próprio punho."
+    },
+    {
+      "id": "E",
+      "text": "apresenta a diversidade de usos no cotidiano."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [
+    "enem-2025-d1-c01-azul-shared-q006-q010"
+  ],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 6,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

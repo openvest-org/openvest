@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q113",
+  "area": "ciencias-da-natureza",
+  "statement": "como a que ocorre nos procariontes nitrificantes?",
+  "supportText": "Metabolismo de procariontes O esquema representa a ação de organismos no ciclo do nitrogênio e no ciclo do carbono. Os números correspondem a algumas etapas dos dois ciclos distintos.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "4"
+    },
+    {
+      "id": "E",
+      "text": "5"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Disponível em: https://pt.khanacademy.org.",
+    "Acesso em: 27 jun. 2024 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q113-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q113/media-01.png",
+      "alt": "Conteúdo visual da questão 113 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q113-m02",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q113/media-02.png",
+      "alt": "Conteúdo visual da questão 113 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 113,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q066",
+  "area": "ciencias-humanas",
+  "statement": "Qual é a característica da sociedade industrial do século XX apresentada no texto?",
+  "supportText": "Independência de pensamento, autonomia e direito à oposição política estão perdendo sua função crítica básica numa sociedade que parece cada vez mais capaz de atender às necessidades dos indivíduos através da forma pela qual é organizada. Nas condições de um padrão de vida crescente, o não conformismo com o próprio sistema parece socialmente inútil, principalmente quando acarreta desvantagens econômicas e políticas tangíveis e ameaça o funcionamento suave do todo.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Gestão integrada."
+    },
+    {
+      "id": "B",
+      "text": "Relativismo moral."
+    },
+    {
+      "id": "C",
+      "text": "Desobediência civil."
+    },
+    {
+      "id": "D",
+      "text": "Realidade unidimensional."
+    },
+    {
+      "id": "E",
+      "text": "Desenvolvimento tecnológico."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "MARCUSE, H. Ideologia da sociedade industrial.",
+    "Rio de Janeiro: Zahar, 1969."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 66,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

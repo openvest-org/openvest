@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q019",
+  "area": "linguagens",
+  "statement": "Nesse texto, as atletas brasileiras defendem o(a)",
+  "supportText": "No predomínio das mulheres pretas brasileiras nos Jogos Olímpicos de 2024, uma coisa chamou a atenção no pódio: elas valorizam a parte psicológica. As duas medalhistas de ouro, a judoca Beatriz Souza e a ginasta Rebeca Andrade, ressaltam, em várias entrevistas, a importância da saúde mental. Em uma dessas entrevistas, Rebeca sinaliza: “Acho que não é só sobre vencer a Simone, é sobre vencer a mim mesma. A minha briga está na minha cabeça, não está com outras pessoas. Para conseguir fazer as minhas apresentações, preciso controlar a minha cabeça, o meu corpo, e essa é a briga”. Na mesma linha, a skatista Rayssa Leal exalta a necessidade da terapia, e a Seleção Brasileira de Futebol de Mulheres tem o suporte psicológico como reforço no treinamento.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "investimento na modernização de equipamentos."
+    },
+    {
+      "id": "B",
+      "text": "subordinação do treinamento físico ao mental."
+    },
+    {
+      "id": "C",
+      "text": "estímulo à competição entre adversárias."
+    },
+    {
+      "id": "D",
+      "text": "aprimoramento da expressão corporal."
+    },
+    {
+      "id": "E",
+      "text": "importância da saúde emocional."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Disponível em: https://iclnoticias.com.br.",
+    "Acesso em: 18 set. 2024 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 19,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

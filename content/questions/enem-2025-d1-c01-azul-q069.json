@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q069",
+  "area": "ciencias-humanas",
+  "statement": "Conforme o texto, no imaginário dos fiéis cristãos do período medieval, a salvação era alcançada por meio das",
+  "supportText": "A difusão pelos cônegos do ideal apostólico, bem como a influência dos eremitas e dos pregadores errantes que na sua esteira propagavam temas evangélicos, contribuíram para fazer nascer, entre os fiéis, o desejo de se erguerem ao nível espiritual do clero e de obterem a sua salvação, sem que para isso tivessem de renunciar ao seu estado. Pela primeira vez, a Igreja entreabria as portas da graça em benefício da totalidade dos fiéis, colocando, como única condição, a sua partida para o Oriente, a fim de aí lutarem contra os inimigos de Cristo.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "palavras escritas."
+    },
+    {
+      "id": "B",
+      "text": "práticas litúrgicas."
+    },
+    {
+      "id": "C",
+      "text": "ações voluntárias."
+    },
+    {
+      "id": "D",
+      "text": "ideias messiânicas."
+    },
+    {
+      "id": "E",
+      "text": "celebrações coletivas."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "VAUCHEZ, A. A espiritualidade da Idade Média Ocidental,",
+    "séc. VIII-XIII. Lisboa: Estampa, 1995."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 69,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

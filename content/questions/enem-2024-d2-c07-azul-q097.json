@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q097",
+  "area": "ciencias-da-natureza",
+  "statement": "Qual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
+  "supportText": "O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 mg/mL. Considere as massas molares: NaCl = 58,5 g/mol; Na = 23 g/mol.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "0,7 g"
+    },
+    {
+      "id": "B",
+      "text": "1,8 g"
+    },
+    {
+      "id": "C",
+      "text": "2,8 g"
+    },
+    {
+      "id": "D",
+      "text": "3,6 g"
+    },
+    {
+      "id": "E",
+      "text": "7,0 g"
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 97,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

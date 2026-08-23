@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q056",
+  "area": "ciencias-humanas",
+  "statement": "O ritual brasileiro apresentado no texto representa, para seus adeptos, a",
+  "supportText": "No primeiro dia, foi colocada uma panela de barro no centro do barracão, a qual representava o espírito do morto presente na sala. Aqueles que dançavam depositavam moedas ao passarem junto dela e, ao seu redor, milho branco, mel, água, acaçás, cachaça. No segundo dia, os ogãs, antes de iniciar a cerimônia, caminharam pelo corredor formado pelas casas, batendo com longas varas de bambus nos seus beirais, até alcançarem o portão de entrada. No terceiro dia, quatro pessoas, as mais influentes do culto, carregaram um lençol, que aparentemente continha um corpo em seu interior. No entanto, esse corpo era formado por folhas verdes de plantas, que foram derramadas sobre uma pessoa.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "manutenção de uma memória coletiva."
+    },
+    {
+      "id": "B",
+      "text": "contestação de uma identidade étnica."
+    },
+    {
+      "id": "C",
+      "text": "imolação de uma divindade africana."
+    },
+    {
+      "id": "D",
+      "text": "legitimação de uma prática pagã."
+    },
+    {
+      "id": "E",
+      "text": "promissão de uma revolta social."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "MANZOCHI, H. M. Axexe, um rito de passagem. Revista do Museu",
+    "de Arqueologia e Etnologia, n. 5, 1995 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 56,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

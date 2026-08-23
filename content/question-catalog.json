@@ -1,0 +1,5405 @@
+{
+  "schemaVersion": "1.0",
+  "questions": [
+    {
+      "id": "enem-2025-d1-c01-azul-q001-en",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 1,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q001-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 1,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q002-en",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 2,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q002-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 2,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q003-en",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 3,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q003-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 3,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q004-en",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 4,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q004-es",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 4,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q005-en",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 5,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q005-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 5,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q006",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 6,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q007",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 7,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q008",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 8,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q009",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 9,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q010",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 10,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q011",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 11,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q012",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 12,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q013",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 13,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q014",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 14,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q015",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 15,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q016",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 16,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q017",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 17,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q018",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 18,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q019",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 19,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q020",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 20,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q021",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 21,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q022",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 22,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q023",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 23,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q024",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 24,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q025",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 25,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q026",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 26,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q027",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 27,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q028",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 28,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q029",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 29,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q030",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 30,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q031",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 31,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q032",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 32,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q033",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 33,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q034",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 34,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q035",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 35,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q036",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 36,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q037",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 37,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q038",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 38,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q039",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 39,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q040",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 40,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q041",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 41,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q042",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 42,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q043",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 43,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q044",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 44,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q045",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 45,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q046",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 46,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q047",
+      "area": "ciencias-humanas",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 47,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q048",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 48,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q049",
+      "area": "ciencias-humanas",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 49,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q050",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 50,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q051",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 51,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q052",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 52,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q053",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 53,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q054",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 54,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q055",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 55,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q056",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 56,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q057",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 57,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q058",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 58,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q059",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 59,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q060",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 60,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q061",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 61,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q062",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 62,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q063",
+      "area": "ciencias-humanas",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 63,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q064",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 64,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q065",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 65,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q066",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 66,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q067",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 67,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q068",
+      "area": "ciencias-humanas",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 68,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q069",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 69,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q070",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 70,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q071",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 71,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q072",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 72,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q073",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 73,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q074",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 74,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q075",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 75,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q076",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 76,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q077",
+      "area": "ciencias-humanas",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 77,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q078",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 78,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q079",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 79,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q080",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 80,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q081",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 81,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q082",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 82,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q083",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 83,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q084",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 84,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q085",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 85,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q086",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 86,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q087",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 87,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q088",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 88,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q089",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 89,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d1-c01-azul-q090",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d1-c01-azul",
+        "year": 2025,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 90,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q091",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 91,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q092",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 92,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q093",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 93,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q094",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 94,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q095",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 95,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q096",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 96,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q097",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 97,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q098",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 98,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q099",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 99,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q100",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 100,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q101",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 101,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q102",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 102,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q103",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 103,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q104",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 104,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q105",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 105,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q106",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 106,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q107",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 107,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q108",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 108,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q109",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 109,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q110",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 110,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q111",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 111,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q112",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 112,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q113",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 113,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q114",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 114,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q115",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 115,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q116",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 116,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q117",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 117,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q118",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 118,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q119",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 119,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q120",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 120,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q121",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 121,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q122",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 122,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q124",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 124,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q125",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 125,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q126",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 126,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q127",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 127,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q128",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 128,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q129",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 129,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q130",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 130,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q131",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 131,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q133",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 133,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q134",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 134,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q135",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 135,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q136",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 136,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q137",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 137,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q139",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 139,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q140",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 140,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q141",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 141,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q142",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 142,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q143",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 143,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q144",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 144,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q145",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 145,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q146",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 146,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q147",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 147,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q148",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 148,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q149",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 149,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q150",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 150,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q151",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 151,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q152",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 152,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q153",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 153,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q154",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 154,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q155",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 155,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q156",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 156,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q157",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 157,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q158",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 158,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q159",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 159,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q160",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 160,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q161",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 161,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q162",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 162,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q163",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 163,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q164",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 164,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q165",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 165,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q166",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 166,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q167",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 167,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q168",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 168,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q170",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 170,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q171",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 171,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q172",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 172,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q173",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 173,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q175",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 175,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q176",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 176,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q177",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 177,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q178",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 178,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q179",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 179,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q180",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2025-d2-c07-azul",
+        "year": 2025,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 180,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q001-en",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 1,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q001-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 1,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q002-en",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 2,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q002-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 2,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q003-en",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 3,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q003-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 3,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q004-en",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 4,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q004-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 4,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q005-en",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 5,
+        "language": "en"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q005-es",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 5,
+        "language": "es"
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q006",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 6,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q007",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 7,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q008",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 8,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q009",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 9,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q010",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 10,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q011",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 11,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q012",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 12,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q013",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 13,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q014",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 14,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q015",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 15,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q016",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 16,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q017",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 17,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q018",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 18,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q019",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 19,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q020",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 20,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q021",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 21,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q022",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 22,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q023",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 23,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q024",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 24,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q025",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 25,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q026",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 26,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q027",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 27,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q028",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 28,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q029",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 29,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q030",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 30,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q031",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 31,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q032",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 32,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q033",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 33,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q034",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 34,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q035",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 35,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q036",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 36,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q037",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 37,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q038",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 38,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q039",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 39,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q040",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 40,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q041",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 41,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q042",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 42,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q043",
+      "area": "linguagens",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 43,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q044",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 44,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q045",
+      "area": "linguagens",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 45,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q046",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 46,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q047",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 47,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q048",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 48,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q049",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 49,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q050",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 50,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q051",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 51,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q052",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 52,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q053",
+      "area": "ciencias-humanas",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 53,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q054",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 54,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q055",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 55,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q056",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 56,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q057",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 57,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q058",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 58,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q059",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 59,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q060",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 60,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q061",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 61,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q062",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 62,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q063",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 63,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q064",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 64,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q065",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 65,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q066",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 66,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q067",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 67,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q068",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 68,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q069",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 69,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q070",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 70,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q071",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 71,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q072",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 72,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q073",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 73,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q074",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 74,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q075",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 75,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q076",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 76,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q077",
+      "area": "ciencias-humanas",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 77,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q078",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 78,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q079",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 79,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q080",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 80,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q081",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 81,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q082",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 82,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q083",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 83,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q084",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 84,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q085",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 85,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q086",
+      "area": "ciencias-humanas",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 86,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q087",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 87,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q088",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 88,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q089",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 89,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q090",
+      "area": "ciencias-humanas",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d1-c01-azul",
+        "year": 2024,
+        "day": 1,
+        "booklet": 1,
+        "color": "azul",
+        "number": 90,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q091",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 91,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q092",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 92,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q093",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 93,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q094",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 94,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q095",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 95,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q096",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 96,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q097",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 97,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q098",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 98,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q099",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 99,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q100",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 100,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q101",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 101,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q102",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 102,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q103",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 103,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q104",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 104,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q105",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 105,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q106",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 106,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q107",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 107,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q108",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 108,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q109",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 109,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q110",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 110,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q111",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 111,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q112",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 112,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q113",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 113,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q114",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 114,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q115",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 115,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q116",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 116,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q117",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 117,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q118",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 118,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q119",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 119,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q120",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 120,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q121",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 121,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q122",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 122,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q123",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 123,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q124",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 124,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q125",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 125,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q126",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 126,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q128",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 128,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q130",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 130,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q131",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 131,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q132",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 132,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q133",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 133,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q134",
+      "area": "ciencias-da-natureza",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 134,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q135",
+      "area": "ciencias-da-natureza",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 135,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q136",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 136,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q137",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 137,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q138",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 138,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q139",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 139,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q140",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 140,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q141",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 141,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q142",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 142,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q143",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 143,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q144",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 144,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q145",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 145,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q146",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 146,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q147",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 147,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q148",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 148,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q149",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 149,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q150",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 150,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q151",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 151,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q152",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 152,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q153",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 153,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q154",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 154,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q155",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 155,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q156",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 156,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q157",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 157,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q158",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 158,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q159",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 159,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q160",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 160,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q162",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 162,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q163",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 163,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q164",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 164,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q165",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 165,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q166",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 166,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q167",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 167,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q169",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 169,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q170",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 170,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q171",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 171,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q172",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 172,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q173",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 173,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q175",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 175,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q176",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 176,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q177",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 177,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q178",
+      "area": "matematica",
+      "hasMedia": true,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 178,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q179",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 179,
+        "language": null
+      }
+    },
+    {
+      "id": "enem-2024-d2-c07-azul-q180",
+      "area": "matematica",
+      "hasMedia": false,
+      "source": {
+        "exam": "ENEM",
+        "examId": "enem-2024-d2-c07-azul",
+        "year": 2024,
+        "day": 2,
+        "booklet": 7,
+        "color": "azul",
+        "number": 180,
+        "language": null
+      }
+    }
+  ]
+}

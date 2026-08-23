@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q064",
+  "area": "ciencias-humanas",
+  "statement": "Os textos indicam a participação de artistas e intelectuais brasileiros em defesa do(a)",
+  "supportText": "TEXTO I Neta de Tomásia, uma escravizada alforriada, Chiquinha Gonzaga foi uma das primeiras mulheres a se destacar na música popular brasileira. Entre suas obras mais famosas estão a marcha Ó abre alas, sucesso nos blocos de Carnaval até hoje, e o tango Gaúcho, além de inúmeras peças musicais para teatro e óperas. Chiquinha também teve uma atuação em defesa dos direitos das mulheres e pelo fim da escravatura. TEXTO II Depois da estreia de sua peça Gonzaga, em 1867, que tem como um de seus núcleos dramáticos dois escravizados, pai e filha, separados há muitos anos, Castro Alves escreve talvez o maior conjunto de poemas antiescravistas do Romantismo brasileiro, publicados em 1883 no livro Os escravos, doze anos após a sua morte. Os textos Vozes d’África e Navio negreiro, por exemplo, publicados em folhetos, já em 1878, tiveram enorme repercussão desde a sua circulação, a ponto de Afrânio Coutinho (um importante crítico brasileiro) afirmar ter sido Castro Alves, no que diz respeito à poesia antiescravista, um dos primeiros que o Brasil ouviu.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "ação integralista."
+    },
+    {
+      "id": "B",
+      "text": "literatura realista."
+    },
+    {
+      "id": "C",
+      "text": "movimento abolicionista."
+    },
+    {
+      "id": "D",
+      "text": "política indigenista."
+    },
+    {
+      "id": "E",
+      "text": "nacionalismo desenvolvimentista."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "Disponível em: www.uol.com.br. Acesso em: 7 out. 2023 (adaptado).",
+    "Disponível em: www.uol.com.br. Acesso em: 8 out. 2023 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 64,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

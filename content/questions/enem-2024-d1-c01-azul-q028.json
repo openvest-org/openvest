@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q028",
+  "area": "linguagens",
+  "statement": "Para apresentar a apropriação literária que faz da obra de Machado de Assis, o autor desse texto",
+  "supportText": "Data venia Conheci Bentinho e Capitu nos meus curiosos e antigos quinze anos. E os olhos de água da jovem de Matacavalos atraíram-me, seduziram-me ao primeiro contato. Aliados ao seu jeito de ser, flor e mistério. Mas tomou-me também a indignação diante do narrador e seu texto, feito de acusação e vilipêndio. Sem qualquer direito de defesa. Sem acesso ao discurso, usurpado, sutilmente, pela palavra autoritária do marido, algoz, em pele de cordeiro vitimado. Crudelíssimo e desumano: não bastasse o que faz com a mulher, chega a desejar a morte do próprio filho e a festejá-la com um jantar, sem qualquer remorso. No fundo, uma pobre consciência dilacerada, um homem dividido, que busca encontrar-se na memória, e acaba faltando-se a si mesmo. Retomei inúmeras vezes a triste história daquele amor em desencanto. Familiarizei-me, ao longo do tempo, com a crítica do texto; poucos, muito poucos, escapam das bem traçadas linhas do libelo condenatório; no mínimo concedem à ré o beneplácito da dúvida: convertem-na num enigma indecifrável, seu atributo consagrador. Eis que, diante de mais um retorno ao romance, veio a iluminação: por que não dar voz plena àquela mulher, brasileira do século XIX, que, apesar de todas as artimanhas e do maquiavelismo do companheiro, se converte numa das mais fascinantes criaturas do gênio que foi Machado de Assis? A empresa era temerária, mas escrever é sempre um risco. Apoiado no espaço de liberdade em que habita a Literatura, arrisquei-me. O resultado: este livro em que, além-túmulo, como Brás Cubas, a dona dos olhos de ressaca assume, à luz do mistério da arte literária e do próprio texto do Dr. Bento Santiago, seu discurso e sua verdade.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "relaciona aspectos centrais da obra original e, então, reafirma o ponto de vista adotado."
+    },
+    {
+      "id": "B",
+      "text": "explica os pontos de vista de críticos da literatura e, por fim, os redimensiona na discussão."
+    },
+    {
+      "id": "C",
+      "text": "introduz elementos relevantes da história e, na sequência, apresenta motivos para refutá-los."
+    },
+    {
+      "id": "D",
+      "text": "justifica as razões pelas quais adotou certa abordagem e, em seguida, reconsidera tal escolha."
+    },
+    {
+      "id": "E",
+      "text": "contextualiza o enredo de forma subjetiva e, na conclusão, explicita o foco narrativo a ser assumido."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "PROENÇA FILHO, D. Capitu: memórias póstumas.",
+    "Rio de Janeiro: Atrium, 1998."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 28,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

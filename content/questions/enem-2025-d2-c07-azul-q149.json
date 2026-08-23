@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q149",
+  "area": "matematica",
+  "statement": "Quantos vértices tem esse poliedro?",
+  "supportText": "A cúpula pentagonal giralongada é um poliedro de Johnson, cujas faces são polígonos regulares, mas que não é um poliedro de Platão, de Arquimedes, prisma ou antiprisma. As figuras apresentam esse poliedro em duas posições e uma de suas planificações.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "21"
+    },
+    {
+      "id": "B",
+      "text": "25"
+    },
+    {
+      "id": "C",
+      "text": "55"
+    },
+    {
+      "id": "D",
+      "text": "80"
+    },
+    {
+      "id": "E",
+      "text": "110"
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q149-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q149/media-01.png",
+      "alt": "Conteúdo visual da questão 149 do ENEM 2025"
+    },
+    {
+      "id": "enem-2025-d2-c07-azul-q149-m02",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q149/media-02.png",
+      "alt": "Conteúdo visual da questão 149 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 149,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q086",
+  "area": "ciencias-humanas",
+  "statement": "A comparação entre as imagens de satélite indica a ocorrência de um processo de",
+  "supportText": "TEXTO I TEXTO II",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "conservação de lugares afetivos."
+    },
+    {
+      "id": "B",
+      "text": "aumento de áreas desertificadas."
+    },
+    {
+      "id": "C",
+      "text": "redefinição de fronteiras nacionais."
+    },
+    {
+      "id": "D",
+      "text": "artificialização do espaço geográfico."
+    },
+    {
+      "id": "E",
+      "text": "mudança da dinâmica macroclimática."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "Disponível em: https://earth.google.com. Acesso em: 13 out. 2023.",
+    "Disponível em: https://earth.google.com. Acesso em: 13 out. 2023."
+  ],
+  "media": [
+    {
+      "id": "enem-2024-d1-c01-azul-q086-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d1-c01-azul/questions/enem-2024-d1-c01-azul-q086/media-01.png",
+      "alt": "Conteúdo visual da questão 86 do ENEM 2024"
+    },
+    {
+      "id": "enem-2024-d1-c01-azul-q086-m02",
+      "kind": "image",
+      "path": "/content/enem-2024-d1-c01-azul/questions/enem-2024-d1-c01-azul-q086/media-02.png",
+      "alt": "Conteúdo visual da questão 86 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 86,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

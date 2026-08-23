@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q111",
+  "area": "ciencias-da-natureza",
+  "statement": "Dar destino sustentável às sobras, conforme apresentado na etapa 4, ajuda a evitar a",
+  "supportText": "O esquema apresenta as etapas do processo de biodigestão, uma forma de dar um destino sustentável a excrementos animais e restos de comida produzidos em áreas de criação de gado e porcos confinados.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "bioacumulação de toxinas em plantas."
+    },
+    {
+      "id": "B",
+      "text": "eutrofização dos corpos de água."
+    },
+    {
+      "id": "C",
+      "text": "destruição da camada de ozônio."
+    },
+    {
+      "id": "D",
+      "text": "ocorrência de inversão térmica."
+    },
+    {
+      "id": "E",
+      "text": "produção de chuva ácida."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "Disponível em: www.engquimicasantossp.com.br.",
+    "Acesso em: 11 fev. 2015 (adaptado)."
+  ],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q111-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q111/media-01.png",
+      "alt": "Conteúdo visual da questão 111 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 111,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

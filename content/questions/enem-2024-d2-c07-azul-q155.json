@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q155",
+  "area": "matematica",
+  "statement": "O proprietário do imóvel deverá adquirir o sensor do tipo",
+  "supportText": "Um proprietário pretende instalar um sensor de presença para a proteção de seu imóvel. O sensor deverá detectar movimentos de objetos e pessoas numa determinada região plana. A figura ilustra a vista superior da área de cobertura (setor circular em azul) de um sensor colocado no ponto S. Essa área depende da medida do ângulo α, em grau, e do raio R, em metro. Ao aumentar o ângulo α ou o raio R aumenta-se a área de cobertura do sensor. Entretanto, quanto maior essa área, maior o preço do sensor. no mercado, cada um com as seguintes características: • tipo I: α = 15° e R = 20 m; • tipo II: α = 30° e R = 22 m; • tipo III: α = 40° e R = 12 m; • tipo IV: α = 60° e R = 16 m; • tipo V: α = 90° e R = 10 m. Esse proprietário pretende adquirir um desses sensores que seja capaz de cobrir, no mínimo, uma área de medida 70 m2, com o menor preço possível. Use 3 como valor aproximado para π.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "I."
+    },
+    {
+      "id": "B",
+      "text": "II."
+    },
+    {
+      "id": "C",
+      "text": "III."
+    },
+    {
+      "id": "D",
+      "text": "IV."
+    },
+    {
+      "id": "E",
+      "text": "V."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2024-d2-c07-azul-q155-m01",
+      "kind": "image",
+      "path": "/content/enem-2024-d2-c07-azul/questions/enem-2024-d2-c07-azul-q155/media-01.png",
+      "alt": "Conteúdo visual da questão 155 do ENEM 2024"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 155,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

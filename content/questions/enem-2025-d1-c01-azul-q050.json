@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q050",
+  "area": "ciencias-humanas",
+  "statement": "De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa:",
+  "supportText": "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Casos de desobediência civil."
+    },
+    {
+      "id": "B",
+      "text": "Repressões do aparato estatal."
+    },
+    {
+      "id": "C",
+      "text": "Conflitos de natureza intercontinental."
+    },
+    {
+      "id": "D",
+      "text": "Manifestações do movimento sindical."
+    },
+    {
+      "id": "E",
+      "text": "Mobilizações de agremiações estudantis."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 50,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

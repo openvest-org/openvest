@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q154",
+  "area": "matematica",
+  "statement": "O gênero de livro do qual o gerente deverá encomendar mais exemplares é",
+  "supportText": "Uma livraria comercializa livros dos seguintes gêneros literários: ficção científica, autoajuda, romance e biografia. O gráfico apresenta o estoque dos livros que essa livraria tem, por gênero literário e por nacionalidade do autor, bem como a demanda por gênero literário, obtida por meio de uma enquete feita com seus clientes habituais. Estoque e demanda por livros O gerente da livraria fará a encomenda de novos exemplares somente do gênero cuja quantidade em estoque seja insuficiente para atender a demanda constatada pela enquete.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "ficção, pois é o que apresenta maior demanda."
+    },
+    {
+      "id": "B",
+      "text": "biografia, pois é o gênero que tem a menor demanda."
+    },
+    {
+      "id": "C",
+      "text": "autoajuda, pois a quantidade em estoque é inferior à demanda."
+    },
+    {
+      "id": "D",
+      "text": "biografia, pois é o gênero que tem a menor quantidade de livros em estoque."
+    },
+    {
+      "id": "E",
+      "text": "romance, pois é o que apresenta o menor estoque de livros de autores brasileiros."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [
+    {
+      "id": "enem-2025-d2-c07-azul-q154-m01",
+      "kind": "image",
+      "path": "/content/enem-2025-d2-c07-azul/questions/enem-2025-d2-c07-azul-q154/media-01.png",
+      "alt": "Conteúdo visual da questão 154 do ENEM 2025"
+    }
+  ],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 154,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q178",
+  "area": "matematica",
+  "statement": "O jogador que tem a maior probabilidade de vitória é",
+  "supportText": "Três dados cúbicos, com faces numeradas de 1 a 6, foram utilizados em um jogo. Artur escolheu dois dados, e João ficou com o terceiro. O jogo consiste em ambos lançarem seus dados, observarem os números nas faces voltadas para cima e compararem o maior número obtido por Artur com o número obtido por João. Vence o jogador que obtiver o maior número. Em caso de empate, a vitória é de João.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Artur, com probabilidade de 2 3"
+    },
+    {
+      "id": "B",
+      "text": "João, com probabilidade de 4 9"
+    },
+    {
+      "id": "C",
+      "text": "Artur, com probabilidade de 91 216"
+    },
+    {
+      "id": "D",
+      "text": "João, com probabilidade de 91 216"
+    },
+    {
+      "id": "E",
+      "text": "Artur, com probabilidade de 125 216"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 178,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

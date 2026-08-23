@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openvest.org/schemas/shared-stimulus.schema.json",
+  "title": "OpenVest shared stimulus",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "id", "text", "media"],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "id": { "type": "string", "minLength": 1 },
+    "text": { "type": "string", "minLength": 1 },
+    "media": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "kind", "path", "alt"],
+        "properties": {
+          "id": { "type": "string" },
+          "kind": { "enum": ["image", "vector", "mixed", "unknown"] },
+          "path": { "type": "string", "pattern": "^/content/" },
+          "alt": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

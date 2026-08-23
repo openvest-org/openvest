@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q063",
+  "area": "ciencias-humanas",
+  "statement": "Ao analisar as consequências da dinâmica apresentada no texto, as autoras destacam a importância do conceito como:",
+  "supportText": "Uma das principais atividades provocadas pela arte, a reflexão, é abandonada pela indústria cultural. A indústria cultural seria como uma isca que ilude os indivíduos, com o sonho de que eles são livres, originais, únicos e especiais quando, na verdade, os trata como servos e partes de uma massa homogênea.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "Ferramenta de luta coletiva."
+    },
+    {
+      "id": "B",
+      "text": "Mecanismo de controle social."
+    },
+    {
+      "id": "C",
+      "text": "Instituição de interesse público."
+    },
+    {
+      "id": "D",
+      "text": "Organização da iniciativa privada."
+    },
+    {
+      "id": "E",
+      "text": "Instrumento de manipulação estatal."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "FONTES, B.; MAGALHÃES, R. O que é indústria cultural? In:",
+    "BODART, C. N. (Org.). Conceitos e categorias do ensino de",
+    "sociologia. Maceió: Café com Sociologia, 2021 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 63,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q048",
+  "area": "ciencias-humanas",
+  "statement": "No contexto do século XVIII, o autor propõe uma reflexão radical acerca da arte da eloquência, restringindo-a ao",
+  "supportText": "A credulidade dos ouvintes aumenta o descaramento do narrador, e o descaramento deste conquista-lhes a credulidade. A eloquência, quando levada a seu patamar mais alto, deixa pouco lugar à razão ou à reflexão, mas, dirigindo-se inteiramente à imaginação e aos afetos, cativa os ouvintes condescendentes e subjuga-lhes o entendimento.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "sistema de crenças, conforme a proposta kantiana de objetividade do conhecimento."
+    },
+    {
+      "id": "B",
+      "text": "campo dos absolutos, semelhante ao entendimento medieval dos Universais."
+    },
+    {
+      "id": "C",
+      "text": "domínio da lógica, consoante a compreensão aristotélica nos Analíticos."
+    },
+    {
+      "id": "D",
+      "text": "paradigma da racionalidade, alinhado ao modelo cartesiano de método."
+    },
+    {
+      "id": "E",
+      "text": "âmbito da persuasão, análogo às críticas platônicas aos sofistas."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "HUME, D. Uma investigação sobre o entendimento humano e sobre os princípios da moral. São Paulo: Edunesp, 2003."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 48,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

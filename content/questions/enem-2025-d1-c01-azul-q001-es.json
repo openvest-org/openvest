@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q001-es",
+  "area": "linguagens",
+  "statement": "Na letra da canção Polvorado, ao apresentar as reflexões do eu poético, o cantor espanhol Nacho Vegas",
+  "supportText": "¿Dónde está nuestro pan, patrón? ¿Dónde quedó todo ese dinero? ¿Lo tiene oculto bajo el colchón o lo escondió en otro sucio agujero? Yo tengo un Tàpies, dice Juan Luis; yo tengo un Antonio López, dice Jaume. ¿Quién de los dos sabrá decir cuántos muertos tiene a sus espaldas?",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "demonstra o orgulho dos trabalhadores para com artistas de referência."
+    },
+    {
+      "id": "B",
+      "text": "critica a postura dos patrões frente aos direitos dos trabalhadores."
+    },
+    {
+      "id": "C",
+      "text": "apresenta propostas para diminuir as desigualdades sociais."
+    },
+    {
+      "id": "D",
+      "text": "evidencia o diálogo horizontal entre patrão e trabalhadores."
+    },
+    {
+      "id": "E",
+      "text": "questiona a insalubridade do ambiente de trabalho."
+    }
+  ],
+  "correctAlternative": "B",
+  "references": [
+    "NACHO VEGAS. Disponível em: www.lahiguera.net.",
+    "Acesso em: 12 abr. 2024 (fragmento)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 1,
+    "language": "es",
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

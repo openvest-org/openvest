@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q009",
+  "area": "linguagens",
+  "statement": "A autora conclui que as novas tecnologias de escrita",
+  "supportText": "",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "evoluem para facilitar a vida cotidiana."
+    },
+    {
+      "id": "B",
+      "text": "alcançam diferentes realidades sociais."
+    },
+    {
+      "id": "C",
+      "text": "coexistem com outras já estabelecidas."
+    },
+    {
+      "id": "D",
+      "text": "promovem maior agilidade na comunicação."
+    },
+    {
+      "id": "E",
+      "text": "surgem nos contextos em que são necessárias."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [
+    "enem-2025-d1-c01-azul-shared-q006-q010"
+  ],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 9,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

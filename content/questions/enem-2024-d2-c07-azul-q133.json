@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q133",
+  "area": "ciencias-da-natureza",
+  "statement": "Nessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
+  "supportText": "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual 1 m3 de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL).",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "300 g."
+    },
+    {
+      "id": "B",
+      "text": "400 g."
+    },
+    {
+      "id": "C",
+      "text": "510 g."
+    },
+    {
+      "id": "D",
+      "text": "590 g."
+    },
+    {
+      "id": "E",
+      "text": "720 g."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 133,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

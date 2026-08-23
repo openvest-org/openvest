@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d1-c01-azul-q083",
+  "area": "ciencias-humanas",
+  "statement": "A função política da tecnologia mencionada no texto favoreceu a nova sede do Império português por",
+  "supportText": "A Impressão Régia do Rio de Janeiro foi criada pelo decreto de 13 de maio de 1808 para dar continuidade à nova sede do império português. A nova tipografia é criada em um momento no qual o projeto de reforma do império se transforma em um projeto de construção de um novo império português na América. Frente às tensões políticas que essa nova situação criava, a tipografia atuou na legitimação e sustentação daquele projeto político.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "estabelecer as normativas ideológicas aos periódicos."
+    },
+    {
+      "id": "B",
+      "text": "propagar as diretrizes administrativas às capitanias."
+    },
+    {
+      "id": "C",
+      "text": "divulgar as conquistas às metrópoles europeias."
+    },
+    {
+      "id": "D",
+      "text": "integrar as regiões territoriais ao poder central."
+    },
+    {
+      "id": "E",
+      "text": "difundir as publicações às elites lusitanas."
+    }
+  ],
+  "correctAlternative": "D",
+  "references": [
+    "BARRA, S. H. S. A Impressão Régia do Rio de Janeiro e a colonização dos sertões",
+    "na construção do novo império português na América (1808-1822).",
+    "Topoi, n. 31, jul.-dez. 2015 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d1-c01-azul",
+    "year": 2025,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 83,
+    "language": null,
+    "filename": "2025_PV_impresso_D1_CD1.pdf",
+    "sha256": "a0f19f878d4ef3ba94c3e0f5ef9e57c13fb046d4bb362f72651898b473ddb7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

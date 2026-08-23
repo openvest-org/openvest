@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q066",
+  "area": "ciencias-humanas",
+  "statement": "Qual foi o efeito social resultante do avanço tecnológico mencionado no texto?",
+  "supportText": "Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "O afastamento da autoridade médica na regulação da fecundidade."
+    },
+    {
+      "id": "B",
+      "text": "A superação do discurso da moralidade pela ação da mídia estatal."
+    },
+    {
+      "id": "C",
+      "text": "A ampliação do debate público sobre o planejamento familiar."
+    },
+    {
+      "id": "D",
+      "text": "A centralização da pesquisa científica pelo sistema privado de saúde."
+    },
+    {
+      "id": "E",
+      "text": "O enrijecimento das doutrinas religiosas sobre a organização da vida doméstica."
+    }
+  ],
+  "correctAlternative": "C",
+  "references": [
+    "DIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas",
+    "anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História,",
+    "Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 66,
+    "language": null,
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

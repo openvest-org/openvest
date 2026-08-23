@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d1-c01-azul-q004-en",
+  "area": "linguagens",
+  "statement": "O problema abordado nesse texto sobre imigrantes residentes nos Estados Unidos diz respeito aos prejuízos gerados pelo(a)",
+  "supportText": "I remember being caught speaking Spanish at recess [...] I remember being sent to the corner of the classroom for “talking back” to the Anglo teacher when all I was trying to do was tell her how to pronounce my name. “If you want to be American, speak ‘American’. If you don’t like it, go back to Mexico where you belong”. “I want you to speak English […]”, my mother would say, mortified that I spoke English like a Mexican. At Pan American University, I and all Chicano students were required to take two speech classes. Their purpose: to get rid of our accents.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "repúdio ao sotaque espanhol no uso do inglês."
+    },
+    {
+      "id": "B",
+      "text": "resignação diante do apagamento da língua materna."
+    },
+    {
+      "id": "C",
+      "text": "escassez de oportunidades de aprendizado do espanhol."
+    },
+    {
+      "id": "D",
+      "text": "choque entre falantes de línguas distintas de diferentes gerações."
+    },
+    {
+      "id": "E",
+      "text": "concorrência entre as variações linguísticas do inglês e as do espanhol."
+    }
+  ],
+  "correctAlternative": "A",
+  "references": [
+    "ANZALDÚA, G. Borderlands/La Frontera: The New Mestiza.",
+    "San Francisco: Aunt Lute Books, 1987."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d1-c01-azul",
+    "year": 2024,
+    "day": 1,
+    "booklet": 1,
+    "color": "azul",
+    "number": 4,
+    "language": "en",
+    "filename": "2024_PV_impresso_D1_CD1.pdf",
+    "sha256": "b0adc1dc79a002aba36f725f1ef792cf53e47ff75ee012638ef34a4e6fbb18f5"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2025-d2-c07-azul-q131",
+  "area": "ciencias-da-natureza",
+  "statement": "A massa de alumínio, em quilograma, estimada pela engenheira é mais próxima de",
+  "supportText": "O Brasil é o maior produtor mundial de nióbio (massa molar = 93 g mol−1), metal utilizado na fabricação de vários tipos de aço: automotivos, estruturais e inoxidáveis. O processo utilizado na produção do nióbio é a redução aluminotérmica de Nb2O5 com excesso de 10% de Al (massa molar = 27 g mol−1), em relação à quantidade estequiométrica da reação, representada pela equação química: 3 Nb2O5 (s) + 10 Al (s) → 6 Nb (s) + 5 Al2O3 (s) Uma engenheira metalúrgica estimou a massa de alumínio necessária para produzir 9,3 kg de nióbio, nas condições descritas, para a produção de um lote de peças de aço encomendado por uma indústria, considerando um rendimento de 100%.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "2,7 kg."
+    },
+    {
+      "id": "B",
+      "text": "3,0 kg."
+    },
+    {
+      "id": "C",
+      "text": "4,1 kg."
+    },
+    {
+      "id": "D",
+      "text": "4,5 kg."
+    },
+    {
+      "id": "E",
+      "text": "5,0 kg."
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [
+    "Disponível em: www.cbmm.com.br. Acesso em: 17 out. 2015 (adaptado)."
+  ],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2025-d2-c07-azul",
+    "year": 2025,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 131,
+    "language": null,
+    "filename": "2025_PV_impresso_D2_CD7.pdf",
+    "sha256": "39af0f0eaf3e30a3cd211bc19db9029204703965a2c76ff232fb3109181fa7c8"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}

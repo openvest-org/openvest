@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0",
+  "id": "enem-2024-d2-c07-azul-q180",
+  "area": "matematica",
+  "statement": "A expressão numérica que representa o número máximo de maneiras distintas de formar essa equipe é",
+  "supportText": "Um hospital tem 7 médicos cardiologistas e 6 médicos neurologistas em seu quadro de funcionários. Para executar determinada atividade, a direção desse hospital formará uma equipe com 5 médicos, sendo, pelo menos, 3 cardiologistas.",
+  "alternatives": [
+    {
+      "id": "A",
+      "text": "7 ! 6 ! × 4 ! 4 ! 7 ! 6 ! ×"
+    },
+    {
+      "id": "B",
+      "text": "2 ! 4 ! 3 ! 4 ! × × 7 ! 6 ! 5 !"
+    },
+    {
+      "id": "C",
+      "text": "1 ! 4 ! 3 ! 4 ! 2 ! 4 ! 7 ! 6 ! 7 ! 6 ! 7 ! 6 ! \u001a \u001a \u001a \u0019\u0018 \u0019\u0018"
+    },
+    {
+      "id": "D",
+      "text": "\u001b \u001b \u001b \u0019\u0018 ! 3 ! 4 ! 2 ! 4 ! 4 ! 3 ! 1 ! 5 ! 5 ! 2 ! ! 0 6 7 ! 6 ! 7 ! 6 ! 7 ! 6 ! \u001b \u001b \u001b \u001a\u0019 \u0018 \u001a\u0019 \u0018 \u001a\u0019"
+    },
+    {
+      "id": "E",
+      "text": "! 3 ! 4 ! 2 ! 4 ! 4 ! 3 ! 1 ! 5 ! 5 ! 2 ! ! 0 6"
+    }
+  ],
+  "correctAlternative": "E",
+  "references": [],
+  "media": [],
+  "sharedStimulusIds": [],
+  "source": {
+    "exam": "ENEM",
+    "examId": "enem-2024-d2-c07-azul",
+    "year": 2024,
+    "day": 2,
+    "booklet": 7,
+    "color": "azul",
+    "number": 180,
+    "language": null,
+    "filename": "2024_PV_impresso_D2_CD7.pdf",
+    "sha256": "0993ae687a93dfbcda8e95ce8708883be9d5a55cabbe1f1a06b81a50c18c6cdc"
+  },
+  "provenance": {
+    "extractor": "enem-extractor",
+    "extractorVersion": "0.1.0",
+    "confidence": 1,
+    "warnings": []
+  }
+}
