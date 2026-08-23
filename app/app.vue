@@ -18,7 +18,9 @@ const description = 'Conteúdos e ferramentas gratuitas e de código aberto para
 const socialImage = new URL(publicPath('/og.png'), siteUrl).toString()
 const navigation = [
   { label: 'Início', icon: 'i-lucide-house', to: '/' },
+  { label: 'Conteúdos', icon: 'i-lucide-library-big', to: '/conteudos' },
   { label: 'Questões', icon: 'i-lucide-list-checks', to: '/questoes' },
+  { label: 'Jogos', icon: 'i-lucide-gamepad-2', to: '/jogos' },
   { label: 'Perfil', icon: 'i-lucide-user-round', to: '/perfil' }
 ]
 const showBackToTop = ref(false)

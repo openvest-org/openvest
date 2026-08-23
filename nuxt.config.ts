@@ -19,7 +19,10 @@ export default defineNuxtConfig({
 
   routeRules: {
     '/': { prerender: true },
+    '/conteudos': { prerender: true },
     '/questoes': { prerender: true },
+    '/jogos': { prerender: true },
+    '/jogos/desafio-matematico': { prerender: true },
     '/perfil': { prerender: true }
   },
 
@@ -47,7 +50,12 @@ export default defineNuxtConfig({
   icon: {
     provider: 'none',
     clientBundle: {
-      scan: true
+      scan: {
+        globInclude: [
+          'app/**/*.{vue,ts}',
+          'content/**/*.json'
+        ]
+      }
     }
   }
 })

@@ -4,9 +4,7 @@ import {
   loadQuestionCatalog,
   loadQuestionSearchIndex,
   loadQuestions,
-  normalizeQuestionSearchTerm,
-  questionDescription,
-  questionTitle
+  normalizeQuestionSearchTerm
 } from '~/data/questions'
 import type { AlternativeId, LoadedQuestion, QuestionSummary } from '~/types/question'
 
@@ -224,255 +222,125 @@ async function showAnswer(question: LoadedQuestion) {
   revealed.value[question.id] = true
   savingQuestion.value = null
 }
-
-function isCorrect(question: LoadedQuestion) {
-  return answers.value[question.id] === question.correctAlternative
-}
-
-function alternativeItems(question: LoadedQuestion) {
-  return question.alternatives.map(alternative => ({
-    label: `${alternative.id} — ${alternative.text}`,
-    value: alternative.id
-  }))
-}
-
-function correctAlternativeLabel(question: LoadedQuestion) {
-  const alternative = question.alternatives.find(item => item.id === question.correctAlternative)
-  return alternative ? `${alternative.id} — ${alternative.text}` : question.correctAlternative
-}
-
-function resultLabel(question: LoadedQuestion) {
-  if (!revealed.value[question.id]) {
-    return 'Ver resposta'
-  }
-
-  return isCorrect(question)
-    ? `Resposta correta: ${correctAlternativeLabel(question)}`
-    : `Resposta incorreta · Correta: ${correctAlternativeLabel(question)}`
-}
 </script>
 
 <template>
-  <UContainer>
-    <UPage>
-      <UPageHeader
-        headline="Banco de questões"
-        title="Questões"
-        description="Pratique com questões organizadas por vestibular e área do conhecimento."
-      />
+  <AppPage
+    headline="Banco de questões"
+    title="Questões"
+    description="Pratique com questões organizadas por vestibular e área do conhecimento."
+  >
+    <UAlert
+      title="Catálogo inicial"
+      :description="`${questionCatalog.length} questões disponíveis neste dispositivo.`"
+      icon="i-lucide-file-check-2"
+      color="neutral"
+      variant="subtle"
+    />
 
-      <UPageBody>
-        <UAlert
-          title="Catálogo inicial"
-          :description="`${questionCatalog.length} questões disponíveis neste dispositivo.`"
-          icon="i-lucide-file-check-2"
-          color="neutral"
-          variant="subtle"
-        />
+    <UAlert
+      v-if="profileError"
+      title="O progresso pode não ser salvo"
+      :description="profileError"
+      icon="i-lucide-database-zap"
+      color="warning"
+      variant="subtle"
+    />
 
+    <CatalogFilterCard
+      v-model:search="searchQuery"
+      title="Filtros"
+      :description="searchLoading
+        ? 'Buscando no conteúdo das questões.'
+        : `${filteredSummaries.length} questões encontradas.`"
+      search-label="Buscar por texto:"
+      search-placeholder="Digite uma palavra ou expressão"
+      search-aria-label="Buscar questões por texto"
+      :filters-active="filtersActive"
+      @reset="resetFilters"
+    >
+      <template #filters>
+        <UFormField label="Ano:">
+          <USelect
+            v-model="selectedYear"
+            :items="yearOptions"
+            aria-label="Filtrar por ano"
+          />
+        </UFormField>
+
+        <UFormField label="Área do conhecimento:">
+          <USelect
+            v-model="selectedArea"
+            :items="areaOptions"
+            aria-label="Filtrar por área do conhecimento"
+          />
+        </UFormField>
+
+        <UFormField label="Idioma:">
+          <USelect
+            v-model="selectedLanguage"
+            :items="languageOptions"
+            aria-label="Filtrar por idioma"
+          />
+        </UFormField>
+      </template>
+
+      <template #messages>
         <UAlert
-          v-if="profileError"
-          title="O progresso pode não ser salvo"
-          :description="profileError"
-          icon="i-lucide-database-zap"
+          v-if="searchError"
+          title="Busca indisponível"
+          :description="searchError"
+          icon="i-lucide-search-x"
           color="warning"
           variant="subtle"
         />
+      </template>
+    </CatalogFilterCard>
 
-        <UCard
-          title="Filtros"
-          :description="searchLoading
-            ? 'Buscando no conteúdo das questões.'
-            : `${filteredSummaries.length} questões encontradas.`"
-        >
-          <UPageList>
-            <UFormField
-              label="Buscar por texto:"
-            >
-              <UInput
-                v-model="searchQuery"
-                type="search"
-                icon="i-lucide-search"
-                placeholder="Digite uma palavra ou expressão"
-                aria-label="Buscar questões por texto"
-                class="w-full"
-              />
-            </UFormField>
+    <UEmpty
+      v-if="catalogLoading || searchLoading || loadingQuestions"
+      loading
+      title="Carregando questões"
+      :description="catalogLoading
+        ? 'Carregando o catálogo disponível neste dispositivo.'
+        : searchLoading
+          ? 'Pesquisando no conteúdo das questões.'
+          : 'Apenas as questões desta página estão sendo carregadas.'"
+    />
 
-            <UPageGrid class="mt-4">
-              <UFormField label="Ano:">
-                <USelect
-                  v-model="selectedYear"
-                  :items="yearOptions"
-                  aria-label="Filtrar por ano"
-                />
-              </UFormField>
+    <UAlert
+      v-else-if="loadError"
+      title="Falha ao carregar"
+      :description="loadError"
+      icon="i-lucide-triangle-alert"
+      color="error"
+      variant="subtle"
+    />
 
-              <UFormField label="Área do conhecimento:">
-                <USelect
-                  v-model="selectedArea"
-                  :items="areaOptions"
-                  aria-label="Filtrar por área do conhecimento"
-                />
-              </UFormField>
+    <UEmpty
+      v-else-if="!loadedQuestions.length"
+      icon="i-lucide-search-x"
+      title="Nenhuma questão encontrada"
+      description="Altere ou limpe os filtros para visualizar outras questões."
+    />
 
-              <UFormField label="Idioma:">
-                <USelect
-                  v-model="selectedLanguage"
-                  :items="languageOptions"
-                  aria-label="Filtrar por idioma"
-                />
-              </UFormField>
-            </UPageGrid>
+    <QuestionCard
+      v-for="question in loadedQuestions"
+      v-else
+      :key="question.id"
+      v-model:answer="answers[question.id]"
+      :question="question"
+      :revealed="Boolean(revealed[question.id])"
+      :saving="savingQuestion === question.id"
+      @reveal="showAnswer(question)"
+    />
 
-            <UAlert
-              v-if="searchError"
-              title="Busca indisponível"
-              :description="searchError"
-              icon="i-lucide-search-x"
-              color="warning"
-              variant="subtle"
-            />
-          </UPageList>
-
-          <template
-            v-if="filtersActive"
-            #footer
-          >
-            <UButton
-              label="Limpar filtros"
-              icon="i-lucide-filter-x"
-              color="neutral"
-              variant="ghost"
-              @click="resetFilters"
-            />
-          </template>
-        </UCard>
-
-        <UEmpty
-          v-if="catalogLoading || searchLoading || loadingQuestions"
-          loading
-          title="Carregando questões"
-          :description="catalogLoading
-            ? 'Carregando o catálogo disponível neste dispositivo.'
-            : searchLoading
-              ? 'Pesquisando no conteúdo das questões.'
-              : 'Apenas as questões desta página estão sendo carregadas.'"
-        />
-
-        <UAlert
-          v-else-if="loadError"
-          title="Falha ao carregar"
-          :description="loadError"
-          icon="i-lucide-triangle-alert"
-          color="error"
-          variant="subtle"
-        />
-
-        <UEmpty
-          v-else-if="!loadedQuestions.length"
-          icon="i-lucide-search-x"
-          title="Nenhuma questão encontrada"
-          description="Altere ou limpe os filtros para visualizar outras questões."
-        />
-
-        <UCard
-          v-for="question in loadedQuestions"
-          v-else
-          :key="question.id"
-          :title="questionTitle(question)"
-          :description="questionDescription(question)"
-        >
-          <UPageList>
-            <UCard
-              v-for="stimulus in question.sharedStimuli"
-              :key="stimulus.id"
-              title="Texto de apoio compartilhado"
-              :description="stimulus.text"
-              variant="subtle"
-            >
-              <img
-                v-for="media in stimulus.media"
-                :key="media.id"
-                :src="publicPath(media.path)"
-                :alt="media.alt"
-                width="560"
-                loading="lazy"
-                class="mx-auto h-auto max-h-96 max-w-full object-contain"
-              >
-            </UCard>
-
-            <UAlert
-              v-if="question.supportText"
-              title="Texto de apoio"
-              :description="question.supportText"
-              icon="i-lucide-book-open"
-              color="neutral"
-              variant="subtle"
-            />
-
-            <UCard
-              v-for="media in question.media"
-              :key="media.id"
-              variant="subtle"
-            >
-              <img
-                :src="publicPath(media.path)"
-                :alt="media.alt"
-                width="560"
-                loading="lazy"
-                class="mx-auto h-auto max-h-96 max-w-full object-contain"
-              >
-            </UCard>
-
-            <UAlert
-              title="Enunciado"
-              :description="question.statement"
-              icon="i-lucide-circle-help"
-              color="primary"
-              variant="subtle"
-            />
-
-            <URadioGroup
-              v-model="answers[question.id]"
-              :items="alternativeItems(question)"
-              :aria-label="question.statement"
-              variant="card"
-              size="lg"
-              :disabled="revealed[question.id]"
-            />
-
-            <UAlert
-              v-if="question.references.length"
-              title="Fonte"
-              :description="question.references.join(' ')"
-              icon="i-lucide-library"
-              color="neutral"
-              variant="subtle"
-            />
-          </UPageList>
-
-          <template #footer>
-            <UButton
-              :label="resultLabel(question)"
-              :icon="revealed[question.id] ? (isCorrect(question) ? 'i-lucide-circle-check' : 'i-lucide-circle-x') : 'i-lucide-eye'"
-              :color="revealed[question.id] ? (isCorrect(question) ? 'success' : 'error') : 'neutral'"
-              :variant="revealed[question.id] ? 'soft' : 'outline'"
-              :loading="savingQuestion === question.id"
-              :disabled="!answers[question.id] || revealed[question.id]"
-              @click="showAnswer(question)"
-            />
-          </template>
-        </UCard>
-
-        <UPagination
-          v-if="filteredSummaries.length > PAGE_SIZE"
-          v-model:page="page"
-          :total="filteredSummaries.length"
-          :items-per-page="PAGE_SIZE"
-          show-edges
-        />
-      </UPageBody>
-    </UPage>
-  </UContainer>
+    <UPagination
+      v-if="filteredSummaries.length > PAGE_SIZE"
+      v-model:page="page"
+      :total="filteredSummaries.length"
+      :items-per-page="PAGE_SIZE"
+      show-edges
+    />
+  </AppPage>
 </template>

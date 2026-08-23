@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openvest.org/schemas/study-content.schema.json",
+  "title": "OpenVest study content catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "reviewedAt", "exams"],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "reviewedAt": { "type": "string", "format": "date" },
+    "exams": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/exam" }
+    }
+  },
+  "$defs": {
+    "resource": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "provider", "url", "kind"],
+      "properties": {
+        "title": { "type": "string", "minLength": 1 },
+        "provider": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "format": "uri" },
+        "kind": { "enum": ["article", "video", "course", "reference"] }
+      }
+    },
+    "topic": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "description", "tags", "resources"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "description": { "type": "string", "minLength": 1 },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "resources": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/resource" }
+        }
+      }
+    },
+    "area": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "description", "icon", "topics"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "description": { "type": "string", "minLength": 1 },
+        "icon": { "type": "string", "pattern": "^i-lucide-" },
+        "topics": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/topic" }
+        }
+      }
+    },
+    "exam": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "fullName", "description", "officialReference", "areas"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "fullName": { "type": "string", "minLength": 1 },
+        "description": { "type": "string", "minLength": 1 },
+        "officialReference": { "$ref": "#/$defs/resource" },
+        "areas": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/area" }
+        }
+      }
+    }
+  }
+}

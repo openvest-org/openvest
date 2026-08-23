@@ -92,18 +92,18 @@ const profileStatistics = computed(() => {
 const statCards = computed(() => [
   {
     icon: 'i-lucide-circle-check-big',
-    title: String(profileStatistics.value.answered),
-    description: 'Questões respondidas'
+    value: profileStatistics.value.answered,
+    label: 'Questões respondidas'
   },
   {
     icon: 'i-lucide-target',
-    title: `${profileStatistics.value.accuracy}%`,
-    description: 'Taxa de acerto'
+    value: `${profileStatistics.value.accuracy}%`,
+    label: 'Taxa de acerto'
   },
   {
     icon: 'i-lucide-refresh-cw',
-    title: String(profileStatistics.value.attempts),
-    description: 'Tentativas registradas'
+    value: profileStatistics.value.attempts,
+    label: 'Tentativas registradas'
   }
 ])
 
@@ -177,152 +177,137 @@ async function resetHistory() {
 </script>
 
 <template>
-  <UContainer>
-    <UPage>
-      <UPageHeader
-        headline="Dados locais"
-        title="Perfil"
-        description="Acompanhe seu progresso e personalize sua experiência neste navegador."
-      />
+  <AppPage
+    headline="Dados locais"
+    title="Perfil"
+    description="Acompanhe seu progresso e personalize sua experiência neste navegador."
+  >
+    <UEmpty
+      v-if="loading || catalogLoading"
+      loading
+      title="Carregando perfil local"
+      description="Lendo seus dados salvos neste navegador."
+    />
 
-      <UPageBody>
-        <UEmpty
-          v-if="loading || catalogLoading"
-          loading
-          title="Carregando perfil local"
-          description="Lendo seus dados salvos neste navegador."
-        />
+    <UAlert
+      v-if="error"
+      title="Problema no armazenamento local"
+      :description="error"
+      icon="i-lucide-database-zap"
+      color="warning"
+      variant="subtle"
+    />
 
-        <UAlert
-          v-if="error"
-          title="Problema no armazenamento local"
-          :description="error"
-          icon="i-lucide-database-zap"
-          color="warning"
-          variant="subtle"
-        />
+    <UAlert
+      v-if="catalogError"
+      title="Catálogo indisponível"
+      :description="catalogError"
+      icon="i-lucide-file-warning"
+      color="warning"
+      variant="subtle"
+    />
 
-        <UAlert
-          v-if="catalogError"
-          title="Catálogo indisponível"
-          :description="catalogError"
-          icon="i-lucide-file-warning"
-          color="warning"
-          variant="subtle"
-        />
-
-        <template v-if="profile && !loading && !catalogLoading">
-          <UCard>
-            <template #header>
-              <UUser
-                :name="profile.displayName"
-                description="Perfil local do OpenVest"
-                :avatar="{ text: initials }"
-                size="xl"
-              />
-            </template>
-
-            <UFormField
-              label="Nome de exibição:"
-              :error="displayName.trim() ? undefined : 'Informe um nome.'"
-            >
-              <UInput
-                v-model="displayName"
-                name="displayName"
-                placeholder="Seu nome ou apelido"
-                autocomplete="nickname"
-                class="w-80"
-              />
-            </UFormField>
-
-            <template #footer>
-              <UButton
-                :label="saved ? 'Perfil salvo' : 'Salvar perfil'"
-                :icon="saved ? 'i-lucide-check' : 'i-lucide-save'"
-                :loading="saving"
-                :disabled="!displayName.trim()"
-                @click="saveProfile"
-              />
-            </template>
-          </UCard>
-
-          <UPageGrid>
-            <UPageCard
-              v-for="stat in statCards"
-              :key="stat.description"
-              :icon="stat.icon"
-              :title="stat.title"
-              :description="stat.description"
-              variant="subtle"
-            />
-          </UPageGrid>
-
-          <UCard
-            v-if="progressRows.length"
-            title="Progresso em questões"
-            description="Histórico registrado neste dispositivo."
-          >
-            <UTable
-              :data="progressRows"
-              :columns="columns"
-            />
-          </UCard>
-
-          <UEmpty
-            v-else
-            icon="i-lucide-notebook-tabs"
-            title="Nenhuma questão respondida"
-            description="Seu progresso aparecerá aqui depois que você responder sua primeira questão."
-            :actions="pageLinks"
-            variant="outline"
-          />
-
-          <UCard
-            title="Gerenciar histórico"
-            description="Apague tentativas, respostas e estatísticas registradas neste navegador."
-          >
-            <UButton
-              label="Resetar histórico"
-              icon="i-lucide-trash-2"
-              color="error"
-              variant="soft"
-              :disabled="!hasQuestionHistory"
-              @click="resetModalOpen = true"
-            />
-          </UCard>
-
-          <UModal
-            v-model:open="resetModalOpen"
-            title="Apagar o histórico de questões?"
-            description="Esta ação removerá todas as tentativas, respostas e estatísticas deste navegador. Seu nome de perfil será mantido."
-          >
-            <template #footer>
-              <UButton
-                label="Cancelar"
-                color="neutral"
-                variant="ghost"
-                :disabled="resettingHistory"
-                @click="resetModalOpen = false"
-              />
-              <UButton
-                label="Apagar histórico"
-                icon="i-lucide-trash-2"
-                color="error"
-                :loading="resettingHistory"
-                @click="resetHistory"
-              />
-            </template>
-          </UModal>
-
-          <UAlert
-            title="Seus dados permanecem com você"
-            description="O perfil e o progresso são armazenados no navegador. Eles ainda não são sincronizados entre dispositivos."
-            icon="i-lucide-shield-check"
-            color="neutral"
-            variant="subtle"
+    <template v-if="profile && !loading && !catalogLoading">
+      <UCard>
+        <template #header>
+          <UUser
+            :name="profile.displayName"
+            description="Perfil local do OpenVest"
+            :avatar="{ text: initials }"
+            size="xl"
           />
         </template>
-      </UPageBody>
-    </UPage>
-  </UContainer>
+
+        <UFormField
+          label="Nome de exibição:"
+          :error="displayName.trim() ? undefined : 'Informe um nome.'"
+        >
+          <UInput
+            v-model="displayName"
+            name="displayName"
+            placeholder="Seu nome ou apelido"
+            autocomplete="nickname"
+            class="w-80"
+          />
+        </UFormField>
+
+        <template #footer>
+          <UButton
+            :label="saved ? 'Perfil salvo' : 'Salvar perfil'"
+            :icon="saved ? 'i-lucide-check' : 'i-lucide-save'"
+            :loading="saving"
+            :disabled="!displayName.trim()"
+            @click="saveProfile"
+          />
+        </template>
+      </UCard>
+
+      <StatGrid :items="statCards" />
+
+      <UCard
+        v-if="progressRows.length"
+        title="Progresso em questões"
+        description="Histórico registrado neste dispositivo."
+      >
+        <UTable
+          :data="progressRows"
+          :columns="columns"
+        />
+      </UCard>
+
+      <UEmpty
+        v-else
+        icon="i-lucide-notebook-tabs"
+        title="Nenhuma questão respondida"
+        description="Seu progresso aparecerá aqui depois que você responder sua primeira questão."
+        :actions="pageLinks"
+        variant="outline"
+      />
+
+      <UCard
+        title="Gerenciar histórico"
+        description="Apague tentativas, respostas e estatísticas registradas neste navegador."
+      >
+        <UButton
+          label="Resetar histórico"
+          icon="i-lucide-trash-2"
+          color="error"
+          variant="soft"
+          :disabled="!hasQuestionHistory"
+          @click="resetModalOpen = true"
+        />
+      </UCard>
+
+      <UModal
+        v-model:open="resetModalOpen"
+        title="Apagar o histórico de questões?"
+        description="Esta ação removerá todas as tentativas, respostas e estatísticas deste navegador. Seu nome de perfil será mantido."
+      >
+        <template #footer>
+          <UButton
+            label="Cancelar"
+            color="neutral"
+            variant="ghost"
+            :disabled="resettingHistory"
+            @click="resetModalOpen = false"
+          />
+          <UButton
+            label="Apagar histórico"
+            icon="i-lucide-trash-2"
+            color="error"
+            :loading="resettingHistory"
+            @click="resetHistory"
+          />
+        </template>
+      </UModal>
+
+      <UAlert
+        title="Seus dados permanecem com você"
+        description="O perfil e o progresso são armazenados no navegador. Eles ainda não são sincronizados entre dispositivos."
+        icon="i-lucide-shield-check"
+        color="neutral"
+        variant="subtle"
+      />
+    </template>
+  </AppPage>
 </template>

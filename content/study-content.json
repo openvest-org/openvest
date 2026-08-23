@@ -1,0 +1,296 @@
+{
+  "schemaVersion": "1.0",
+  "reviewedAt": "2026-08-23",
+  "exams": [
+    {
+      "id": "enem",
+      "title": "ENEM",
+      "fullName": "Exame Nacional do Ensino Médio",
+      "description": "Assuntos organizados a partir das quatro áreas do conhecimento avaliadas no exame.",
+      "officialReference": {
+        "title": "Matrizes de Referência do ENEM",
+        "provider": "Inep",
+        "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-institucionais/avaliacoes-e-exames-da-educacao-basica/matrizes-de-referencia-enem/",
+        "kind": "reference"
+      },
+      "areas": [
+        {
+          "id": "linguagens",
+          "title": "Linguagens",
+          "description": "Leitura, língua portuguesa, literatura, produção textual e diferentes formas de linguagem.",
+          "icon": "i-lucide-languages",
+          "topics": [
+            {
+              "id": "interpretacao-generos-textuais",
+              "title": "Interpretação e gêneros textuais",
+              "description": "Compreensão, inferência, propósito comunicativo, tipos e gêneros de textos verbais e não verbais.",
+              "tags": ["português", "leitura", "texto", "gêneros textuais"],
+              "resources": [
+                {
+                  "title": "Compreensão e interpretação de textos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/redacao/compreensao-e-interpretacao-de-textos.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Interpretação na análise dos gêneros textuais",
+                  "provider": "Brasil Escola",
+                  "url": "https://vestibular.brasilescola.uol.com.br/enem/videos/portugues-interpretacao-na-analise-dos-generos-textuais.htm",
+                  "kind": "video"
+                }
+              ]
+            },
+            {
+              "id": "literatura-brasileira",
+              "title": "Literatura brasileira",
+              "description": "Escolas literárias, gêneros, autores, obras e relações entre produção artística e contexto histórico.",
+              "tags": ["literatura", "escolas literárias", "autores", "obras"],
+              "resources": [
+                {
+                  "title": "Literatura: conceitos, gêneros e escolas",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/literatura",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "redacao-argumentativa",
+              "title": "Redação dissertativo-argumentativa",
+              "description": "Projeto de texto, tese, argumentação, coesão e proposta de intervenção alinhada aos direitos humanos.",
+              "tags": ["redação", "argumentação", "coesão", "proposta de intervenção"],
+              "resources": [
+                {
+                  "title": "Cartilhas e manuais oficiais da redação",
+                  "provider": "Inep",
+                  "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/outros-documentos",
+                  "kind": "reference"
+                },
+                {
+                  "title": "Redação: estrutura e recursos de escrita",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/redacao/",
+                  "kind": "article"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ciencias-humanas",
+          "title": "Ciências Humanas",
+          "description": "Processos históricos, organização do espaço, pensamento filosófico e relações sociais.",
+          "icon": "i-lucide-landmark",
+          "topics": [
+            {
+              "id": "historia-brasil",
+              "title": "História do Brasil",
+              "description": "Períodos colonial, imperial e republicano, escravidão, cidadania, movimentos sociais e transformações políticas.",
+              "tags": ["história", "Brasil", "colônia", "império", "república"],
+              "resources": [
+                {
+                  "title": "História do Brasil: períodos e acontecimentos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/historiab/",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "geografia-espaco",
+              "title": "Geografia e espaço geográfico",
+              "description": "Cartografia, população, urbanização, economia, geopolítica, ambiente e relações entre sociedade e natureza.",
+              "tags": ["geografia", "cartografia", "geopolítica", "urbanização", "meio ambiente"],
+              "resources": [
+                {
+                  "title": "Geografia: conceitos e áreas de estudo",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/geografia/",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "filosofia",
+              "title": "Filosofia, ética e política",
+              "description": "Pensamento clássico e moderno, ética, política, conhecimento, ciência e construção da argumentação.",
+              "tags": ["filosofia", "ética", "política", "conhecimento", "argumentação"],
+              "resources": [
+                {
+                  "title": "Filosofia: origem, áreas e objetivos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/filosofia",
+                  "kind": "article"
+                },
+                {
+                  "title": "Como estudar Filosofia para o ENEM",
+                  "provider": "Brasil Escola",
+                  "url": "https://vestibular.brasilescola.uol.com.br/enem/como-estudar-filosofia-para-enem.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "sociologia",
+              "title": "Sociologia, cultura e cidadania",
+              "description": "Cultura, trabalho, desigualdade, movimentos sociais, instituições, poder, democracia e cidadania.",
+              "tags": ["sociologia", "cultura", "trabalho", "desigualdade", "cidadania"],
+              "resources": [
+                {
+                  "title": "Sociologia: origem e temas de estudo",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/sociologia/",
+                  "kind": "article"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ciencias-da-natureza",
+          "title": "Ciências da Natureza",
+          "description": "Fenômenos biológicos, físicos e químicos relacionados à tecnologia, à sociedade e ao ambiente.",
+          "icon": "i-lucide-atom",
+          "topics": [
+            {
+              "id": "biologia",
+              "title": "Biologia",
+              "description": "Ecologia, genética, evolução, citologia, fisiologia humana, saúde e biotecnologia.",
+              "tags": ["biologia", "ecologia", "genética", "evolução", "fisiologia"],
+              "resources": [
+                {
+                  "title": "Principais temas de Biologia no ENEM",
+                  "provider": "Brasil Escola",
+                  "url": "https://vestibular.brasilescola.uol.com.br/enem/dicas-biologia-para-enem.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Biologia do ensino médio",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/science/biologia-ensino-medio",
+                  "kind": "course"
+                }
+              ]
+            },
+            {
+              "id": "fisica",
+              "title": "Física",
+              "description": "Mecânica, energia, eletricidade, ondas, óptica, termologia e aplicações tecnológicas.",
+              "tags": ["física", "mecânica", "energia", "eletricidade", "ondas"],
+              "resources": [
+                {
+                  "title": "Física: conceitos, leis e aplicações",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/fisica/",
+                  "kind": "article"
+                },
+                {
+                  "title": "Física em aulas e exercícios",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/science/physics",
+                  "kind": "course"
+                }
+              ]
+            },
+            {
+              "id": "quimica",
+              "title": "Química",
+              "description": "Transformações, estrutura da matéria, estequiometria, soluções, energia, química orgânica e ambiente.",
+              "tags": ["química", "estequiometria", "soluções", "orgânica", "ambiente"],
+              "resources": [
+                {
+                  "title": "Química: conteúdos e conceitos fundamentais",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/quimica/",
+                  "kind": "article"
+                },
+                {
+                  "title": "Química em aulas e exercícios",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/science/chemistry",
+                  "kind": "course"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "matematica",
+          "title": "Matemática",
+          "description": "Resolução de problemas com números, grandezas, álgebra, geometria, estatística e probabilidade.",
+          "icon": "i-lucide-sigma",
+          "topics": [
+            {
+              "id": "numeros-proporcionalidade",
+              "title": "Números e proporcionalidade",
+              "description": "Operações, razão, proporção, porcentagem, escalas, unidades, sequências e matemática financeira.",
+              "tags": ["matemática", "porcentagem", "proporção", "escala", "juros"],
+              "resources": [
+                {
+                  "title": "Matemática no ENEM: assuntos e estratégias",
+                  "provider": "Brasil Escola",
+                  "url": "https://vestibular.brasilescola.uol.com.br/enem/a-matematica-no-enem.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "algebra-funcoes",
+              "title": "Álgebra e funções",
+              "description": "Equações, sistemas, gráficos e funções afim, quadrática, exponencial, logarítmica e trigonométrica.",
+              "tags": ["álgebra", "equações", "funções", "gráficos"],
+              "resources": [
+                {
+                  "title": "Funções e gráficos no ENEM",
+                  "provider": "Brasil Escola",
+                  "url": "https://vestibular.brasilescola.uol.com.br/enem/funcoes-no-enem.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Matemática do ensino médio",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/math/ensino-medio",
+                  "kind": "course"
+                }
+              ]
+            },
+            {
+              "id": "geometria-medidas",
+              "title": "Geometria e grandezas",
+              "description": "Geometria plana e espacial, semelhança, trigonometria, geometria analítica, áreas e volumes.",
+              "tags": ["geometria", "trigonometria", "área", "volume", "medidas"],
+              "resources": [
+                {
+                  "title": "Cursos de geometria e trigonometria",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/khan-for-educators/comunidade-de-aprendizgem/x6e0132fafebe738c%3Aa-educacao-no-brasil/x6e0132fafebe738c%3Akhan-academy-e-a-educacao-no-brasil/a/cursos-khan-brasil",
+                  "kind": "course"
+                }
+              ]
+            },
+            {
+              "id": "estatistica-probabilidade",
+              "title": "Estatística e probabilidade",
+              "description": "Leitura de tabelas e gráficos, medidas de tendência central, análise de dados, contagem e probabilidade.",
+              "tags": ["estatística", "probabilidade", "gráficos", "tabelas", "análise de dados"],
+              "resources": [
+                {
+                  "title": "Probabilidade: conceitos básicos",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics",
+                  "kind": "article"
+                },
+                {
+                  "title": "Vídeos de Matemática para o ENEM",
+                  "provider": "Brasil Escola",
+                  "url": "https://vestibular.brasilescola.uol.com.br/enem/videos/matematica",
+                  "kind": "video"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
