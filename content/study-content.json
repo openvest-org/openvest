@@ -51,6 +51,12 @@
                   "provider": "Brasil Escola",
                   "url": "https://brasilescola.uol.com.br/literatura",
                   "kind": "article"
+                },
+                {
+                  "title": "Modernismo no Brasil: fases, autores e obras",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/literatura/o-modernismo-no-brasil.htm",
+                  "kind": "article"
                 }
               ]
             },
@@ -70,6 +76,86 @@
                   "title": "Redação: estrutura e recursos de escrita",
                   "provider": "Brasil Escola",
                   "url": "https://brasilescola.uol.com.br/redacao/",
+                  "kind": "article"
+                },
+                {
+                  "title": "Cartilha do participante da redação do ENEM 2025",
+                  "provider": "Inep",
+                  "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-institucionais/avaliacoes-e-exames-da-educacao-basica/redacao-do-enem-2025-cartilha-do-a-participante",
+                  "kind": "reference"
+                }
+              ]
+            },
+            {
+              "id": "gramatica-variacao-linguistica",
+              "title": "Gramática e variação linguística",
+              "description": "Norma-padrão, variedades da língua, adequação ao contexto, morfossintaxe e relações de sentido.",
+              "tags": ["gramática", "variação linguística", "norma-padrão", "morfossintaxe"],
+              "resources": [
+                {
+                  "title": "Gramática: conceitos e conteúdos essenciais",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/gramatica",
+                  "kind": "article"
+                },
+                {
+                  "title": "Variações da língua e seus fatores",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/gramatica/variacoes-lingua.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "figuras-linguagem-coesao",
+              "title": "Figuras de linguagem e coesão textual",
+              "description": "Efeitos de sentido, recursos expressivos e mecanismos que conectam ideias e partes do texto.",
+              "tags": ["figuras de linguagem", "coesão", "semântica", "efeitos de sentido"],
+              "resources": [
+                {
+                  "title": "Figuras de linguagem: tipos e exemplos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/gramatica/figuras-linguagem.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Coesão textual: mecanismos e exemplos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/redacao/coesao.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "artes-movimentos-cultura",
+              "title": "Artes, movimentos e cultura",
+              "description": "Movimentos artísticos, arte moderna, manifestações culturais e relações entre arte e contexto social.",
+              "tags": ["artes", "movimentos artísticos", "modernismo", "cultura"],
+              "resources": [
+                {
+                  "title": "Movimentos artísticos no Brasil e no mundo",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/artes/a-arte-na-historia.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Arte moderna: características e movimentos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/artes/arte-moderna.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "lingua-estrangeira",
+              "title": "Inglês e espanhol",
+              "description": "Leitura, vocabulário, função social da linguagem e diversidade cultural nas questões de língua estrangeira.",
+              "tags": ["inglês", "espanhol", "língua estrangeira", "interpretação"],
+              "resources": [
+                {
+                  "title": "Inglês ou espanhol no ENEM: habilidades avaliadas",
+                  "provider": "Brasil Escola",
+                  "url": "https://vestibular.brasilescola.uol.com.br/enem/qual-a-melhor-prova-para-o-enem-ingles-ou-espanhol.htm",
                   "kind": "article"
                 }
               ]
@@ -141,6 +227,92 @@
                   "provider": "Brasil Escola",
                   "url": "https://brasilescola.uol.com.br/sociologia/",
                   "kind": "article"
+                },
+                {
+                  "title": "Desigualdade social no Brasil",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/sociologia/desigualdade-social-no-brasil.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "historia-geral",
+              "title": "História geral e mundo contemporâneo",
+              "description": "Antiguidade, feudalismo, formação dos Estados, revoluções, industrialização, guerras mundiais e Guerra Fria.",
+              "tags": ["história geral", "revoluções", "industrialização", "guerras mundiais", "Guerra Fria"],
+              "resources": [
+                {
+                  "title": "História geral: períodos e temas centrais",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/historiag/",
+                  "kind": "article"
+                },
+                {
+                  "title": "Idade Contemporânea: acontecimentos e transformações",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/historiag/idade-contemporanea.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "globalizacao-geopolitica",
+              "title": "Globalização e geopolítica",
+              "description": "Redes e fluxos mundiais, ordem internacional, blocos econômicos, conflitos, migrações e relações de poder.",
+              "tags": ["globalização", "geopolítica", "blocos econômicos", "conflitos", "migrações"],
+              "resources": [
+                {
+                  "title": "Globalização: características, fases e efeitos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/geografia/globalizacao.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Geografia: espaço mundial e relações geopolíticas",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/geografia/",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "ambiente-clima-biomas",
+              "title": "Meio ambiente, clima e biomas",
+              "description": "Biomas brasileiros, recursos naturais, mudanças climáticas, impactos ambientais e sustentabilidade.",
+              "tags": ["meio ambiente", "clima", "biomas", "sustentabilidade", "mudanças climáticas"],
+              "resources": [
+                {
+                  "title": "Biomas brasileiros",
+                  "provider": "IBGE Educa",
+                  "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/19635-ecossistemas.html",
+                  "kind": "article"
+                },
+                {
+                  "title": "Crise climática: causas e consequências",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/geografia/crise-climatica.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "populacao-urbanizacao",
+              "title": "População e urbanização",
+              "description": "Dinâmica demográfica, migrações, redes urbanas, metropolização e desigualdades socioespaciais.",
+              "tags": ["população", "urbanização", "migração", "cidades", "metropolização"],
+              "resources": [
+                {
+                  "title": "Arranjos populacionais e urbanização brasileira",
+                  "provider": "IBGE Educa",
+                  "url": "https://educa.ibge.gov.br/jovens/materias-especiais/20583-ibge-explica-arranjos-populacionais.html",
+                  "kind": "video"
+                },
+                {
+                  "title": "Território brasileiro: mapas e organização espacial",
+                  "provider": "IBGE Educa",
+                  "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/19639-nosso-territorio.html",
+                  "kind": "article"
                 }
               ]
             }
@@ -211,6 +383,172 @@
                   "kind": "course"
                 }
               ]
+            },
+            {
+              "id": "ecologia-biomas",
+              "title": "Ecologia, ciclos e biomas",
+              "description": "Relações ecológicas, cadeias alimentares, ciclos biogeoquímicos, biomas e impactos das atividades humanas.",
+              "tags": ["ecologia", "biomas", "cadeias alimentares", "ciclos biogeoquímicos", "impactos ambientais"],
+              "resources": [
+                {
+                  "title": "Introdução à ecologia",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/science/biologia-ensino-medio/x008af9690f00e6cd%3Aecologia/x008af9690f00e6cd%3Aintroducao-a-ecologia/a/hs-introduction-to-ecology-review",
+                  "kind": "article"
+                },
+                {
+                  "title": "Biomas brasileiros",
+                  "provider": "IBGE Educa",
+                  "url": "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/19635-ecossistemas.html",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "genetica-evolucao",
+              "title": "Genética e evolução",
+              "description": "Hereditariedade, DNA, expressão gênica, seleção natural, evidências evolutivas e diversidade dos seres vivos.",
+              "tags": ["genética", "DNA", "hereditariedade", "evolução", "seleção natural"],
+              "resources": [
+                {
+                  "title": "Genética: conceitos fundamentais",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/biologia/genetica.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "DNA e evidências da evolução",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/science/biologia-ensino-medio/x008af9690f00e6cd%3Aevolucao/x008af9690f00e6cd%3Aevidencias-da-evolucao/v/dna-e-evoluo",
+                  "kind": "video"
+                }
+              ]
+            },
+            {
+              "id": "citologia-fisiologia",
+              "title": "Citologia e fisiologia humana",
+              "description": "Estruturas celulares, metabolismo, tecidos e integração dos sistemas do corpo humano na manutenção da saúde.",
+              "tags": ["citologia", "células", "fisiologia", "corpo humano", "saúde"],
+              "resources": [
+                {
+                  "title": "Introdução às células eucarióticas",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/science/biologia-ensino-medio/x008af9690f00e6cd%3Acelulas/x008af9690f00e6cd%3Aestruturas-das-celulas-eucarioticas/a/intro-to-eukaryotic-cells",
+                  "kind": "article"
+                },
+                {
+                  "title": "Sistemas nervoso e endócrino",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/science/biologia-ensino-medio/x008af9690f00e6cd%3Asistemas-do-corpo-humano/x008af9690f00e6cd%3Asistema-nervoso-e-endocrino/a/hs-the-nervous-and-endocrine-systems-review",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "mecanica-energia",
+              "title": "Mecânica, trabalho e energia",
+              "description": "Movimento, forças, leis de Newton, trabalho, potência, energia e conservação em situações do cotidiano.",
+              "tags": ["mecânica", "força", "movimento", "trabalho", "energia"],
+              "resources": [
+                {
+                  "title": "Trabalho da força resultante e energia do movimento",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/fisica/trabalho-forca-resultante-energia-movimento.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Energia cinética: conceito e exercícios",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/fisica/energia-cinetica.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "eletricidade-circuitos",
+              "title": "Eletricidade e circuitos",
+              "description": "Carga, corrente, tensão, resistência, potência, consumo de energia e associações de componentes elétricos.",
+              "tags": ["eletricidade", "circuitos", "corrente elétrica", "resistência", "potência"],
+              "resources": [
+                {
+                  "title": "Eletricidade: conceitos fundamentais",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/fisica/eletricidade.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Circuitos elétricos: elementos e associações",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/fisica/circuitos-eletricos.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "ondas-termologia",
+              "title": "Ondas e termologia",
+              "description": "Fenômenos ondulatórios, som, luz, calor, temperatura, mudanças de estado e processos de transferência térmica.",
+              "tags": ["ondas", "som", "óptica", "calor", "termologia"],
+              "resources": [
+                {
+                  "title": "Ondas: propriedades e fenômenos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/fisica/ondas.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Introdução às ondas",
+                  "provider": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/science/physics/mechanical-waves-and-sound/mechanical-waves/v/introduction-to-waves",
+                  "kind": "video"
+                },
+                {
+                  "title": "Termologia: calor, temperatura e fenômenos térmicos",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/fisica/termologia.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "estequiometria-solucoes",
+              "title": "Estequiometria e soluções",
+              "description": "Balanceamento, quantidade de matéria, relações de massa, rendimento, concentração, diluição e misturas.",
+              "tags": ["estequiometria", "mol", "balanceamento", "soluções", "concentração"],
+              "resources": [
+                {
+                  "title": "Estequiometria: cálculos e relações químicas",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/quimica/estequiometria.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Soluções: conceitos e concentração",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/quimica/solucoes.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "quimica-organica-eletroquimica",
+              "title": "Química orgânica e eletroquímica",
+              "description": "Compostos de carbono, funções orgânicas, combustíveis, oxirredução, pilhas, eletrólise e aplicações ambientais.",
+              "tags": ["química orgânica", "funções orgânicas", "combustíveis", "eletroquímica", "oxirredução"],
+              "resources": [
+                {
+                  "title": "Química orgânica: compostos e funções",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/quimica/quimica-organica.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Eletroquímica: pilhas, baterias e eletrólise",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/quimica/eletroquimica.htm",
+                  "kind": "article"
+                }
+              ]
             }
           ]
         },
@@ -265,6 +603,24 @@
                   "provider": "Khan Academy",
                   "url": "https://pt.khanacademy.org/khan-for-educators/comunidade-de-aprendizgem/x6e0132fafebe738c%3Aa-educacao-no-brasil/x6e0132fafebe738c%3Akhan-academy-e-a-educacao-no-brasil/a/cursos-khan-brasil",
                   "kind": "course"
+                },
+                {
+                  "title": "Geometria plana: figuras, áreas e perímetros",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/matematica/geometria-plana.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Geometria espacial: sólidos, áreas e volumes",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/matematica/geometria-espacial.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Trigonometria: razões, relações e aplicações",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/matematica/trigonometria.htm",
+                  "kind": "article"
                 }
               ]
             },
@@ -285,6 +641,40 @@
                   "provider": "Brasil Escola",
                   "url": "https://vestibular.brasilescola.uol.com.br/enem/videos/matematica",
                   "kind": "video"
+                }
+              ]
+            },
+            {
+              "id": "matematica-financeira",
+              "title": "Matemática financeira",
+              "description": "Porcentagens sucessivas, descontos, acréscimos, juros simples e compostos em problemas do cotidiano.",
+              "tags": ["matemática financeira", "porcentagem", "juros", "desconto", "finanças"],
+              "resources": [
+                {
+                  "title": "Matemática financeira: conceitos e fórmulas",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/matematica/matematica-financeira.htm",
+                  "kind": "article"
+                },
+                {
+                  "title": "Juros compostos: fórmula e exercícios",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/matematica/juros-compostos.htm",
+                  "kind": "article"
+                }
+              ]
+            },
+            {
+              "id": "analise-combinatoria",
+              "title": "Análise combinatória",
+              "description": "Princípio fundamental da contagem, permutações, arranjos e combinações aplicados à resolução de problemas.",
+              "tags": ["análise combinatória", "contagem", "permutação", "arranjo", "combinação"],
+              "resources": [
+                {
+                  "title": "Análise combinatória: métodos de contagem",
+                  "provider": "Brasil Escola",
+                  "url": "https://brasilescola.uol.com.br/matematica/analise-combinatoria.htm",
+                  "kind": "article"
                 }
               ]
             }
